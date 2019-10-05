@@ -1,0 +1,82 @@
+<html>
+
+<head>
+
+<title>UWM</title>
+<style type="text/css">
+
+body{
+	font-size: 16pt;
+}
+
+ul.vertical{
+	list-style-type: disc;
+}
+
+ol{
+	list-style-type: decimal;
+}
+
+ul.horizontal
+{
+  display:flex;  
+  list-style: circle;
+} 
+
+li
+{
+  /* padding: 10px; */
+  color: #2874A6;
+  width: 50em;
+}
+
+
+</style>
+
+
+
+</head>
+
+
+<body>
+
+<br>
+
+
+<h2><FONT COLOR="#2874A6">Network Analysis - Game of Thrones</FONT></h2>
+
+<ul class="vertical">
+
+<li>  <FONT COLOR="#E74C3C">BOOK</FONT>
+<ul class="horizontal">
+  <li><a href="#" onclick="document.myform.formVar.value='./BOOK/Book1.json'; document.myform.submit(); return false">Book 1</a></li>
+    <li><a href="#" onclick="document.myform.formVar.value='./BOOK/Book2.json'; document.myform.submit(); return false">Book 2</a></li>
+      <li><a href="#" onclick="document.myform.formVar.value='./BOOK/Book3.json'; document.myform.submit(); return false">Book 3</a></li>
+        <li><a href="#" onclick="document.myform.formVar.value='./BOOK/Book4.json'; document.myform.submit(); return false">Book 4</a></li>
+          <li><a href="#" onclick="document.myform.formVar.value='./BOOK/Book5.json'; document.myform.submit(); return false">Book 5</a></li>
+            <li><a href="#" onclick="document.myform.formVar.value='./BOOK/Book45.json'; document.myform.submit(); return false">Book 4 and 5</a></li>
+            <li><a href="#" onclick="document.myform.formVar.value='./BOOK/All.json'; document.myform.submit(); return false">Book All</a></li>
+</ul>
+</li>
+
+<li> <FONT COLOR="#E74C3C">HBO</FONT>
+<ul class="horizontal">
+        <li><a href="#" onclick="document.myform.formVar.value='./HBO/season1.json'; document.myform.submit(); return false">Season 1</a></li>
+          <li><a href="#" onclick="document.myform.formVar.value='./HBO/season2.json'; document.myform.submit(); return false">Season 2</a></li>
+            <li><a href="#" onclick="document.myform.formVar.value='./HBO/season3.json'; document.myform.submit(); return false">Season 3</a></li>
+              <li><a href="#" onclick="document.myform.formVar.value='./HBO/season4.json'; document.myform.submit(); return false">Season 4</a></li>
+                <li><a href="#" onclick="document.myform.formVar.value='./HBO/season5.json'; document.myform.submit(); return false">Season 5</a></li>
+                  <li><a href="#" onclick="document.myform.formVar.value='./HBO/season6.json'; document.myform.submit(); return false">Season 6</a></li>
+                  <li><a href="#" onclick="document.myform.formVar.value='./HBO/season7.json'; document.myform.submit(); return false">Season 7</a></li>
+</ul>
+</li>
+
+<form method=post name="myform" action="http://localhost/network/network.php">
+  <input type="hidden" name="formVar" value="">
+</form>
+
+</ul>
+
+
+</body>
+</html>

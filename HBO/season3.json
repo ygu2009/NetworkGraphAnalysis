@@ -1,0 +1,4138 @@
+{
+    "nodes": [
+        {
+            "ID": "AEGON",
+            "Group": 3,
+            "NodeSize": 2,
+            "Centrality": {
+                "Degree": 2,
+                "Degree_fraction": 0.0163,
+                "Eigenvec": 0.0034,
+                "Btwness": 0.0,
+                "Clsness": 0.268,
+                "Katz": -0.03
+            }
+        },
+        {
+            "ID": "AERYS",
+            "Group": 4,
+            "NodeSize": 5,
+            "Centrality": {
+                "Degree": 5,
+                "Degree_fraction": 0.0407,
+                "Eigenvec": 0.0466,
+                "Btwness": 0.0231,
+                "Clsness": 0.3628,
+                "Katz": -0.01
+            }
+        },
+        {
+            "ID": "ANGUY",
+            "Group": 3,
+            "NodeSize": 7,
+            "Centrality": {
+                "Degree": 7,
+                "Degree_fraction": 0.0569,
+                "Eigenvec": 0.0353,
+                "Btwness": 0.0002,
+                "Clsness": 0.3106,
+                "Katz": -0.04
+            }
+        },
+        {
+            "ID": "ARYA",
+            "Group": 3,
+            "NodeSize": 16,
+            "Centrality": {
+                "Degree": 16,
+                "Degree_fraction": 0.1301,
+                "Eigenvec": 0.1331,
+                "Btwness": 0.0455,
+                "Clsness": 0.3955,
+                "Katz": 0.02
+            }
+        },
+        {
+            "ID": "BABY",
+            "Group": 0,
+            "NodeSize": 2,
+            "Centrality": {
+                "Degree": 2,
+                "Degree_fraction": 0.0163,
+                "Eigenvec": 0.0026,
+                "Btwness": 0.0,
+                "Clsness": 0.2421,
+                "Katz": -0.01
+            }
+        },
+        {
+            "ID": "BALERION",
+            "Group": 3,
+            "NodeSize": 1,
+            "Centrality": {
+                "Degree": 1,
+                "Degree_fraction": 0.0081,
+                "Eigenvec": 0.0026,
+                "Btwness": 0.0,
+                "Clsness": 0.2662,
+                "Katz": -0.03
+            }
+        },
+        {
+            "ID": "BALON",
+            "Group": 1,
+            "NodeSize": 5,
+            "Centrality": {
+                "Degree": 5,
+                "Degree_fraction": 0.0407,
+                "Eigenvec": 0.0348,
+                "Btwness": 0.0036,
+                "Clsness": 0.3342,
+                "Katz": 0.0
+            }
+        },
+        {
+            "ID": "BARRISTAN",
+            "Group": 4,
+            "NodeSize": 9,
+            "Centrality": {
+                "Degree": 9,
+                "Degree_fraction": 0.0732,
+                "Eigenvec": 0.0108,
+                "Btwness": 0.0395,
+                "Clsness": 0.3,
+                "Katz": -0.1
+            }
+        },
+        {
+            "ID": "BERIC",
+            "Group": 3,
+            "NodeSize": 8,
+            "Centrality": {
+                "Degree": 8,
+                "Degree_fraction": 0.065,
+                "Eigenvec": 0.0471,
+                "Btwness": 0.0031,
+                "Clsness": 0.3445,
+                "Katz": -0.02
+            }
+        },
+        {
+            "ID": "BERT",
+            "Group": 3,
+            "NodeSize": 1,
+            "Centrality": {
+                "Degree": 1,
+                "Degree_fraction": 0.0081,
+                "Eigenvec": 0.0008,
+                "Btwness": 0.0,
+                "Clsness": 0.2286,
+                "Katz": -0.03
+            }
+        },
+        {
+            "ID": "BLACK_WALDER",
+            "Group": 1,
+            "NodeSize": 6,
+            "Centrality": {
+                "Degree": 6,
+                "Degree_fraction": 0.0488,
+                "Eigenvec": 0.0552,
+                "Btwness": 0.0,
+                "Clsness": 0.3379,
+                "Katz": 0.02
+            }
+        },
+        {
+            "ID": "BOROS",
+            "Group": 2,
+            "NodeSize": 1,
+            "Centrality": {
+                "Degree": 1,
+                "Degree_fraction": 0.0081,
+                "Eigenvec": 0.0073,
+                "Btwness": 0.0,
+                "Clsness": 0.2465,
+                "Katz": -0.02
+            }
+        },
+        {
+            "ID": "BRAN",
+            "Group": 0,
+            "NodeSize": 17,
+            "Centrality": {
+                "Degree": 17,
+                "Degree_fraction": 0.1382,
+                "Eigenvec": 0.0745,
+                "Btwness": 0.148,
+                "Clsness": 0.4128,
+                "Katz": 0.29
+            }
+        },
+        {
+            "ID": "BRANDON_STARK",
+            "Group": 0,
+            "NodeSize": 2,
+            "Centrality": {
+                "Degree": 2,
+                "Degree_fraction": 0.0163,
+                "Eigenvec": 0.0156,
+                "Btwness": 0.0003,
+                "Clsness": 0.3298,
+                "Katz": 0.02
+            }
+        },
+        {
+            "ID": "BRIENNE",
+            "Group": 1,
+            "NodeSize": 5,
+            "Centrality": {
+                "Degree": 5,
+                "Degree_fraction": 0.0407,
+                "Eigenvec": 0.0402,
+                "Btwness": 0.0025,
+                "Clsness": 0.3426,
+                "Katz": 0.0
+            }
+        },
+        {
+            "ID": "BRONN",
+            "Group": 2,
+            "NodeSize": 14,
+            "Centrality": {
+                "Degree": 14,
+                "Degree_fraction": 0.1138,
+                "Eigenvec": 0.1826,
+                "Btwness": 0.0025,
+                "Clsness": 0.3379,
+                "Katz": 0.05
+            }
+        },
+        {
+            "ID": "BRYNDEN",
+            "Group": 1,
+            "NodeSize": 11,
+            "Centrality": {
+                "Degree": 11,
+                "Degree_fraction": 0.0894,
+                "Eigenvec": 0.0897,
+                "Btwness": 0.0006,
+                "Clsness": 0.3465,
+                "Katz": 0.05
+            }
+        },
+        {
+            "ID": "CATELYN",
+            "Group": 1,
+            "NodeSize": 22,
+            "Centrality": {
+                "Degree": 22,
+                "Degree_fraction": 0.1789,
+                "Eigenvec": 0.1767,
+                "Btwness": 0.1235,
+                "Clsness": 0.4522,
+                "Katz": 0.16
+            }
+        },
+        {
+            "ID": "CERSEI",
+            "Group": 2,
+            "NodeSize": 20,
+            "Centrality": {
+                "Degree": 20,
+                "Degree_fraction": 0.1626,
+                "Eigenvec": 0.2343,
+                "Btwness": 0.0188,
+                "Clsness": 0.3607,
+                "Katz": 0.06
+            }
+        },
+        {
+            "ID": "CRASTER",
+            "Group": 0,
+            "NodeSize": 7,
+            "Centrality": {
+                "Degree": 7,
+                "Degree_fraction": 0.0569,
+                "Eigenvec": 0.007,
+                "Btwness": 0.0081,
+                "Clsness": 0.2922,
+                "Katz": 0.01
+            }
+        },
+        {
+            "ID": "DAARIO",
+            "Group": 4,
+            "NodeSize": 7,
+            "Centrality": {
+                "Degree": 7,
+                "Degree_fraction": 0.0569,
+                "Eigenvec": 0.0025,
+                "Btwness": 0.0002,
+                "Clsness": 0.2356,
+                "Katz": -0.09
+            }
+        },
+        {
+            "ID": "DAENERYS",
+            "Group": 4,
+            "NodeSize": 12,
+            "Centrality": {
+                "Degree": 12,
+                "Degree_fraction": 0.0976,
+                "Eigenvec": 0.0081,
+                "Btwness": 0.0603,
+                "Clsness": 0.2978,
+                "Katz": -0.12
+            }
+        },
+        {
+            "ID": "DAREON",
+            "Group": 0,
+            "NodeSize": 2,
+            "Centrality": {
+                "Degree": 2,
+                "Degree_fraction": 0.0163,
+                "Eigenvec": 0.0015,
+                "Btwness": 0.0163,
+                "Clsness": 0.2426,
+                "Katz": -0.02
+            }
+        },
+        {
+            "ID": "DAVOS",
+            "Group": 3,
+            "NodeSize": 10,
+            "Centrality": {
+                "Degree": 10,
+                "Degree_fraction": 0.0813,
+                "Eigenvec": 0.0367,
+                "Btwness": 0.0644,
+                "Clsness": 0.3618,
+                "Katz": -0.04
+            }
+        },
+        {
+            "ID": "DESMOND",
+            "Group": 2,
+            "NodeSize": 3,
+            "Centrality": {
+                "Degree": 3,
+                "Degree_fraction": 0.0244,
+                "Eigenvec": 0.0361,
+                "Btwness": 0.0163,
+                "Clsness": 0.3015,
+                "Katz": -0.01
+            }
+        },
+        {
+            "ID": "DROGO",
+            "Group": 4,
+            "NodeSize": 1,
+            "Centrality": {
+                "Degree": 1,
+                "Degree_fraction": 0.0081,
+                "Eigenvec": 0.0006,
+                "Btwness": 0.0,
+                "Clsness": 0.2299,
+                "Katz": -0.04
+            }
+        },
+        {
+            "ID": "EDDISON_TOLLETT",
+            "Group": 0,
+            "NodeSize": 6,
+            "Centrality": {
+                "Degree": 6,
+                "Degree_fraction": 0.0488,
+                "Eigenvec": 0.0033,
+                "Btwness": 0.0,
+                "Clsness": 0.244,
+                "Katz": -0.02
+            }
+        },
+        {
+            "ID": "EDMURE",
+            "Group": 1,
+            "NodeSize": 15,
+            "Centrality": {
+                "Degree": 15,
+                "Degree_fraction": 0.122,
+                "Eigenvec": 0.1244,
+                "Btwness": 0.0125,
+                "Clsness": 0.388,
+                "Katz": 0.06
+            }
+        },
+        {
+            "ID": "ELDRICK",
+            "Group": 2,
+            "NodeSize": 1,
+            "Centrality": {
+                "Degree": 1,
+                "Degree_fraction": 0.0081,
+                "Eigenvec": 0.0026,
+                "Btwness": 0.0,
+                "Clsness": 0.2321,
+                "Katz": -0.03
+            }
+        },
+        {
+            "ID": "FARMER",
+            "Group": 0,
+            "NodeSize": 10,
+            "Centrality": {
+                "Degree": 10,
+                "Degree_fraction": 0.0813,
+                "Eigenvec": 0.0303,
+                "Btwness": 0.0,
+                "Clsness": 0.3045,
+                "Katz": 0.23
+            }
+        },
+        {
+            "ID": "FREY_SEPTON",
+            "Group": 1,
+            "NodeSize": 3,
+            "Centrality": {
+                "Degree": 3,
+                "Degree_fraction": 0.0244,
+                "Eigenvec": 0.0237,
+                "Btwness": 0.0,
+                "Clsness": 0.2881,
+                "Katz": -0.01
+            }
+        },
+        {
+            "ID": "GENDRY",
+            "Group": 3,
+            "NodeSize": 11,
+            "Centrality": {
+                "Degree": 11,
+                "Degree_fraction": 0.0894,
+                "Eigenvec": 0.0699,
+                "Btwness": 0.0152,
+                "Clsness": 0.3545,
+                "Katz": -0.03
+            }
+        },
+        {
+            "ID": "GILLY",
+            "Group": 0,
+            "NodeSize": 9,
+            "Centrality": {
+                "Degree": 9,
+                "Degree_fraction": 0.0732,
+                "Eigenvec": 0.0154,
+                "Btwness": 0.0236,
+                "Clsness": 0.3083,
+                "Katz": 0.09
+            }
+        },
+        {
+            "ID": "GREIZHEN",
+            "Group": 4,
+            "NodeSize": 4,
+            "Centrality": {
+                "Degree": 4,
+                "Degree_fraction": 0.0325,
+                "Eigenvec": 0.0015,
+                "Btwness": 0.0,
+                "Clsness": 0.2312,
+                "Katz": -0.07
+            }
+        },
+        {
+            "ID": "GRENN",
+            "Group": 0,
+            "NodeSize": 6,
+            "Centrality": {
+                "Degree": 6,
+                "Degree_fraction": 0.0488,
+                "Eigenvec": 0.0033,
+                "Btwness": 0.0,
+                "Clsness": 0.244,
+                "Katz": -0.02
+            }
+        },
+        {
+            "ID": "GREY_WORM",
+            "Group": 4,
+            "NodeSize": 6,
+            "Centrality": {
+                "Degree": 6,
+                "Degree_fraction": 0.0488,
+                "Eigenvec": 0.0024,
+                "Btwness": 0.0001,
+                "Clsness": 0.2352,
+                "Katz": -0.09
+            }
+        },
+        {
+            "ID": "HIGH_SEPTON",
+            "Group": 2,
+            "NodeSize": 10,
+            "Centrality": {
+                "Degree": 10,
+                "Degree_fraction": 0.0813,
+                "Eigenvec": 0.1564,
+                "Btwness": 0.0,
+                "Clsness": 0.3333,
+                "Katz": 0.04
+            }
+        },
+        {
+            "ID": "HOBB",
+            "Group": 0,
+            "NodeSize": 1,
+            "Centrality": {
+                "Degree": 1,
+                "Degree_fraction": 0.0081,
+                "Eigenvec": 0.0001,
+                "Btwness": 0.0,
+                "Clsness": 0.1955,
+                "Katz": -0.03
+            }
+        },
+        {
+            "ID": "HODOR",
+            "Group": 0,
+            "NodeSize": 12,
+            "Centrality": {
+                "Degree": 12,
+                "Degree_fraction": 0.0976,
+                "Eigenvec": 0.0327,
+                "Btwness": 0.0018,
+                "Clsness": 0.313,
+                "Katz": 0.25
+            }
+        },
+        {
+            "ID": "HOSTER",
+            "Group": 1,
+            "NodeSize": 4,
+            "Centrality": {
+                "Degree": 4,
+                "Degree_fraction": 0.0325,
+                "Eigenvec": 0.046,
+                "Btwness": 0.0,
+                "Clsness": 0.337,
+                "Katz": 0.02
+            }
+        },
+        {
+            "ID": "HOT_PIE",
+            "Group": 3,
+            "NodeSize": 4,
+            "Centrality": {
+                "Degree": 4,
+                "Degree_fraction": 0.0325,
+                "Eigenvec": 0.0207,
+                "Btwness": 0.0,
+                "Clsness": 0.306,
+                "Katz": -0.03
+            }
+        },
+        {
+            "ID": "HOUND",
+            "Group": 3,
+            "NodeSize": 14,
+            "Centrality": {
+                "Degree": 14,
+                "Degree_fraction": 0.1138,
+                "Eigenvec": 0.1305,
+                "Btwness": 0.0194,
+                "Clsness": 0.3917,
+                "Katz": 0.04
+            }
+        },
+        {
+            "ID": "ILYN_PAYNE",
+            "Group": 3,
+            "NodeSize": 6,
+            "Centrality": {
+                "Degree": 6,
+                "Degree_fraction": 0.0488,
+                "Eigenvec": 0.0707,
+                "Btwness": 0.0015,
+                "Clsness": 0.3504,
+                "Katz": 0.01
+            }
+        },
+        {
+            "ID": "JAIME",
+            "Group": 1,
+            "NodeSize": 17,
+            "Centrality": {
+                "Degree": 17,
+                "Degree_fraction": 0.1382,
+                "Eigenvec": 0.1709,
+                "Btwness": 0.0435,
+                "Clsness": 0.4169,
+                "Katz": 0.06
+            }
+        },
+        {
+            "ID": "JEOR",
+            "Group": 0,
+            "NodeSize": 7,
+            "Centrality": {
+                "Degree": 7,
+                "Degree_fraction": 0.0569,
+                "Eigenvec": 0.007,
+                "Btwness": 0.0081,
+                "Clsness": 0.2922,
+                "Katz": 0.01
+            }
+        },
+        {
+            "ID": "JOANNA",
+            "Group": 2,
+            "NodeSize": 1,
+            "Centrality": {
+                "Degree": 1,
+                "Degree_fraction": 0.0081,
+                "Eigenvec": 0.0209,
+                "Btwness": 0.0,
+                "Clsness": 0.3106,
+                "Katz": -0.01
+            }
+        },
+        {
+            "ID": "JOFFREY",
+            "Group": 2,
+            "NodeSize": 21,
+            "Centrality": {
+                "Degree": 21,
+                "Degree_fraction": 0.1707,
+                "Eigenvec": 0.2504,
+                "Btwness": 0.0362,
+                "Clsness": 0.4241,
+                "Katz": 0.08
+            }
+        },
+        {
+            "ID": "JOJEN",
+            "Group": 0,
+            "NodeSize": 14,
+            "Centrality": {
+                "Degree": 14,
+                "Degree_fraction": 0.1138,
+                "Eigenvec": 0.0434,
+                "Btwness": 0.035,
+                "Clsness": 0.365,
+                "Katz": 0.26
+            }
+        },
+        {
+            "ID": "JON",
+            "Group": 0,
+            "NodeSize": 19,
+            "Centrality": {
+                "Degree": 19,
+                "Degree_fraction": 0.1545,
+                "Eigenvec": 0.0561,
+                "Btwness": 0.136,
+                "Clsness": 0.3905,
+                "Katz": 0.28
+            }
+        },
+        {
+            "ID": "JORAH",
+            "Group": 4,
+            "NodeSize": 10,
+            "Centrality": {
+                "Degree": 10,
+                "Degree_fraction": 0.0813,
+                "Eigenvec": 0.008,
+                "Btwness": 0.0382,
+                "Clsness": 0.2964,
+                "Katz": -0.11
+            }
+        },
+        {
+            "ID": "JOYEUSE",
+            "Group": 1,
+            "NodeSize": 7,
+            "Centrality": {
+                "Degree": 7,
+                "Degree_fraction": 0.0569,
+                "Eigenvec": 0.0647,
+                "Btwness": 0.0001,
+                "Clsness": 0.3398,
+                "Katz": 0.03
+            }
+        },
+        {
+            "ID": "KARL_TANNER",
+            "Group": 0,
+            "NodeSize": 6,
+            "Centrality": {
+                "Degree": 6,
+                "Degree_fraction": 0.0488,
+                "Eigenvec": 0.0033,
+                "Btwness": 0.0,
+                "Clsness": 0.244,
+                "Katz": -0.02
+            }
+        },
+        {
+            "ID": "KRAZNYS_MO_NAKLOZ",
+            "Group": 4,
+            "NodeSize": 5,
+            "Centrality": {
+                "Degree": 5,
+                "Degree_fraction": 0.0407,
+                "Eigenvec": 0.0022,
+                "Btwness": 0.0001,
+                "Clsness": 0.2347,
+                "Katz": -0.08
+            }
+        },
+        {
+            "ID": "LITTLEFINGER",
+            "Group": 2,
+            "NodeSize": 10,
+            "Centrality": {
+                "Degree": 10,
+                "Degree_fraction": 0.0813,
+                "Eigenvec": 0.121,
+                "Btwness": 0.0072,
+                "Clsness": 0.3315,
+                "Katz": 0.02
+            }
+        },
+        {
+            "ID": "LOCKE",
+            "Group": 1,
+            "NodeSize": 6,
+            "Centrality": {
+                "Degree": 6,
+                "Degree_fraction": 0.0488,
+                "Eigenvec": 0.0547,
+                "Btwness": 0.0005,
+                "Clsness": 0.3306,
+                "Katz": -0.0
+            }
+        },
+        {
+            "ID": "LORAS",
+            "Group": 2,
+            "NodeSize": 15,
+            "Centrality": {
+                "Degree": 15,
+                "Degree_fraction": 0.122,
+                "Eigenvec": 0.1885,
+                "Btwness": 0.0159,
+                "Clsness": 0.3398,
+                "Katz": 0.05
+            }
+        },
+        {
+            "ID": "LORD_OF_BONES",
+            "Group": 0,
+            "NodeSize": 4,
+            "Centrality": {
+                "Degree": 4,
+                "Degree_fraction": 0.0325,
+                "Eigenvec": 0.0093,
+                "Btwness": 0.0,
+                "Clsness": 0.2834,
+                "Katz": 0.06
+            }
+        },
+        {
+            "ID": "LOTHAR",
+            "Group": 1,
+            "NodeSize": 8,
+            "Centrality": {
+                "Degree": 8,
+                "Degree_fraction": 0.065,
+                "Eigenvec": 0.071,
+                "Btwness": 0.0001,
+                "Clsness": 0.3407,
+                "Katz": 0.04
+            }
+        },
+        {
+            "ID": "LYSA",
+            "Group": 2,
+            "NodeSize": 2,
+            "Centrality": {
+                "Degree": 2,
+                "Degree_fraction": 0.0163,
+                "Eigenvec": 0.0332,
+                "Btwness": 0.0,
+                "Clsness": 0.3146,
+                "Katz": -0.01
+            }
+        },
+        {
+            "ID": "MACE",
+            "Group": 2,
+            "NodeSize": 3,
+            "Centrality": {
+                "Degree": 3,
+                "Degree_fraction": 0.0244,
+                "Eigenvec": 0.0388,
+                "Btwness": 0.0,
+                "Clsness": 0.2645,
+                "Katz": -0.01
+            }
+        },
+        {
+            "ID": "MAESTER_AEMON",
+            "Group": 0,
+            "NodeSize": 2,
+            "Centrality": {
+                "Degree": 2,
+                "Degree_fraction": 0.0163,
+                "Eigenvec": 0.0026,
+                "Btwness": 0.0,
+                "Clsness": 0.2421,
+                "Katz": -0.01
+            }
+        },
+        {
+            "ID": "MAESTER_LUWIN",
+            "Group": 0,
+            "NodeSize": 1,
+            "Centrality": {
+                "Degree": 1,
+                "Degree_fraction": 0.0081,
+                "Eigenvec": 0.0053,
+                "Btwness": 0.0,
+                "Clsness": 0.2929,
+                "Katz": 0.0
+            }
+        },
+        {
+            "ID": "MANCE",
+            "Group": 0,
+            "NodeSize": 5,
+            "Centrality": {
+                "Degree": 5,
+                "Degree_fraction": 0.0407,
+                "Eigenvec": 0.0114,
+                "Btwness": 0.0,
+                "Clsness": 0.2841,
+                "Katz": 0.08
+            }
+        },
+        {
+            "ID": "MAREI",
+            "Group": 2,
+            "NodeSize": 1,
+            "Centrality": {
+                "Degree": 1,
+                "Degree_fraction": 0.0081,
+                "Eigenvec": 0.0191,
+                "Btwness": 0.0,
+                "Clsness": 0.295,
+                "Katz": -0.01
+            }
+        },
+        {
+            "ID": "MARGAERY",
+            "Group": 2,
+            "NodeSize": 12,
+            "Centrality": {
+                "Degree": 12,
+                "Degree_fraction": 0.0976,
+                "Eigenvec": 0.1669,
+                "Btwness": 0.0039,
+                "Clsness": 0.3351,
+                "Katz": 0.04
+            }
+        },
+        {
+            "ID": "MARTYN",
+            "Group": 1,
+            "NodeSize": 3,
+            "Centrality": {
+                "Degree": 3,
+                "Degree_fraction": 0.0244,
+                "Eigenvec": 0.0251,
+                "Btwness": 0.0027,
+                "Clsness": 0.3271,
+                "Katz": -0.01
+            }
+        },
+        {
+            "ID": "MATTHOS",
+            "Group": 3,
+            "NodeSize": 1,
+            "Centrality": {
+                "Degree": 1,
+                "Degree_fraction": 0.0081,
+                "Eigenvec": 0.0026,
+                "Btwness": 0.0,
+                "Clsness": 0.2662,
+                "Katz": -0.03
+            }
+        },
+        {
+            "ID": "MEERA",
+            "Group": 0,
+            "NodeSize": 12,
+            "Centrality": {
+                "Degree": 12,
+                "Degree_fraction": 0.0976,
+                "Eigenvec": 0.0327,
+                "Btwness": 0.0018,
+                "Clsness": 0.313,
+                "Katz": 0.25
+            }
+        },
+        {
+            "ID": "MELISANDRE",
+            "Group": 3,
+            "NodeSize": 9,
+            "Centrality": {
+                "Degree": 9,
+                "Degree_fraction": 0.0732,
+                "Eigenvec": 0.0411,
+                "Btwness": 0.0099,
+                "Clsness": 0.3315,
+                "Katz": -0.05
+            }
+        },
+        {
+            "ID": "MERO",
+            "Group": 4,
+            "NodeSize": 6,
+            "Centrality": {
+                "Degree": 6,
+                "Degree_fraction": 0.0488,
+                "Eigenvec": 0.0018,
+                "Btwness": 0.0,
+                "Clsness": 0.2321,
+                "Katz": -0.08
+            }
+        },
+        {
+            "ID": "MERRY",
+            "Group": 1,
+            "NodeSize": 1,
+            "Centrality": {
+                "Degree": 1,
+                "Degree_fraction": 0.0081,
+                "Eigenvec": 0.0092,
+                "Btwness": 0.0,
+                "Clsness": 0.2821,
+                "Katz": -0.02
+            }
+        },
+        {
+            "ID": "MERYN_TRANT",
+            "Group": 2,
+            "NodeSize": 10,
+            "Centrality": {
+                "Degree": 10,
+                "Degree_fraction": 0.0813,
+                "Eigenvec": 0.1022,
+                "Btwness": 0.0183,
+                "Clsness": 0.3263,
+                "Katz": 0.01
+            }
+        },
+        {
+            "ID": "MISSANDEI",
+            "Group": 4,
+            "NodeSize": 10,
+            "Centrality": {
+                "Degree": 10,
+                "Degree_fraction": 0.0813,
+                "Eigenvec": 0.0029,
+                "Btwness": 0.001,
+                "Clsness": 0.237,
+                "Katz": -0.11
+            }
+        },
+        {
+            "ID": "MOUNTAIN",
+            "Group": 3,
+            "NodeSize": 5,
+            "Centrality": {
+                "Degree": 5,
+                "Degree_fraction": 0.0407,
+                "Eigenvec": 0.0548,
+                "Btwness": 0.0019,
+                "Clsness": 0.3628,
+                "Katz": 0.0
+            }
+        },
+        {
+            "ID": "MYCAH",
+            "Group": 3,
+            "NodeSize": 1,
+            "Centrality": {
+                "Degree": 1,
+                "Degree_fraction": 0.0081,
+                "Eigenvec": 0.0095,
+                "Btwness": 0.0,
+                "Clsness": 0.2841,
+                "Katz": -0.02
+            }
+        },
+        {
+            "ID": "MYRANDA",
+            "Group": 1,
+            "NodeSize": 3,
+            "Centrality": {
+                "Degree": 3,
+                "Degree_fraction": 0.0244,
+                "Eigenvec": 0.0066,
+                "Btwness": 0.0,
+                "Clsness": 0.2709,
+                "Katz": -0.02
+            }
+        },
+        {
+            "ID": "NED",
+            "Group": 3,
+            "NodeSize": 16,
+            "Centrality": {
+                "Degree": 16,
+                "Degree_fraction": 0.1301,
+                "Eigenvec": 0.1452,
+                "Btwness": 0.1746,
+                "Clsness": 0.4556,
+                "Katz": 0.11
+            }
+        },
+        {
+            "ID": "OLENNA",
+            "Group": 2,
+            "NodeSize": 15,
+            "Centrality": {
+                "Degree": 15,
+                "Degree_fraction": 0.122,
+                "Eigenvec": 0.1905,
+                "Btwness": 0.0186,
+                "Clsness": 0.3514,
+                "Katz": 0.05
+            }
+        },
+        {
+            "ID": "OLYVAR",
+            "Group": 2,
+            "NodeSize": 2,
+            "Centrality": {
+                "Degree": 2,
+                "Degree_fraction": 0.0163,
+                "Eigenvec": 0.022,
+                "Btwness": 0.0,
+                "Clsness": 0.2568,
+                "Katz": -0.02
+            }
+        },
+        {
+            "ID": "ORELL",
+            "Group": 0,
+            "NodeSize": 11,
+            "Centrality": {
+                "Degree": 11,
+                "Degree_fraction": 0.0894,
+                "Eigenvec": 0.0311,
+                "Btwness": 0.0009,
+                "Clsness": 0.3052,
+                "Katz": 0.24
+            }
+        },
+        {
+            "ID": "OSHA",
+            "Group": 0,
+            "NodeSize": 10,
+            "Centrality": {
+                "Degree": 10,
+                "Degree_fraction": 0.0813,
+                "Eigenvec": 0.0303,
+                "Btwness": 0.0,
+                "Clsness": 0.3045,
+                "Katz": 0.23
+            }
+        },
+        {
+            "ID": "PODRICK",
+            "Group": 2,
+            "NodeSize": 8,
+            "Centrality": {
+                "Degree": 8,
+                "Degree_fraction": 0.065,
+                "Eigenvec": 0.1044,
+                "Btwness": 0.0005,
+                "Clsness": 0.3237,
+                "Katz": 0.02
+            }
+        },
+        {
+            "ID": "PRENDAHL",
+            "Group": 4,
+            "NodeSize": 5,
+            "Centrality": {
+                "Degree": 5,
+                "Degree_fraction": 0.0407,
+                "Eigenvec": 0.0017,
+                "Btwness": 0.0,
+                "Clsness": 0.2316,
+                "Katz": -0.08
+            }
+        },
+        {
+            "ID": "PYCELLE",
+            "Group": 2,
+            "NodeSize": 13,
+            "Centrality": {
+                "Degree": 13,
+                "Degree_fraction": 0.1057,
+                "Eigenvec": 0.1872,
+                "Btwness": 0.0007,
+                "Clsness": 0.3379,
+                "Katz": 0.06
+            }
+        },
+        {
+            "ID": "PYP",
+            "Group": 0,
+            "NodeSize": 2,
+            "Centrality": {
+                "Degree": 2,
+                "Degree_fraction": 0.0163,
+                "Eigenvec": 0.0055,
+                "Btwness": 0.0,
+                "Clsness": 0.2887,
+                "Katz": 0.01
+            }
+        },
+        {
+            "ID": "QHORIN_HALFHAND",
+            "Group": 0,
+            "NodeSize": 2,
+            "Centrality": {
+                "Degree": 2,
+                "Degree_fraction": 0.0163,
+                "Eigenvec": 0.0063,
+                "Btwness": 0.0,
+                "Clsness": 0.2821,
+                "Katz": 0.03
+            }
+        },
+        {
+            "ID": "QYBURN",
+            "Group": 1,
+            "NodeSize": 7,
+            "Centrality": {
+                "Degree": 7,
+                "Degree_fraction": 0.0569,
+                "Eigenvec": 0.0731,
+                "Btwness": 0.0037,
+                "Clsness": 0.3618,
+                "Katz": 0.02
+            }
+        },
+        {
+            "ID": "RADZAI_MO_ERAZ",
+            "Group": 4,
+            "NodeSize": 3,
+            "Centrality": {
+                "Degree": 3,
+                "Degree_fraction": 0.0244,
+                "Eigenvec": 0.0016,
+                "Btwness": 0.0,
+                "Clsness": 0.2338,
+                "Katz": -0.06
+            }
+        },
+        {
+            "ID": "RAMSAY",
+            "Group": 1,
+            "NodeSize": 7,
+            "Centrality": {
+                "Degree": 7,
+                "Degree_fraction": 0.0569,
+                "Eigenvec": 0.0357,
+                "Btwness": 0.0145,
+                "Clsness": 0.3361,
+                "Katz": -0.0
+            }
+        },
+        {
+            "ID": "RANDYLL",
+            "Group": 0,
+            "NodeSize": 2,
+            "Centrality": {
+                "Degree": 2,
+                "Degree_fraction": 0.0163,
+                "Eigenvec": 0.0026,
+                "Btwness": 0.0,
+                "Clsness": 0.2421,
+                "Katz": -0.01
+            }
+        },
+        {
+            "ID": "RAST",
+            "Group": 0,
+            "NodeSize": 7,
+            "Centrality": {
+                "Degree": 7,
+                "Degree_fraction": 0.0569,
+                "Eigenvec": 0.0043,
+                "Btwness": 0.0003,
+                "Clsness": 0.2445,
+                "Katz": -0.01
+            }
+        },
+        {
+            "ID": "RENLY",
+            "Group": 2,
+            "NodeSize": 9,
+            "Centrality": {
+                "Degree": 9,
+                "Degree_fraction": 0.0732,
+                "Eigenvec": 0.1201,
+                "Btwness": 0.0045,
+                "Clsness": 0.3524,
+                "Katz": 0.02
+            }
+        },
+        {
+            "ID": "RICKARD_KARSTARK",
+            "Group": 1,
+            "NodeSize": 11,
+            "Centrality": {
+                "Degree": 11,
+                "Degree_fraction": 0.0894,
+                "Eigenvec": 0.0918,
+                "Btwness": 0.018,
+                "Clsness": 0.3694,
+                "Katz": 0.05
+            }
+        },
+        {
+            "ID": "RICKON",
+            "Group": 0,
+            "NodeSize": 13,
+            "Centrality": {
+                "Degree": 13,
+                "Degree_fraction": 0.1057,
+                "Eigenvec": 0.0621,
+                "Btwness": 0.0323,
+                "Clsness": 0.375,
+                "Katz": 0.26
+            }
+        },
+        {
+            "ID": "ROBB",
+            "Group": 1,
+            "NodeSize": 31,
+            "Centrality": {
+                "Degree": 31,
+                "Degree_fraction": 0.252,
+                "Eigenvec": 0.2508,
+                "Btwness": 0.2381,
+                "Clsness": 0.4786,
+                "Katz": 0.16
+            }
+        },
+        {
+            "ID": "ROBERT",
+            "Group": 4,
+            "NodeSize": 12,
+            "Centrality": {
+                "Degree": 12,
+                "Degree_fraction": 0.0976,
+                "Eigenvec": 0.0783,
+                "Btwness": 0.1612,
+                "Clsness": 0.3955,
+                "Katz": -0.04
+            }
+        },
+        {
+            "ID": "ROOSE_BOLTON",
+            "Group": 1,
+            "NodeSize": 18,
+            "Centrality": {
+                "Degree": 18,
+                "Degree_fraction": 0.1463,
+                "Eigenvec": 0.1437,
+                "Btwness": 0.0316,
+                "Clsness": 0.4033,
+                "Katz": 0.06
+            }
+        },
+        {
+            "ID": "ROS",
+            "Group": 2,
+            "NodeSize": 4,
+            "Centrality": {
+                "Degree": 4,
+                "Degree_fraction": 0.0325,
+                "Eigenvec": 0.0494,
+                "Btwness": 0.0,
+                "Clsness": 0.2985,
+                "Katz": -0.0
+            }
+        },
+        {
+            "ID": "ROSLIN",
+            "Group": 1,
+            "NodeSize": 10,
+            "Centrality": {
+                "Degree": 10,
+                "Degree_fraction": 0.0813,
+                "Eigenvec": 0.0793,
+                "Btwness": 0.0027,
+                "Clsness": 0.3436,
+                "Katz": 0.04
+            }
+        },
+        {
+            "ID": "RYLENE",
+            "Group": 3,
+            "NodeSize": 2,
+            "Centrality": {
+                "Degree": 2,
+                "Degree_fraction": 0.0163,
+                "Eigenvec": 0.0106,
+                "Btwness": 0.0,
+                "Clsness": 0.2929,
+                "Katz": -0.03
+            }
+        },
+        {
+            "ID": "SALLADHOR",
+            "Group": 3,
+            "NodeSize": 2,
+            "Centrality": {
+                "Degree": 2,
+                "Degree_fraction": 0.0163,
+                "Eigenvec": 0.0106,
+                "Btwness": 0.0,
+                "Clsness": 0.2929,
+                "Katz": -0.03
+            }
+        },
+        {
+            "ID": "SAM",
+            "Group": 0,
+            "NodeSize": 17,
+            "Centrality": {
+                "Degree": 17,
+                "Degree_fraction": 0.1382,
+                "Eigenvec": 0.0211,
+                "Btwness": 0.1022,
+                "Clsness": 0.3178,
+                "Katz": 0.11
+            }
+        },
+        {
+            "ID": "SANSA",
+            "Group": 2,
+            "NodeSize": 19,
+            "Centrality": {
+                "Degree": 19,
+                "Degree_fraction": 0.1545,
+                "Eigenvec": 0.237,
+                "Btwness": 0.034,
+                "Clsness": 0.4059,
+                "Katz": 0.08
+            }
+        },
+        {
+            "ID": "SELWYN",
+            "Group": 1,
+            "NodeSize": 3,
+            "Centrality": {
+                "Degree": 3,
+                "Degree_fraction": 0.0244,
+                "Eigenvec": 0.0202,
+                "Btwness": 0.0,
+                "Clsness": 0.2971,
+                "Katz": -0.02
+            }
+        },
+        {
+            "ID": "SELYSE",
+            "Group": 3,
+            "NodeSize": 3,
+            "Centrality": {
+                "Degree": 3,
+                "Degree_fraction": 0.0244,
+                "Eigenvec": 0.0118,
+                "Btwness": 0.0003,
+                "Clsness": 0.2964,
+                "Katz": -0.03
+            }
+        },
+        {
+            "ID": "SHAE",
+            "Group": 2,
+            "NodeSize": 10,
+            "Centrality": {
+                "Degree": 10,
+                "Degree_fraction": 0.0813,
+                "Eigenvec": 0.1328,
+                "Btwness": 0.0013,
+                "Clsness": 0.3333,
+                "Katz": 0.03
+            }
+        },
+        {
+            "ID": "SHIREEN",
+            "Group": 3,
+            "NodeSize": 5,
+            "Centrality": {
+                "Degree": 5,
+                "Degree_fraction": 0.0407,
+                "Eigenvec": 0.0118,
+                "Btwness": 0.018,
+                "Clsness": 0.2957,
+                "Katz": -0.04
+            }
+        },
+        {
+            "ID": "SORCERER",
+            "Group": 2,
+            "NodeSize": 2,
+            "Centrality": {
+                "Degree": 2,
+                "Degree_fraction": 0.0163,
+                "Eigenvec": 0.0314,
+                "Btwness": 0.0,
+                "Clsness": 0.2964,
+                "Katz": -0.01
+            }
+        },
+        {
+            "ID": "STANNIS",
+            "Group": 3,
+            "NodeSize": 14,
+            "Centrality": {
+                "Degree": 14,
+                "Degree_fraction": 0.1138,
+                "Eigenvec": 0.1131,
+                "Btwness": 0.0769,
+                "Clsness": 0.4073,
+                "Katz": -0.0
+            }
+        },
+        {
+            "ID": "STEELSHANKS_WALTON",
+            "Group": 1,
+            "NodeSize": 4,
+            "Centrality": {
+                "Degree": 4,
+                "Degree_fraction": 0.0325,
+                "Eigenvec": 0.0472,
+                "Btwness": 0.0,
+                "Clsness": 0.3289,
+                "Katz": -0.0
+            }
+        },
+        {
+            "ID": "TALISA",
+            "Group": 1,
+            "NodeSize": 12,
+            "Centrality": {
+                "Degree": 12,
+                "Degree_fraction": 0.0976,
+                "Eigenvec": 0.0938,
+                "Btwness": 0.0023,
+                "Clsness": 0.3484,
+                "Katz": 0.05
+            }
+        },
+        {
+            "ID": "TARYN_MANT",
+            "Group": 2,
+            "NodeSize": 4,
+            "Centrality": {
+                "Degree": 4,
+                "Degree_fraction": 0.0325,
+                "Eigenvec": 0.056,
+                "Btwness": 0.0,
+                "Clsness": 0.3075,
+                "Katz": -0.0
+            }
+        },
+        {
+            "ID": "THEON",
+            "Group": 1,
+            "NodeSize": 11,
+            "Centrality": {
+                "Degree": 11,
+                "Degree_fraction": 0.0894,
+                "Eigenvec": 0.0511,
+                "Btwness": 0.0513,
+                "Clsness": 0.3683,
+                "Katz": 0.05
+            }
+        },
+        {
+            "ID": "THOROS",
+            "Group": 3,
+            "NodeSize": 10,
+            "Centrality": {
+                "Degree": 10,
+                "Degree_fraction": 0.0813,
+                "Eigenvec": 0.0537,
+                "Btwness": 0.0102,
+                "Clsness": 0.3618,
+                "Katz": -0.03
+            }
+        },
+        {
+            "ID": "TORMUND",
+            "Group": 0,
+            "NodeSize": 12,
+            "Centrality": {
+                "Degree": 12,
+                "Degree_fraction": 0.0976,
+                "Eigenvec": 0.0317,
+                "Btwness": 0.002,
+                "Clsness": 0.306,
+                "Katz": 0.24
+            }
+        },
+        {
+            "ID": "TORTURER",
+            "Group": 1,
+            "NodeSize": 1,
+            "Centrality": {
+                "Degree": 1,
+                "Degree_fraction": 0.0081,
+                "Eigenvec": 0.0036,
+                "Btwness": 0.0,
+                "Clsness": 0.2697,
+                "Katz": -0.02
+            }
+        },
+        {
+            "ID": "TYRION",
+            "Group": 2,
+            "NodeSize": 25,
+            "Centrality": {
+                "Degree": 25,
+                "Degree_fraction": 0.2033,
+                "Eigenvec": 0.269,
+                "Btwness": 0.0987,
+                "Clsness": 0.4169,
+                "Katz": 0.1
+            }
+        },
+        {
+            "ID": "TYWIN",
+            "Group": 2,
+            "NodeSize": 29,
+            "Centrality": {
+                "Degree": 29,
+                "Degree_fraction": 0.2358,
+                "Eigenvec": 0.2949,
+                "Btwness": 0.1286,
+                "Clsness": 0.4489,
+                "Katz": 0.1
+            }
+        },
+        {
+            "ID": "VARYS",
+            "Group": 2,
+            "NodeSize": 14,
+            "Centrality": {
+                "Degree": 14,
+                "Degree_fraction": 0.1138,
+                "Eigenvec": 0.1724,
+                "Btwness": 0.0213,
+                "Clsness": 0.393,
+                "Katz": 0.06
+            }
+        },
+        {
+            "ID": "VIOLET",
+            "Group": 1,
+            "NodeSize": 3,
+            "Centrality": {
+                "Degree": 3,
+                "Degree_fraction": 0.0244,
+                "Eigenvec": 0.0066,
+                "Btwness": 0.0,
+                "Clsness": 0.2709,
+                "Katz": -0.02
+            }
+        },
+        {
+            "ID": "WALDER",
+            "Group": 1,
+            "NodeSize": 15,
+            "Centrality": {
+                "Degree": 15,
+                "Degree_fraction": 0.122,
+                "Eigenvec": 0.1299,
+                "Btwness": 0.0308,
+                "Clsness": 0.3917,
+                "Katz": 0.07
+            }
+        },
+        {
+            "ID": "WILLEM_LANNISTER",
+            "Group": 1,
+            "NodeSize": 2,
+            "Centrality": {
+                "Degree": 2,
+                "Degree_fraction": 0.0163,
+                "Eigenvec": 0.0083,
+                "Btwness": 0.0,
+                "Clsness": 0.2715,
+                "Katz": -0.02
+            }
+        },
+        {
+            "ID": "YARA",
+            "Group": 1,
+            "NodeSize": 3,
+            "Centrality": {
+                "Degree": 3,
+                "Degree_fraction": 0.0244,
+                "Eigenvec": 0.0086,
+                "Btwness": 0.0,
+                "Clsness": 0.2709,
+                "Katz": -0.02
+            }
+        },
+        {
+            "ID": "YGRITTE",
+            "Group": 0,
+            "NodeSize": 13,
+            "Centrality": {
+                "Degree": 13,
+                "Degree_fraction": 0.1057,
+                "Eigenvec": 0.0321,
+                "Btwness": 0.0038,
+                "Clsness": 0.3067,
+                "Katz": 0.24
+            }
+        }
+    ],
+    "links": [
+        {
+            "source": "JON",
+            "target": "YGRITTE",
+            "value": 159
+        },
+        {
+            "source": "BRIENNE",
+            "target": "JAIME",
+            "value": 127
+        },
+        {
+            "source": "TYRION",
+            "target": "TYWIN",
+            "value": 115
+        },
+        {
+            "source": "RAMSAY",
+            "target": "THEON",
+            "value": 114
+        },
+        {
+            "source": "CERSEI",
+            "target": "TYRION",
+            "value": 95
+        },
+        {
+            "source": "GILLY",
+            "target": "SAM",
+            "value": 95
+        },
+        {
+            "source": "ROBB",
+            "target": "TALISA",
+            "value": 89
+        },
+        {
+            "source": "SANSA",
+            "target": "TYRION",
+            "value": 85
+        },
+        {
+            "source": "ARYA",
+            "target": "HOUND",
+            "value": 79
+        },
+        {
+            "source": "DAVOS",
+            "target": "STANNIS",
+            "value": 77
+        },
+        {
+            "source": "SHAE",
+            "target": "TYRION",
+            "value": 75
+        },
+        {
+            "source": "BRONN",
+            "target": "TYRION",
+            "value": 71
+        },
+        {
+            "source": "DAENERYS",
+            "target": "JORAH",
+            "value": 69
+        },
+        {
+            "source": "BRAN",
+            "target": "OSHA",
+            "value": 68
+        },
+        {
+            "source": "DAENERYS",
+            "target": "MISSANDEI",
+            "value": 67
+        },
+        {
+            "source": "BRAN",
+            "target": "JOJEN",
+            "value": 65
+        },
+        {
+            "source": "JOFFREY",
+            "target": "MARGAERY",
+            "value": 64
+        },
+        {
+            "source": "ARYA",
+            "target": "THOROS",
+            "value": 63
+        },
+        {
+            "source": "MARGAERY",
+            "target": "SANSA",
+            "value": 63
+        },
+        {
+            "source": "JAIME",
+            "target": "LOCKE",
+            "value": 59
+        },
+        {
+            "source": "BARRISTAN",
+            "target": "JORAH",
+            "value": 57
+        },
+        {
+            "source": "CERSEI",
+            "target": "TYWIN",
+            "value": 57
+        },
+        {
+            "source": "CERSEI",
+            "target": "JOFFREY",
+            "value": 54
+        },
+        {
+            "source": "CATELYN",
+            "target": "ROBB",
+            "value": 52
+        },
+        {
+            "source": "KRAZNYS_MO_NAKLOZ",
+            "target": "MISSANDEI",
+            "value": 52
+        },
+        {
+            "source": "JAIME",
+            "target": "QYBURN",
+            "value": 51
+        },
+        {
+            "source": "DAVOS",
+            "target": "GENDRY",
+            "value": 50
+        },
+        {
+            "source": "JOFFREY",
+            "target": "TYWIN",
+            "value": 49
+        },
+        {
+            "source": "MELISANDRE",
+            "target": "STANNIS",
+            "value": 49
+        },
+        {
+            "source": "EDMURE",
+            "target": "ROBB",
+            "value": 46
+        },
+        {
+            "source": "GENDRY",
+            "target": "MELISANDRE",
+            "value": 46
+        },
+        {
+            "source": "ARYA",
+            "target": "GENDRY",
+            "value": 45
+        },
+        {
+            "source": "SANSA",
+            "target": "SHAE",
+            "value": 45
+        },
+        {
+            "source": "BRAN",
+            "target": "HODOR",
+            "value": 39
+        },
+        {
+            "source": "DAVOS",
+            "target": "SHIREEN",
+            "value": 38
+        },
+        {
+            "source": "OLENNA",
+            "target": "VARYS",
+            "value": 38
+        },
+        {
+            "source": "RICKARD_KARSTARK",
+            "target": "ROBB",
+            "value": 38
+        },
+        {
+            "source": "BARRISTAN",
+            "target": "DAENERYS",
+            "value": 37
+        },
+        {
+            "source": "JON",
+            "target": "ORELL",
+            "value": 37
+        },
+        {
+            "source": "DAARIO",
+            "target": "DAENERYS",
+            "value": 36
+        },
+        {
+            "source": "JON",
+            "target": "MANCE",
+            "value": 36
+        },
+        {
+            "source": "LITTLEFINGER",
+            "target": "SANSA",
+            "value": 36
+        },
+        {
+            "source": "PODRICK",
+            "target": "TYRION",
+            "value": 36
+        },
+        {
+            "source": "OLENNA",
+            "target": "TYWIN",
+            "value": 35
+        },
+        {
+            "source": "JON",
+            "target": "TORMUND",
+            "value": 34
+        },
+        {
+            "source": "MEERA",
+            "target": "OSHA",
+            "value": 34
+        },
+        {
+            "source": "ARYA",
+            "target": "BERIC",
+            "value": 33
+        },
+        {
+            "source": "CATELYN",
+            "target": "TALISA",
+            "value": 33
+        },
+        {
+            "source": "CERSEI",
+            "target": "MARGAERY",
+            "value": 33
+        },
+        {
+            "source": "DAVOS",
+            "target": "MELISANDRE",
+            "value": 33
+        },
+        {
+            "source": "ORELL",
+            "target": "YGRITTE",
+            "value": 32
+        },
+        {
+            "source": "LORAS",
+            "target": "SANSA",
+            "value": 31
+        },
+        {
+            "source": "OLENNA",
+            "target": "TYRION",
+            "value": 31
+        },
+        {
+            "source": "OLENNA",
+            "target": "SANSA",
+            "value": 30
+        },
+        {
+            "source": "ORELL",
+            "target": "TORMUND",
+            "value": 30
+        },
+        {
+            "source": "BRAN",
+            "target": "MEERA",
+            "value": 29
+        },
+        {
+            "source": "JAIME",
+            "target": "ROOSE_BOLTON",
+            "value": 29
+        },
+        {
+            "source": "TORMUND",
+            "target": "YGRITTE",
+            "value": 29
+        },
+        {
+            "source": "BERIC",
+            "target": "THOROS",
+            "value": 28
+        },
+        {
+            "source": "DAVOS",
+            "target": "SALLADHOR",
+            "value": 28
+        },
+        {
+            "source": "JOJEN",
+            "target": "OSHA",
+            "value": 28
+        },
+        {
+            "source": "LITTLEFINGER",
+            "target": "TYRION",
+            "value": 28
+        },
+        {
+            "source": "ROBB",
+            "target": "WALDER",
+            "value": 28
+        },
+        {
+            "source": "BRYNDEN",
+            "target": "CATELYN",
+            "value": 27
+        },
+        {
+            "source": "JOFFREY",
+            "target": "TYRION",
+            "value": 27
+        },
+        {
+            "source": "ANGUY",
+            "target": "ARYA",
+            "value": 26
+        },
+        {
+            "source": "BRAN",
+            "target": "RICKON",
+            "value": 26
+        },
+        {
+            "source": "BERIC",
+            "target": "HOUND",
+            "value": 25
+        },
+        {
+            "source": "ROS",
+            "target": "VARYS",
+            "value": 25
+        },
+        {
+            "source": "CERSEI",
+            "target": "OLENNA",
+            "value": 24
+        },
+        {
+            "source": "JOJEN",
+            "target": "MEERA",
+            "value": 24
+        },
+        {
+            "source": "TYRION",
+            "target": "VARYS",
+            "value": 24
+        },
+        {
+            "source": "DAENERYS",
+            "target": "KRAZNYS_MO_NAKLOZ",
+            "value": 23
+        },
+        {
+            "source": "HODOR",
+            "target": "JOJEN",
+            "value": 23
+        },
+        {
+            "source": "ROOSE_BOLTON",
+            "target": "WALDER",
+            "value": 23
+        },
+        {
+            "source": "JOFFREY",
+            "target": "SANSA",
+            "value": 22
+        },
+        {
+            "source": "MYRANDA",
+            "target": "VIOLET",
+            "value": 22
+        },
+        {
+            "source": "SHAE",
+            "target": "VARYS",
+            "value": 22
+        },
+        {
+            "source": "LORAS",
+            "target": "MARGAERY",
+            "value": 21
+        },
+        {
+            "source": "MARGAERY",
+            "target": "OLENNA",
+            "value": 21
+        },
+        {
+            "source": "SELYSE",
+            "target": "STANNIS",
+            "value": 21
+        },
+        {
+            "source": "ANGUY",
+            "target": "HOUND",
+            "value": 20
+        },
+        {
+            "source": "ANGUY",
+            "target": "THOROS",
+            "value": 20
+        },
+        {
+            "source": "BRONN",
+            "target": "PODRICK",
+            "value": 20
+        },
+        {
+            "source": "GENDRY",
+            "target": "THOROS",
+            "value": 20
+        },
+        {
+            "source": "CATELYN",
+            "target": "WALDER",
+            "value": 19
+        },
+        {
+            "source": "DAENERYS",
+            "target": "RADZAI_MO_ERAZ",
+            "value": 19
+        },
+        {
+            "source": "JEOR",
+            "target": "RAST",
+            "value": 19
+        },
+        {
+            "source": "THEON",
+            "target": "TORTURER",
+            "value": 19
+        },
+        {
+            "source": "BRYNDEN",
+            "target": "EDMURE",
+            "value": 18
+        },
+        {
+            "source": "BRAN",
+            "target": "SAM",
+            "value": 17
+        },
+        {
+            "source": "BRYNDEN",
+            "target": "ROBB",
+            "value": 17
+        },
+        {
+            "source": "CRASTER",
+            "target": "JEOR",
+            "value": 17
+        },
+        {
+            "source": "DAARIO",
+            "target": "JORAH",
+            "value": 17
+        },
+        {
+            "source": "DAARIO",
+            "target": "MERO",
+            "value": 17
+        },
+        {
+            "source": "GRENN",
+            "target": "RAST",
+            "value": 17
+        },
+        {
+            "source": "HOUND",
+            "target": "THOROS",
+            "value": 17
+        },
+        {
+            "source": "ROBB",
+            "target": "ROOSE_BOLTON",
+            "value": 17
+        },
+        {
+            "source": "CERSEI",
+            "target": "LITTLEFINGER",
+            "value": 16
+        },
+        {
+            "source": "DAENERYS",
+            "target": "MERO",
+            "value": 16
+        },
+        {
+            "source": "LITTLEFINGER",
+            "target": "VARYS",
+            "value": 16
+        },
+        {
+            "source": "OSHA",
+            "target": "RICKON",
+            "value": 16
+        },
+        {
+            "source": "SHIREEN",
+            "target": "STANNIS",
+            "value": 16
+        },
+        {
+            "source": "ARYA",
+            "target": "HOT_PIE",
+            "value": 15
+        },
+        {
+            "source": "BRIENNE",
+            "target": "LOCKE",
+            "value": 15
+        },
+        {
+            "source": "CATELYN",
+            "target": "EDMURE",
+            "value": 15
+        },
+        {
+            "source": "CERSEI",
+            "target": "LORAS",
+            "value": 15
+        },
+        {
+            "source": "BRAN",
+            "target": "CATELYN",
+            "value": 14
+        },
+        {
+            "source": "HODOR",
+            "target": "OSHA",
+            "value": 14
+        },
+        {
+            "source": "HODOR",
+            "target": "MEERA",
+            "value": 14
+        },
+        {
+            "source": "JAIME",
+            "target": "STEELSHANKS_WALTON",
+            "value": 14
+        },
+        {
+            "source": "MANCE",
+            "target": "TORMUND",
+            "value": 14
+        },
+        {
+            "source": "MELISANDRE",
+            "target": "THOROS",
+            "value": 14
+        },
+        {
+            "source": "CATELYN",
+            "target": "ROOSE_BOLTON",
+            "value": 13
+        },
+        {
+            "source": "CRASTER",
+            "target": "KARL_TANNER",
+            "value": 13
+        },
+        {
+            "source": "JORAH",
+            "target": "MISSANDEI",
+            "value": 13
+        },
+        {
+            "source": "MEERA",
+            "target": "RICKON",
+            "value": 13
+        },
+        {
+            "source": "MERO",
+            "target": "PRENDAHL",
+            "value": 13
+        },
+        {
+            "source": "RAST",
+            "target": "SAM",
+            "value": 13
+        },
+        {
+            "source": "BALON",
+            "target": "THEON",
+            "value": 12
+        },
+        {
+            "source": "DAENERYS",
+            "target": "GREY_WORM",
+            "value": 12
+        },
+        {
+            "source": "EDDISON_TOLLETT",
+            "target": "GRENN",
+            "value": 12
+        },
+        {
+            "source": "EDMURE",
+            "target": "ROSLIN",
+            "value": 12
+        },
+        {
+            "source": "GREY_WORM",
+            "target": "JORAH",
+            "value": 12
+        },
+        {
+            "source": "JOJEN",
+            "target": "SAM",
+            "value": 12
+        },
+        {
+            "source": "MARTYN",
+            "target": "TALISA",
+            "value": 12
+        },
+        {
+            "source": "MYRANDA",
+            "target": "THEON",
+            "value": 12
+        },
+        {
+            "source": "ROS",
+            "target": "SHAE",
+            "value": 12
+        },
+        {
+            "source": "THEON",
+            "target": "VIOLET",
+            "value": 12
+        },
+        {
+            "source": "ANGUY",
+            "target": "GENDRY",
+            "value": 11
+        },
+        {
+            "source": "ANGUY",
+            "target": "BERIC",
+            "value": 11
+        },
+        {
+            "source": "BALON",
+            "target": "YARA",
+            "value": 11
+        },
+        {
+            "source": "EDDISON_TOLLETT",
+            "target": "RAST",
+            "value": 11
+        },
+        {
+            "source": "JAIME",
+            "target": "TYWIN",
+            "value": 11
+        },
+        {
+            "source": "LORAS",
+            "target": "OLYVAR",
+            "value": 11
+        },
+        {
+            "source": "SANSA",
+            "target": "TYWIN",
+            "value": 11
+        },
+        {
+            "source": "CERSEI",
+            "target": "JAIME",
+            "value": 10
+        },
+        {
+            "source": "CERSEI",
+            "target": "MERYN_TRANT",
+            "value": 10
+        },
+        {
+            "source": "EDMURE",
+            "target": "WALDER",
+            "value": 10
+        },
+        {
+            "source": "GILLY",
+            "target": "MAESTER_AEMON",
+            "value": 10
+        },
+        {
+            "source": "JEOR",
+            "target": "SAM",
+            "value": 10
+        },
+        {
+            "source": "LOCKE",
+            "target": "ROOSE_BOLTON",
+            "value": 10
+        },
+        {
+            "source": "LORAS",
+            "target": "TYRION",
+            "value": 10
+        },
+        {
+            "source": "LORAS",
+            "target": "OLENNA",
+            "value": 10
+        },
+        {
+            "source": "MAESTER_AEMON",
+            "target": "SAM",
+            "value": 10
+        },
+        {
+            "source": "MANCE",
+            "target": "YGRITTE",
+            "value": 10
+        },
+        {
+            "source": "MANCE",
+            "target": "ORELL",
+            "value": 10
+        },
+        {
+            "source": "MERYN_TRANT",
+            "target": "TYRION",
+            "value": 10
+        },
+        {
+            "source": "TALISA",
+            "target": "WALDER",
+            "value": 10
+        },
+        {
+            "source": "TYWIN",
+            "target": "VARYS",
+            "value": 10
+        },
+        {
+            "source": "BABY",
+            "target": "SAM",
+            "value": 9
+        },
+        {
+            "source": "BABY",
+            "target": "GILLY",
+            "value": 9
+        },
+        {
+            "source": "BRIENNE",
+            "target": "ROOSE_BOLTON",
+            "value": 9
+        },
+        {
+            "source": "GENDRY",
+            "target": "STANNIS",
+            "value": 9
+        },
+        {
+            "source": "GENDRY",
+            "target": "HOT_PIE",
+            "value": 9
+        },
+        {
+            "source": "GRENN",
+            "target": "SAM",
+            "value": 9
+        },
+        {
+            "source": "HODOR",
+            "target": "RICKON",
+            "value": 9
+        },
+        {
+            "source": "JOJEN",
+            "target": "RICKON",
+            "value": 9
+        },
+        {
+            "source": "LORAS",
+            "target": "TYWIN",
+            "value": 9
+        },
+        {
+            "source": "PYCELLE",
+            "target": "TYRION",
+            "value": 9
+        },
+        {
+            "source": "ROBB",
+            "target": "TYWIN",
+            "value": 9
+        },
+        {
+            "source": "ROOSE_BOLTON",
+            "target": "TYWIN",
+            "value": 9
+        },
+        {
+            "source": "BLACK_WALDER",
+            "target": "ROBB",
+            "value": 8
+        },
+        {
+            "source": "BRAN",
+            "target": "JON",
+            "value": 8
+        },
+        {
+            "source": "BRONN",
+            "target": "MERYN_TRANT",
+            "value": 8
+        },
+        {
+            "source": "BRYNDEN",
+            "target": "ROOSE_BOLTON",
+            "value": 8
+        },
+        {
+            "source": "BRYNDEN",
+            "target": "TALISA",
+            "value": 8
+        },
+        {
+            "source": "CATELYN",
+            "target": "JAIME",
+            "value": 8
+        },
+        {
+            "source": "CRASTER",
+            "target": "RAST",
+            "value": 8
+        },
+        {
+            "source": "DAENERYS",
+            "target": "PRENDAHL",
+            "value": 8
+        },
+        {
+            "source": "EDDISON_TOLLETT",
+            "target": "SAM",
+            "value": 8
+        },
+        {
+            "source": "EDMURE",
+            "target": "TALISA",
+            "value": 8
+        },
+        {
+            "source": "FARMER",
+            "target": "JON",
+            "value": 8
+        },
+        {
+            "source": "GILLY",
+            "target": "MEERA",
+            "value": 8
+        },
+        {
+            "source": "HODOR",
+            "target": "SAM",
+            "value": 8
+        },
+        {
+            "source": "JEOR",
+            "target": "KARL_TANNER",
+            "value": 8
+        },
+        {
+            "source": "JOFFREY",
+            "target": "OLENNA",
+            "value": 8
+        },
+        {
+            "source": "JOFFREY",
+            "target": "LORAS",
+            "value": 8
+        },
+        {
+            "source": "JON",
+            "target": "SAM",
+            "value": 8
+        },
+        {
+            "source": "MEERA",
+            "target": "SAM",
+            "value": 8
+        },
+        {
+            "source": "MERYN_TRANT",
+            "target": "TARYN_MANT",
+            "value": 8
+        },
+        {
+            "source": "ROSLIN",
+            "target": "WALDER",
+            "value": 8
+        },
+        {
+            "source": "BARRISTAN",
+            "target": "MISSANDEI",
+            "value": 7
+        },
+        {
+            "source": "BERIC",
+            "target": "GENDRY",
+            "value": 7
+        },
+        {
+            "source": "CATELYN",
+            "target": "HOSTER",
+            "value": 7
+        },
+        {
+            "source": "CERSEI",
+            "target": "PYCELLE",
+            "value": 7
+        },
+        {
+            "source": "CERSEI",
+            "target": "SANSA",
+            "value": 7
+        },
+        {
+            "source": "DAARIO",
+            "target": "MISSANDEI",
+            "value": 7
+        },
+        {
+            "source": "DAARIO",
+            "target": "PRENDAHL",
+            "value": 7
+        },
+        {
+            "source": "EDMURE",
+            "target": "LOTHAR",
+            "value": 7
+        },
+        {
+            "source": "FARMER",
+            "target": "TORMUND",
+            "value": 7
+        },
+        {
+            "source": "GRENN",
+            "target": "JEOR",
+            "value": 7
+        },
+        {
+            "source": "PYCELLE",
+            "target": "TYWIN",
+            "value": 7
+        },
+        {
+            "source": "ROOSE_BOLTON",
+            "target": "TALISA",
+            "value": 7
+        },
+        {
+            "source": "SANSA",
+            "target": "VARYS",
+            "value": 7
+        },
+        {
+            "source": "THEON",
+            "target": "YARA",
+            "value": 7
+        },
+        {
+            "source": "BARRISTAN",
+            "target": "DAARIO",
+            "value": 6
+        },
+        {
+            "source": "BERIC",
+            "target": "MELISANDRE",
+            "value": 6
+        },
+        {
+            "source": "BRIENNE",
+            "target": "CATELYN",
+            "value": 6
+        },
+        {
+            "source": "BRYNDEN",
+            "target": "WALDER",
+            "value": 6
+        },
+        {
+            "source": "CATELYN",
+            "target": "JOYEUSE",
+            "value": 6
+        },
+        {
+            "source": "DAARIO",
+            "target": "GREY_WORM",
+            "value": 6
+        },
+        {
+            "source": "EDDISON_TOLLETT",
+            "target": "JEOR",
+            "value": 6
+        },
+        {
+            "source": "FARMER",
+            "target": "YGRITTE",
+            "value": 6
+        },
+        {
+            "source": "HOT_PIE",
+            "target": "THOROS",
+            "value": 6
+        },
+        {
+            "source": "JAIME",
+            "target": "RENLY",
+            "value": 6
+        },
+        {
+            "source": "JORAH",
+            "target": "MERO",
+            "value": 6
+        },
+        {
+            "source": "MACE",
+            "target": "OLENNA",
+            "value": 6
+        },
+        {
+            "source": "MERO",
+            "target": "MISSANDEI",
+            "value": 6
+        },
+        {
+            "source": "NED",
+            "target": "SANSA",
+            "value": 6
+        },
+        {
+            "source": "ROBB",
+            "target": "THEON",
+            "value": 6
+        },
+        {
+            "source": "ROBB",
+            "target": "ROSLIN",
+            "value": 6
+        },
+        {
+            "source": "ARYA",
+            "target": "MELISANDRE",
+            "value": 5
+        },
+        {
+            "source": "BARRISTAN",
+            "target": "ROBERT",
+            "value": 5
+        },
+        {
+            "source": "BARRISTAN",
+            "target": "GREY_WORM",
+            "value": 5
+        },
+        {
+            "source": "BLACK_WALDER",
+            "target": "EDMURE",
+            "value": 5
+        },
+        {
+            "source": "BLACK_WALDER",
+            "target": "LOTHAR",
+            "value": 5
+        },
+        {
+            "source": "BRAN",
+            "target": "NED",
+            "value": 5
+        },
+        {
+            "source": "BRYNDEN",
+            "target": "RICKARD_KARSTARK",
+            "value": 5
+        },
+        {
+            "source": "CATELYN",
+            "target": "RICKARD_KARSTARK",
+            "value": 5
+        },
+        {
+            "source": "CERSEI",
+            "target": "VARYS",
+            "value": 5
+        },
+        {
+            "source": "CRASTER",
+            "target": "SAM",
+            "value": 5
+        },
+        {
+            "source": "GENDRY",
+            "target": "HOUND",
+            "value": 5
+        },
+        {
+            "source": "HOSTER",
+            "target": "ROBB",
+            "value": 5
+        },
+        {
+            "source": "JOFFREY",
+            "target": "PYCELLE",
+            "value": 5
+        },
+        {
+            "source": "JOFFREY",
+            "target": "NED",
+            "value": 5
+        },
+        {
+            "source": "JOJEN",
+            "target": "JON",
+            "value": 5
+        },
+        {
+            "source": "JON",
+            "target": "PYP",
+            "value": 5
+        },
+        {
+            "source": "JORAH",
+            "target": "KRAZNYS_MO_NAKLOZ",
+            "value": 5
+        },
+        {
+            "source": "JORAH",
+            "target": "ROBERT",
+            "value": 5
+        },
+        {
+            "source": "MARGAERY",
+            "target": "TYRION",
+            "value": 5
+        },
+        {
+            "source": "MARTYN",
+            "target": "WILLEM_LANNISTER",
+            "value": 5
+        },
+        {
+            "source": "PYP",
+            "target": "SAM",
+            "value": 5
+        },
+        {
+            "source": "RAMSAY",
+            "target": "ROOSE_BOLTON",
+            "value": 5
+        },
+        {
+            "source": "RANDYLL",
+            "target": "SAM",
+            "value": 5
+        },
+        {
+            "source": "ROBB",
+            "target": "SANSA",
+            "value": 5
+        },
+        {
+            "source": "ARYA",
+            "target": "CERSEI",
+            "value": 4
+        },
+        {
+            "source": "ARYA",
+            "target": "JOFFREY",
+            "value": 4
+        },
+        {
+            "source": "BALON",
+            "target": "RAMSAY",
+            "value": 4
+        },
+        {
+            "source": "BRAN",
+            "target": "ORELL",
+            "value": 4
+        },
+        {
+            "source": "BRAN",
+            "target": "ROBB",
+            "value": 4
+        },
+        {
+            "source": "BRONN",
+            "target": "JOFFREY",
+            "value": 4
+        },
+        {
+            "source": "CATELYN",
+            "target": "ROSLIN",
+            "value": 4
+        },
+        {
+            "source": "CERSEI",
+            "target": "TARYN_MANT",
+            "value": 4
+        },
+        {
+            "source": "EDMURE",
+            "target": "RICKARD_KARSTARK",
+            "value": 4
+        },
+        {
+            "source": "EDMURE",
+            "target": "FREY_SEPTON",
+            "value": 4
+        },
+        {
+            "source": "FARMER",
+            "target": "ORELL",
+            "value": 4
+        },
+        {
+            "source": "GILLY",
+            "target": "JOJEN",
+            "value": 4
+        },
+        {
+            "source": "GREIZHEN",
+            "target": "MISSANDEI",
+            "value": 4
+        },
+        {
+            "source": "JAIME",
+            "target": "TYRION",
+            "value": 4
+        },
+        {
+            "source": "JOFFREY",
+            "target": "MERYN_TRANT",
+            "value": 4
+        },
+        {
+            "source": "JOFFREY",
+            "target": "VARYS",
+            "value": 4
+        },
+        {
+            "source": "JOYEUSE",
+            "target": "WALDER",
+            "value": 4
+        },
+        {
+            "source": "JOYEUSE",
+            "target": "TALISA",
+            "value": 4
+        },
+        {
+            "source": "JOYEUSE",
+            "target": "ROBB",
+            "value": 4
+        },
+        {
+            "source": "LITTLEFINGER",
+            "target": "PYCELLE",
+            "value": 4
+        },
+        {
+            "source": "LITTLEFINGER",
+            "target": "TYWIN",
+            "value": 4
+        },
+        {
+            "source": "LOCKE",
+            "target": "TYWIN",
+            "value": 4
+        },
+        {
+            "source": "LOTHAR",
+            "target": "WALDER",
+            "value": 4
+        },
+        {
+            "source": "MAREI",
+            "target": "TYRION",
+            "value": 4
+        },
+        {
+            "source": "MARGAERY",
+            "target": "TYWIN",
+            "value": 4
+        },
+        {
+            "source": "MARGAERY",
+            "target": "RENLY",
+            "value": 4
+        },
+        {
+            "source": "MELISANDRE",
+            "target": "ROBERT",
+            "value": 4
+        },
+        {
+            "source": "PYCELLE",
+            "target": "VARYS",
+            "value": 4
+        },
+        {
+            "source": "QYBURN",
+            "target": "ROOSE_BOLTON",
+            "value": 4
+        },
+        {
+            "source": "QYBURN",
+            "target": "TALISA",
+            "value": 4
+        },
+        {
+            "source": "RAMSAY",
+            "target": "YARA",
+            "value": 4
+        },
+        {
+            "source": "RICKARD_KARSTARK",
+            "target": "ROOSE_BOLTON",
+            "value": 4
+        },
+        {
+            "source": "ROBERT",
+            "target": "STANNIS",
+            "value": 4
+        },
+        {
+            "source": "ROSLIN",
+            "target": "TALISA",
+            "value": 4
+        },
+        {
+            "source": "SORCERER",
+            "target": "VARYS",
+            "value": 4
+        },
+        {
+            "source": "TARYN_MANT",
+            "target": "TYRION",
+            "value": 4
+        },
+        {
+            "source": "AERYS",
+            "target": "BARRISTAN",
+            "value": 3
+        },
+        {
+            "source": "AERYS",
+            "target": "ROBERT",
+            "value": 3
+        },
+        {
+            "source": "ANGUY",
+            "target": "MELISANDRE",
+            "value": 3
+        },
+        {
+            "source": "BERIC",
+            "target": "MOUNTAIN",
+            "value": 3
+        },
+        {
+            "source": "BERIC",
+            "target": "NED",
+            "value": 3
+        },
+        {
+            "source": "BLACK_WALDER",
+            "target": "CATELYN",
+            "value": 3
+        },
+        {
+            "source": "BLACK_WALDER",
+            "target": "BRYNDEN",
+            "value": 3
+        },
+        {
+            "source": "BRAN",
+            "target": "GILLY",
+            "value": 3
+        },
+        {
+            "source": "BRANDON_STARK",
+            "target": "JOJEN",
+            "value": 3
+        },
+        {
+            "source": "BRANDON_STARK",
+            "target": "CATELYN",
+            "value": 3
+        },
+        {
+            "source": "BRIENNE",
+            "target": "SELWYN",
+            "value": 3
+        },
+        {
+            "source": "BRONN",
+            "target": "SANSA",
+            "value": 3
+        },
+        {
+            "source": "BRONN",
+            "target": "CERSEI",
+            "value": 3
+        },
+        {
+            "source": "BRYNDEN",
+            "target": "LOTHAR",
+            "value": 3
+        },
+        {
+            "source": "CATELYN",
+            "target": "TYRION",
+            "value": 3
+        },
+        {
+            "source": "CRASTER",
+            "target": "GRENN",
+            "value": 3
+        },
+        {
+            "source": "DAENERYS",
+            "target": "GREIZHEN",
+            "value": 3
+        },
+        {
+            "source": "EDMURE",
+            "target": "ROOSE_BOLTON",
+            "value": 3
+        },
+        {
+            "source": "FARMER",
+            "target": "JOJEN",
+            "value": 3
+        },
+        {
+            "source": "GENDRY",
+            "target": "ROBERT",
+            "value": 3
+        },
+        {
+            "source": "GILLY",
+            "target": "RANDYLL",
+            "value": 3
+        },
+        {
+            "source": "GILLY",
+            "target": "HODOR",
+            "value": 3
+        },
+        {
+            "source": "HIGH_SEPTON",
+            "target": "JOFFREY",
+            "value": 3
+        },
+        {
+            "source": "HIGH_SEPTON",
+            "target": "MARGAERY",
+            "value": 3
+        },
+        {
+            "source": "HODOR",
+            "target": "ORELL",
+            "value": 3
+        },
+        {
+            "source": "HOSTER",
+            "target": "WALDER",
+            "value": 3
+        },
+        {
+            "source": "HOUND",
+            "target": "JOFFREY",
+            "value": 3
+        },
+        {
+            "source": "JAIME",
+            "target": "SELWYN",
+            "value": 3
+        },
+        {
+            "source": "JAIME",
+            "target": "ROBB",
+            "value": 3
+        },
+        {
+            "source": "JOANNA",
+            "target": "TYWIN",
+            "value": 3
+        },
+        {
+            "source": "JOFFREY",
+            "target": "SHAE",
+            "value": 3
+        },
+        {
+            "source": "JOFFREY",
+            "target": "RENLY",
+            "value": 3
+        },
+        {
+            "source": "JOFFREY",
+            "target": "ROBB",
+            "value": 3
+        },
+        {
+            "source": "JOJEN",
+            "target": "ORELL",
+            "value": 3
+        },
+        {
+            "source": "JOJEN",
+            "target": "NED",
+            "value": 3
+        },
+        {
+            "source": "JON",
+            "target": "NED",
+            "value": 3
+        },
+        {
+            "source": "JON",
+            "target": "OSHA",
+            "value": 3
+        },
+        {
+            "source": "LITTLEFINGER",
+            "target": "SHAE",
+            "value": 3
+        },
+        {
+            "source": "LITTLEFINGER",
+            "target": "OLYVAR",
+            "value": 3
+        },
+        {
+            "source": "LITTLEFINGER",
+            "target": "ROS",
+            "value": 3
+        },
+        {
+            "source": "LORAS",
+            "target": "MACE",
+            "value": 3
+        },
+        {
+            "source": "LORD_OF_BONES",
+            "target": "TORMUND",
+            "value": 4
+        },
+        {
+            "source": "LOTHAR",
+            "target": "ROBB",
+            "value": 3
+        },
+        {
+            "source": "MACE",
+            "target": "MARGAERY",
+            "value": 3
+        },
+        {
+            "source": "MEERA",
+            "target": "ORELL",
+            "value": 3
+        },
+        {
+            "source": "MERRY",
+            "target": "WALDER",
+            "value": 3
+        },
+        {
+            "source": "MERYN_TRANT",
+            "target": "PODRICK",
+            "value": 3
+        },
+        {
+            "source": "MISSANDEI",
+            "target": "RADZAI_MO_ERAZ",
+            "value": 3
+        },
+        {
+            "source": "MISSANDEI",
+            "target": "PRENDAHL",
+            "value": 3
+        },
+        {
+            "source": "MOUNTAIN",
+            "target": "ROBB",
+            "value": 3
+        },
+        {
+            "source": "NED",
+            "target": "ROBERT",
+            "value": 3
+        },
+        {
+            "source": "NED",
+            "target": "VARYS",
+            "value": 3
+        },
+        {
+            "source": "NED",
+            "target": "ROBB",
+            "value": 3
+        },
+        {
+            "source": "OLENNA",
+            "target": "PODRICK",
+            "value": 3
+        },
+        {
+            "source": "OLENNA",
+            "target": "ROBERT",
+            "value": 3
+        },
+        {
+            "source": "ORELL",
+            "target": "RICKON",
+            "value": 3
+        },
+        {
+            "source": "ORELL",
+            "target": "OSHA",
+            "value": 3
+        },
+        {
+            "source": "PODRICK",
+            "target": "SHAE",
+            "value": 3
+        },
+        {
+            "source": "QYBURN",
+            "target": "ROBB",
+            "value": 3
+        },
+        {
+            "source": "RAMSAY",
+            "target": "ROBB",
+            "value": 3
+        },
+        {
+            "source": "JON",
+            "target": "LORD_OF_BONES",
+            "value": 3
+        },
+        {
+            "source": "RENLY",
+            "target": "STANNIS",
+            "value": 3
+        },
+        {
+            "source": "RICKARD_KARSTARK",
+            "target": "WILLEM_LANNISTER",
+            "value": 3
+        },
+        {
+            "source": "RICKARD_KARSTARK",
+            "target": "TALISA",
+            "value": 3
+        },
+        {
+            "source": "ROBB",
+            "target": "STANNIS",
+            "value": 3
+        },
+        {
+            "source": "ROBB",
+            "target": "TYRION",
+            "value": 3
+        },
+        {
+            "source": "ROBERT",
+            "target": "THOROS",
+            "value": 3
+        },
+        {
+            "source": "ROOSE_BOLTON",
+            "target": "STEELSHANKS_WALTON",
+            "value": 3
+        },
+        {
+            "source": "ROOSE_BOLTON",
+            "target": "THEON",
+            "value": 3
+        },
+        {
+            "source": "ROS",
+            "target": "TYRION",
+            "value": 3
+        },
+        {
+            "source": "SORCERER",
+            "target": "TYRION",
+            "value": 3
+        },
+        {
+            "source": "STANNIS",
+            "target": "TYWIN",
+            "value": 3
+        },
+        {
+            "source": "AEGON",
+            "target": "SHIREEN",
+            "value": 2
+        },
+        {
+            "source": "AEGON",
+            "target": "DAVOS",
+            "value": 2
+        },
+        {
+            "source": "AERYS",
+            "target": "JAIME",
+            "value": 2
+        },
+        {
+            "source": "AERYS",
+            "target": "JOFFREY",
+            "value": 2
+        },
+        {
+            "source": "AERYS",
+            "target": "NED",
+            "value": 2
+        },
+        {
+            "source": "ANGUY",
+            "target": "HOT_PIE",
+            "value": 2
+        },
+        {
+            "source": "ARYA",
+            "target": "ILYN_PAYNE",
+            "value": 2
+        },
+        {
+            "source": "ARYA",
+            "target": "MERYN_TRANT",
+            "value": 2
+        },
+        {
+            "source": "ARYA",
+            "target": "MYCAH",
+            "value": 2
+        },
+        {
+            "source": "ARYA",
+            "target": "ROOSE_BOLTON",
+            "value": 2
+        },
+        {
+            "source": "ARYA",
+            "target": "SANSA",
+            "value": 2
+        },
+        {
+            "source": "ARYA",
+            "target": "CATELYN",
+            "value": 2
+        },
+        {
+            "source": "ARYA",
+            "target": "ROBB",
+            "value": 2
+        },
+        {
+            "source": "BALERION",
+            "target": "DAVOS",
+            "value": 2
+        },
+        {
+            "source": "BALON",
+            "target": "ROOSE_BOLTON",
+            "value": 2
+        },
+        {
+            "source": "BALON",
+            "target": "ROBB",
+            "value": 2
+        },
+        {
+            "source": "BARRISTAN",
+            "target": "RADZAI_MO_ERAZ",
+            "value": 2
+        },
+        {
+            "source": "BARRISTAN",
+            "target": "KRAZNYS_MO_NAKLOZ",
+            "value": 2
+        },
+        {
+            "source": "BERT",
+            "target": "SHIREEN",
+            "value": 2
+        },
+        {
+            "source": "BLACK_WALDER",
+            "target": "JOYEUSE",
+            "value": 2
+        },
+        {
+            "source": "BOROS",
+            "target": "MERYN_TRANT",
+            "value": 2
+        },
+        {
+            "source": "BRAN",
+            "target": "YGRITTE",
+            "value": 2
+        },
+        {
+            "source": "BRAN",
+            "target": "THEON",
+            "value": 2
+        },
+        {
+            "source": "BRAN",
+            "target": "TORMUND",
+            "value": 2
+        },
+        {
+            "source": "BRAN",
+            "target": "FARMER",
+            "value": 2
+        },
+        {
+            "source": "BRAN",
+            "target": "MAESTER_LUWIN",
+            "value": 2
+        },
+        {
+            "source": "BRONN",
+            "target": "LORAS",
+            "value": 2
+        },
+        {
+            "source": "BRONN",
+            "target": "PYCELLE",
+            "value": 2
+        },
+        {
+            "source": "BRONN",
+            "target": "TYWIN",
+            "value": 2
+        },
+        {
+            "source": "BRONN",
+            "target": "OLENNA",
+            "value": 2
+        },
+        {
+            "source": "BRONN",
+            "target": "SHAE",
+            "value": 2
+        },
+        {
+            "source": "BRONN",
+            "target": "TARYN_MANT",
+            "value": 2
+        },
+        {
+            "source": "BRONN",
+            "target": "HIGH_SEPTON",
+            "value": 2
+        },
+        {
+            "source": "BRONN",
+            "target": "MARGAERY",
+            "value": 2
+        },
+        {
+            "source": "BRYNDEN",
+            "target": "HOSTER",
+            "value": 2
+        },
+        {
+            "source": "BRYNDEN",
+            "target": "ROSLIN",
+            "value": 2
+        },
+        {
+            "source": "CATELYN",
+            "target": "LOTHAR",
+            "value": 2
+        },
+        {
+            "source": "CATELYN",
+            "target": "JON",
+            "value": 2
+        },
+        {
+            "source": "CATELYN",
+            "target": "RICKON",
+            "value": 2
+        },
+        {
+            "source": "CATELYN",
+            "target": "TYWIN",
+            "value": 2
+        },
+        {
+            "source": "CATELYN",
+            "target": "HOUND",
+            "value": 2
+        },
+        {
+            "source": "CERSEI",
+            "target": "STANNIS",
+            "value": 2
+        },
+        {
+            "source": "CERSEI",
+            "target": "ILYN_PAYNE",
+            "value": 2
+        },
+        {
+            "source": "CERSEI",
+            "target": "HIGH_SEPTON",
+            "value": 2
+        },
+        {
+            "source": "CERSEI",
+            "target": "PODRICK",
+            "value": 2
+        },
+        {
+            "source": "CERSEI",
+            "target": "HOUND",
+            "value": 2
+        },
+        {
+            "source": "CRASTER",
+            "target": "EDDISON_TOLLETT",
+            "value": 2
+        },
+        {
+            "source": "CRASTER",
+            "target": "JON",
+            "value": 2
+        },
+        {
+            "source": "DAENERYS",
+            "target": "DROGO",
+            "value": 2
+        },
+        {
+            "source": "DAENERYS",
+            "target": "ROBERT",
+            "value": 2
+        },
+        {
+            "source": "DAREON",
+            "target": "HOBB",
+            "value": 2
+        },
+        {
+            "source": "DAREON",
+            "target": "SAM",
+            "value": 2
+        },
+        {
+            "source": "DAVOS",
+            "target": "MATTHOS",
+            "value": 2
+        },
+        {
+            "source": "DAVOS",
+            "target": "ROBB",
+            "value": 2
+        },
+        {
+            "source": "DAVOS",
+            "target": "RYLENE",
+            "value": 2
+        },
+        {
+            "source": "DESMOND",
+            "target": "ELDRICK",
+            "value": 2
+        },
+        {
+            "source": "DESMOND",
+            "target": "TYRION",
+            "value": 2
+        },
+        {
+            "source": "DESMOND",
+            "target": "SANSA",
+            "value": 2
+        },
+        {
+            "source": "EDDISON_TOLLETT",
+            "target": "KARL_TANNER",
+            "value": 2
+        },
+        {
+            "source": "EDMURE",
+            "target": "MOUNTAIN",
+            "value": 2
+        },
+        {
+            "source": "EDMURE",
+            "target": "TYWIN",
+            "value": 2
+        },
+        {
+            "source": "EDMURE",
+            "target": "HOUND",
+            "value": 2
+        },
+        {
+            "source": "EDMURE",
+            "target": "JOYEUSE",
+            "value": 2
+        },
+        {
+            "source": "FARMER",
+            "target": "OSHA",
+            "value": 2
+        },
+        {
+            "source": "FARMER",
+            "target": "HODOR",
+            "value": 2
+        },
+        {
+            "source": "FARMER",
+            "target": "MEERA",
+            "value": 2
+        },
+        {
+            "source": "FARMER",
+            "target": "RICKON",
+            "value": 2
+        },
+        {
+            "source": "FREY_SEPTON",
+            "target": "ROSLIN",
+            "value": 2
+        },
+        {
+            "source": "FREY_SEPTON",
+            "target": "WALDER",
+            "value": 2
+        },
+        {
+            "source": "GENDRY",
+            "target": "TYWIN",
+            "value": 2
+        },
+        {
+            "source": "GILLY",
+            "target": "RAST",
+            "value": 2
+        },
+        {
+            "source": "GREIZHEN",
+            "target": "KRAZNYS_MO_NAKLOZ",
+            "value": 2
+        },
+        {
+            "source": "GREIZHEN",
+            "target": "JORAH",
+            "value": 2
+        },
+        {
+            "source": "GRENN",
+            "target": "KARL_TANNER",
+            "value": 2
+        },
+        {
+            "source": "GREY_WORM",
+            "target": "MISSANDEI",
+            "value": 2
+        },
+        {
+            "source": "GREY_WORM",
+            "target": "MERO",
+            "value": 2
+        },
+        {
+            "source": "HIGH_SEPTON",
+            "target": "PYCELLE",
+            "value": 2
+        },
+        {
+            "source": "HIGH_SEPTON",
+            "target": "SANSA",
+            "value": 2
+        },
+        {
+            "source": "HIGH_SEPTON",
+            "target": "TYWIN",
+            "value": 2
+        },
+        {
+            "source": "HIGH_SEPTON",
+            "target": "OLENNA",
+            "value": 2
+        },
+        {
+            "source": "HIGH_SEPTON",
+            "target": "TYRION",
+            "value": 2
+        },
+        {
+            "source": "HIGH_SEPTON",
+            "target": "LORAS",
+            "value": 2
+        },
+        {
+            "source": "HODOR",
+            "target": "YGRITTE",
+            "value": 2
+        },
+        {
+            "source": "HODOR",
+            "target": "TORMUND",
+            "value": 2
+        },
+        {
+            "source": "HODOR",
+            "target": "JON",
+            "value": 2
+        },
+        {
+            "source": "HOUND",
+            "target": "ILYN_PAYNE",
+            "value": 2
+        },
+        {
+            "source": "HOUND",
+            "target": "ROOSE_BOLTON",
+            "value": 2
+        },
+        {
+            "source": "HOUND",
+            "target": "ROBB",
+            "value": 2
+        },
+        {
+            "source": "HOUND",
+            "target": "NED",
+            "value": 2
+        },
+        {
+            "source": "HOUND",
+            "target": "MERYN_TRANT",
+            "value": 2
+        },
+        {
+            "source": "ILYN_PAYNE",
+            "target": "NED",
+            "value": 2
+        },
+        {
+            "source": "ILYN_PAYNE",
+            "target": "JOFFREY",
+            "value": 2
+        },
+        {
+            "source": "ILYN_PAYNE",
+            "target": "MERYN_TRANT",
+            "value": 2
+        },
+        {
+            "source": "JAIME",
+            "target": "STANNIS",
+            "value": 2
+        },
+        {
+            "source": "JAIME",
+            "target": "PYCELLE",
+            "value": 2
+        },
+        {
+            "source": "JAIME",
+            "target": "NED",
+            "value": 2
+        },
+        {
+            "source": "JAIME",
+            "target": "LORAS",
+            "value": 2
+        },
+        {
+            "source": "JEOR",
+            "target": "JON",
+            "value": 2
+        },
+        {
+            "source": "JOFFREY",
+            "target": "STANNIS",
+            "value": 2
+        },
+        {
+            "source": "JOJEN",
+            "target": "YGRITTE",
+            "value": 2
+        },
+        {
+            "source": "JOJEN",
+            "target": "TORMUND",
+            "value": 2
+        },
+        {
+            "source": "LORD_OF_BONES",
+            "target": "YGRITTE",
+            "value": 4
+        },
+        {
+            "source": "JON",
+            "target": "MEERA",
+            "value": 2
+        },
+        {
+            "source": "JON",
+            "target": "QHORIN_HALFHAND",
+            "value": 2
+        },
+        {
+            "source": "JON",
+            "target": "RICKON",
+            "value": 2
+        },
+        {
+            "source": "JORAH",
+            "target": "PRENDAHL",
+            "value": 2
+        },
+        {
+            "source": "JOYEUSE",
+            "target": "ROSLIN",
+            "value": 2
+        },
+        {
+            "source": "KARL_TANNER",
+            "target": "RAST",
+            "value": 2
+        },
+        {
+            "source": "KARL_TANNER",
+            "target": "SAM",
+            "value": 2
+        },
+        {
+            "source": "LITTLEFINGER",
+            "target": "PODRICK",
+            "value": 2
+        },
+        {
+            "source": "LOCKE",
+            "target": "STEELSHANKS_WALTON",
+            "value": 2
+        },
+        {
+            "source": "LOCKE",
+            "target": "QYBURN",
+            "value": 2
+        },
+        {
+            "source": "LORAS",
+            "target": "PYCELLE",
+            "value": 2
+        },
+        {
+            "source": "LORAS",
+            "target": "RENLY",
+            "value": 2
+        },
+        {
+            "source": "LORAS",
+            "target": "SHAE",
+            "value": 2
+        },
+        {
+            "source": "LORD_OF_BONES",
+            "target": "MANCE",
+            "value": 4
+        },
+        {
+            "source": "LOTHAR",
+            "target": "ROSLIN",
+            "value": 2
+        },
+        {
+            "source": "LOTHAR",
+            "target": "TALISA",
+            "value": 2
+        },
+        {
+            "source": "LYSA",
+            "target": "TYWIN",
+            "value": 2
+        },
+        {
+            "source": "LYSA",
+            "target": "VARYS",
+            "value": 2
+        },
+        {
+            "source": "MARGAERY",
+            "target": "PYCELLE",
+            "value": 2
+        },
+        {
+            "source": "MARTYN",
+            "target": "ROBB",
+            "value": 2
+        },
+        {
+            "source": "MEERA",
+            "target": "YGRITTE",
+            "value": 2
+        },
+        {
+            "source": "MEERA",
+            "target": "TORMUND",
+            "value": 2
+        },
+        {
+            "source": "MELISANDRE",
+            "target": "SELYSE",
+            "value": 2
+        },
+        {
+            "source": "MOUNTAIN",
+            "target": "TYWIN",
+            "value": 2
+        },
+        {
+            "source": "MOUNTAIN",
+            "target": "THOROS",
+            "value": 2
+        },
+        {
+            "source": "MYRANDA",
+            "target": "RAMSAY",
+            "value": 2
+        },
+        {
+            "source": "NED",
+            "target": "RICKARD_KARSTARK",
+            "value": 2
+        },
+        {
+            "source": "NED",
+            "target": "TYRION",
+            "value": 2
+        },
+        {
+            "source": "NED",
+            "target": "THOROS",
+            "value": 2
+        },
+        {
+            "source": "OLENNA",
+            "target": "PYCELLE",
+            "value": 2
+        },
+        {
+            "source": "OLENNA",
+            "target": "RENLY",
+            "value": 2
+        },
+        {
+            "source": "OSHA",
+            "target": "TORMUND",
+            "value": 2
+        },
+        {
+            "source": "OSHA",
+            "target": "YGRITTE",
+            "value": 2
+        },
+        {
+            "source": "PODRICK",
+            "target": "SANSA",
+            "value": 2
+        },
+        {
+            "source": "PYCELLE",
+            "target": "SANSA",
+            "value": 2
+        },
+        {
+            "source": "QHORIN_HALFHAND",
+            "target": "YGRITTE",
+            "value": 2
+        },
+        {
+            "source": "QYBURN",
+            "target": "SELWYN",
+            "value": 2
+        },
+        {
+            "source": "QYBURN",
+            "target": "TYWIN",
+            "value": 2
+        },
+        {
+            "source": "RAMSAY",
+            "target": "VIOLET",
+            "value": 2
+        },
+        {
+            "source": "RENLY",
+            "target": "SANSA",
+            "value": 2
+        },
+        {
+            "source": "RENLY",
+            "target": "TYWIN",
+            "value": 2
+        },
+        {
+            "source": "RENLY",
+            "target": "ROBERT",
+            "value": 2
+        },
+        {
+            "source": "RICKARD_KARSTARK",
+            "target": "THEON",
+            "value": 2
+        },
+        {
+            "source": "RICKARD_KARSTARK",
+            "target": "ROSLIN",
+            "value": 2
+        },
+        {
+            "source": "RICKARD_KARSTARK",
+            "target": "WALDER",
+            "value": 2
+        },
+        {
+            "source": "RICKON",
+            "target": "YGRITTE",
+            "value": 2
+        },
+        {
+            "source": "RICKON",
+            "target": "TORMUND",
+            "value": 2
+        },
+        {
+            "source": "RICKON",
+            "target": "ROBB",
+            "value": 2
+        },
+        {
+            "source": "RICKON",
+            "target": "THEON",
+            "value": 2
+        },
+        {
+            "source": "ROBB",
+            "target": "VARYS",
+            "value": 2
+        },
+        {
+            "source": "ROBERT",
+            "target": "TYWIN",
+            "value": 2
+        },
+        {
+            "source": "RYLENE",
+            "target": "STANNIS",
+            "value": 2
+        },
+        {
+            "source": "SALLADHOR",
+            "target": "STANNIS",
+            "value": 2
+        },
+        {
+            "source": "SELYSE",
+            "target": "SHIREEN",
+            "value": 2
+        },
+        {
+            "source": "SHAE",
+            "target": "TYWIN",
+            "value": 2
+        },
+        {
+            "source": "STEELSHANKS_WALTON",
+            "target": "TYWIN",
+            "value": 2
+        },
+        {
+            "source": "TYRION",
+            "target": "WALDER",
+            "value": 2
+        },
+        {
+            "source": "TYWIN",
+            "target": "WALDER",
+            "value": 2
+        }
+    ]
+}

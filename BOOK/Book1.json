@@ -1,0 +1,5857 @@
+{
+    "nodes": [
+        {
+            "ID": "Addam-Marbrand",
+            "Group": 0,
+            "NodeSize": 2,
+            "Centrality": {
+                "Degree": 2,
+                "Degree_fraction": 0.0108,
+                "Eigenvec": 0.0169,
+                "Btwness": 0.0,
+                "Clsness": 0.3235,
+                "Katz": 0.01
+            }
+        },
+        {
+            "ID": "Aegon-I-Targaryen",
+            "Group": 1,
+            "NodeSize": 2,
+            "Centrality": {
+                "Degree": 2,
+                "Degree_fraction": 0.0108,
+                "Eigenvec": 0.0174,
+                "Btwness": 0.0,
+                "Clsness": 0.3765,
+                "Katz": 0.04
+            }
+        },
+        {
+            "ID": "Aemon-Targaryen-(Maester-Aemon)",
+            "Group": 3,
+            "NodeSize": 7,
+            "Centrality": {
+                "Degree": 7,
+                "Degree_fraction": 0.0376,
+                "Eigenvec": 0.0157,
+                "Btwness": 0.0108,
+                "Clsness": 0.337,
+                "Katz": 0.1
+            }
+        },
+        {
+            "ID": "Aerys-II-Targaryen",
+            "Group": 2,
+            "NodeSize": 6,
+            "Centrality": {
+                "Degree": 6,
+                "Degree_fraction": 0.0323,
+                "Eigenvec": 0.0486,
+                "Btwness": 0.0005,
+                "Clsness": 0.3859,
+                "Katz": -0.01
+            }
+        },
+        {
+            "ID": "Aggo",
+            "Group": 1,
+            "NodeSize": 6,
+            "Centrality": {
+                "Degree": 6,
+                "Degree_fraction": 0.0323,
+                "Eigenvec": 0.0055,
+                "Btwness": 0.0001,
+                "Clsness": 0.2929,
+                "Katz": 0.13
+            }
+        },
+        {
+            "ID": "Albett",
+            "Group": 3,
+            "NodeSize": 3,
+            "Centrality": {
+                "Degree": 3,
+                "Degree_fraction": 0.0161,
+                "Eigenvec": 0.01,
+                "Btwness": 0.0,
+                "Clsness": 0.3321,
+                "Katz": 0.06
+            }
+        },
+        {
+            "ID": "Alliser-Thorne",
+            "Group": 3,
+            "NodeSize": 10,
+            "Centrality": {
+                "Degree": 10,
+                "Degree_fraction": 0.0538,
+                "Eigenvec": 0.0288,
+                "Btwness": 0.005,
+                "Clsness": 0.3633,
+                "Katz": 0.14
+            }
+        },
+        {
+            "ID": "Alyn",
+            "Group": 2,
+            "NodeSize": 5,
+            "Centrality": {
+                "Degree": 5,
+                "Degree_fraction": 0.0269,
+                "Eigenvec": 0.0401,
+                "Btwness": 0.0003,
+                "Clsness": 0.3804,
+                "Katz": 0.0
+            }
+        },
+        {
+            "ID": "Arthur-Dayne",
+            "Group": 2,
+            "NodeSize": 1,
+            "Centrality": {
+                "Degree": 1,
+                "Degree_fraction": 0.0054,
+                "Eigenvec": 0.0016,
+                "Btwness": 0.0,
+                "Clsness": 0.276,
+                "Katz": 0.03
+            }
+        },
+        {
+            "ID": "Arya-Stark",
+            "Group": 4,
+            "NodeSize": 27,
+            "Centrality": {
+                "Degree": 27,
+                "Degree_fraction": 0.1452,
+                "Eigenvec": 0.1785,
+                "Btwness": 0.0175,
+                "Clsness": 0.4581,
+                "Katz": -0.08
+            }
+        },
+        {
+            "ID": "Arys-Oakheart",
+            "Group": 2,
+            "NodeSize": 1,
+            "Centrality": {
+                "Degree": 1,
+                "Degree_fraction": 0.0054,
+                "Eigenvec": 0.0109,
+                "Btwness": 0.0,
+                "Clsness": 0.3269,
+                "Katz": 0.01
+            }
+        },
+        {
+            "ID": "Balon-Greyjoy",
+            "Group": 2,
+            "NodeSize": 2,
+            "Centrality": {
+                "Degree": 2,
+                "Degree_fraction": 0.0108,
+                "Eigenvec": 0.0286,
+                "Btwness": 0.0,
+                "Clsness": 0.3765,
+                "Katz": 0.01
+            }
+        },
+        {
+            "ID": "Balon-Swann",
+            "Group": 4,
+            "NodeSize": 2,
+            "Centrality": {
+                "Degree": 2,
+                "Degree_fraction": 0.0108,
+                "Eigenvec": 0.0146,
+                "Btwness": 0.0,
+                "Clsness": 0.3059,
+                "Katz": 0.0
+            }
+        },
+        {
+            "ID": "Barristan-Selmy",
+            "Group": 2,
+            "NodeSize": 14,
+            "Centrality": {
+                "Degree": 14,
+                "Degree_fraction": 0.0753,
+                "Eigenvec": 0.123,
+                "Btwness": 0.0012,
+                "Clsness": 0.3932,
+                "Katz": -0.15
+            }
+        },
+        {
+            "ID": "Benjen-Stark",
+            "Group": 3,
+            "NodeSize": 14,
+            "Centrality": {
+                "Degree": 14,
+                "Degree_fraction": 0.0753,
+                "Eigenvec": 0.0907,
+                "Btwness": 0.0329,
+                "Clsness": 0.4326,
+                "Katz": 0.07
+            }
+        },
+        {
+            "ID": "Beric-Dondarrion",
+            "Group": 4,
+            "NodeSize": 6,
+            "Centrality": {
+                "Degree": 6,
+                "Degree_fraction": 0.0323,
+                "Eigenvec": 0.051,
+                "Btwness": 0.0108,
+                "Clsness": 0.3835,
+                "Katz": -0.02
+            }
+        },
+        {
+            "ID": "Boros-Blount",
+            "Group": 4,
+            "NodeSize": 5,
+            "Centrality": {
+                "Degree": 5,
+                "Degree_fraction": 0.0269,
+                "Eigenvec": 0.0437,
+                "Btwness": 0.0,
+                "Clsness": 0.3394,
+                "Katz": -0.05
+            }
+        },
+        {
+            "ID": "Bowen-Marsh",
+            "Group": 3,
+            "NodeSize": 5,
+            "Centrality": {
+                "Degree": 5,
+                "Degree_fraction": 0.0269,
+                "Eigenvec": 0.0152,
+                "Btwness": 0.0,
+                "Clsness": 0.3357,
+                "Katz": 0.09
+            }
+        },
+        {
+            "ID": "Bran-Stark",
+            "Group": 5,
+            "NodeSize": 32,
+            "Centrality": {
+                "Degree": 32,
+                "Degree_fraction": 0.172,
+                "Eigenvec": 0.1938,
+                "Btwness": 0.0558,
+                "Clsness": 0.4869,
+                "Katz": 0.01
+            }
+        },
+        {
+            "ID": "Brandon-Stark",
+            "Group": 2,
+            "NodeSize": 6,
+            "Centrality": {
+                "Degree": 6,
+                "Degree_fraction": 0.0323,
+                "Eigenvec": 0.044,
+                "Btwness": 0.0021,
+                "Clsness": 0.3804,
+                "Katz": -0.01
+            }
+        },
+        {
+            "ID": "Bronn",
+            "Group": 0,
+            "NodeSize": 10,
+            "Centrality": {
+                "Degree": 10,
+                "Degree_fraction": 0.0538,
+                "Eigenvec": 0.0432,
+                "Btwness": 0.0041,
+                "Clsness": 0.3713,
+                "Katz": 0.06
+            }
+        },
+        {
+            "ID": "Brynden-Tully",
+            "Group": 0,
+            "NodeSize": 11,
+            "Centrality": {
+                "Degree": 11,
+                "Degree_fraction": 0.0591,
+                "Eigenvec": 0.0668,
+                "Btwness": 0.0038,
+                "Clsness": 0.3843,
+                "Katz": 0.04
+            }
+        },
+        {
+            "ID": "Catelyn-Stark",
+            "Group": 0,
+            "NodeSize": 43,
+            "Centrality": {
+                "Degree": 43,
+                "Degree_fraction": 0.2312,
+                "Eigenvec": 0.2125,
+                "Btwness": 0.1514,
+                "Clsness": 0.5054,
+                "Katz": 0.03
+            }
+        },
+        {
+            "ID": "Cayn",
+            "Group": 2,
+            "NodeSize": 3,
+            "Centrality": {
+                "Degree": 3,
+                "Degree_fraction": 0.0161,
+                "Eigenvec": 0.0256,
+                "Btwness": 0.0,
+                "Clsness": 0.3633,
+                "Katz": 0.0
+            }
+        },
+        {
+            "ID": "Cersei-Lannister",
+            "Group": 2,
+            "NodeSize": 30,
+            "Centrality": {
+                "Degree": 30,
+                "Degree_fraction": 0.1613,
+                "Eigenvec": 0.2164,
+                "Btwness": 0.0264,
+                "Clsness": 0.4844,
+                "Katz": -0.17
+            }
+        },
+        {
+            "ID": "Chella",
+            "Group": 0,
+            "NodeSize": 1,
+            "Centrality": {
+                "Degree": 1,
+                "Degree_fraction": 0.0054,
+                "Eigenvec": 0.0114,
+                "Btwness": 0.0,
+                "Clsness": 0.3388,
+                "Katz": 0.03
+            }
+        },
+        {
+            "ID": "Chett",
+            "Group": 3,
+            "NodeSize": 3,
+            "Centrality": {
+                "Degree": 3,
+                "Degree_fraction": 0.0161,
+                "Eigenvec": 0.0108,
+                "Btwness": 0.0,
+                "Clsness": 0.3333,
+                "Katz": 0.07
+            }
+        },
+        {
+            "ID": "Chiggen",
+            "Group": 0,
+            "NodeSize": 3,
+            "Centrality": {
+                "Degree": 3,
+                "Degree_fraction": 0.0161,
+                "Eigenvec": 0.0153,
+                "Btwness": 0.0,
+                "Clsness": 0.34,
+                "Katz": 0.04
+            }
+        },
+        {
+            "ID": "Clement-Piper",
+            "Group": 0,
+            "NodeSize": 1,
+            "Centrality": {
+                "Degree": 1,
+                "Degree_fraction": 0.0054,
+                "Eigenvec": 0.0003,
+                "Btwness": 0.0,
+                "Clsness": 0.2257,
+                "Katz": 0.03
+            }
+        },
+        {
+            "ID": "Clydas",
+            "Group": 3,
+            "NodeSize": 1,
+            "Centrality": {
+                "Degree": 1,
+                "Degree_fraction": 0.0054,
+                "Eigenvec": 0.0008,
+                "Btwness": 0.0,
+                "Clsness": 0.2524,
+                "Katz": 0.04
+            }
+        },
+        {
+            "ID": "Cohollo",
+            "Group": 1,
+            "NodeSize": 4,
+            "Centrality": {
+                "Degree": 4,
+                "Degree_fraction": 0.0215,
+                "Eigenvec": 0.0041,
+                "Btwness": 0.0,
+                "Clsness": 0.292,
+                "Katz": 0.1
+            }
+        },
+        {
+            "ID": "Colemon",
+            "Group": 0,
+            "NodeSize": 2,
+            "Centrality": {
+                "Degree": 2,
+                "Degree_fraction": 0.0108,
+                "Eigenvec": 0.0123,
+                "Btwness": 0.0,
+                "Clsness": 0.337,
+                "Katz": 0.04
+            }
+        },
+        {
+            "ID": "Conn",
+            "Group": 0,
+            "NodeSize": 3,
+            "Centrality": {
+                "Degree": 3,
+                "Degree_fraction": 0.0161,
+                "Eigenvec": 0.0122,
+                "Btwness": 0.0108,
+                "Clsness": 0.3419,
+                "Katz": 0.04
+            }
+        },
+        {
+            "ID": "Coratt",
+            "Group": 0,
+            "NodeSize": 1,
+            "Centrality": {
+                "Degree": 1,
+                "Degree_fraction": 0.0054,
+                "Eigenvec": 0.0006,
+                "Btwness": 0.0,
+                "Clsness": 0.2551,
+                "Katz": 0.03
+            }
+        },
+        {
+            "ID": "Daenerys-Targaryen",
+            "Group": 1,
+            "NodeSize": 21,
+            "Centrality": {
+                "Degree": 21,
+                "Degree_fraction": 0.1129,
+                "Eigenvec": 0.0474,
+                "Btwness": 0.0863,
+                "Clsness": 0.4052,
+                "Katz": 0.22
+            }
+        },
+        {
+            "ID": "Danwell-Frey",
+            "Group": 7,
+            "NodeSize": 3,
+            "Centrality": {
+                "Degree": 3,
+                "Degree_fraction": 0.0161,
+                "Eigenvec": 0.0019,
+                "Btwness": 0.0214,
+                "Clsness": 0.2669,
+                "Katz": 0.04
+            }
+        },
+        {
+            "ID": "Dareon",
+            "Group": 3,
+            "NodeSize": 1,
+            "Centrality": {
+                "Degree": 1,
+                "Degree_fraction": 0.0054,
+                "Eigenvec": 0.0086,
+                "Btwness": 0.0,
+                "Clsness": 0.331,
+                "Katz": 0.04
+            }
+        },
+        {
+            "ID": "Daryn-Hornwood",
+            "Group": 2,
+            "NodeSize": 2,
+            "Centrality": {
+                "Degree": 2,
+                "Degree_fraction": 0.0108,
+                "Eigenvec": 0.0163,
+                "Btwness": 0.0,
+                "Clsness": 0.3619,
+                "Katz": 0.02
+            }
+        },
+        {
+            "ID": "Desmond",
+            "Group": 4,
+            "NodeSize": 2,
+            "Centrality": {
+                "Degree": 2,
+                "Degree_fraction": 0.0108,
+                "Eigenvec": 0.024,
+                "Btwness": 0.0,
+                "Clsness": 0.3683,
+                "Katz": 0.01
+            }
+        },
+        {
+            "ID": "Dolf",
+            "Group": 0,
+            "NodeSize": 1,
+            "Centrality": {
+                "Degree": 1,
+                "Degree_fraction": 0.0054,
+                "Eigenvec": 0.0008,
+                "Btwness": 0.0,
+                "Clsness": 0.2562,
+                "Katz": 0.03
+            }
+        },
+        {
+            "ID": "Donal-Noye",
+            "Group": 3,
+            "NodeSize": 1,
+            "Centrality": {
+                "Degree": 1,
+                "Degree_fraction": 0.0054,
+                "Eigenvec": 0.0086,
+                "Btwness": 0.0,
+                "Clsness": 0.331,
+                "Katz": 0.04
+            }
+        },
+        {
+            "ID": "Donnel-Waynwood",
+            "Group": 0,
+            "NodeSize": 1,
+            "Centrality": {
+                "Degree": 1,
+                "Degree_fraction": 0.0054,
+                "Eigenvec": 0.0107,
+                "Btwness": 0.0,
+                "Clsness": 0.3363,
+                "Katz": 0.03
+            }
+        },
+        {
+            "ID": "Doreah",
+            "Group": 1,
+            "NodeSize": 6,
+            "Centrality": {
+                "Degree": 6,
+                "Degree_fraction": 0.0323,
+                "Eigenvec": 0.0066,
+                "Btwness": 0.0,
+                "Clsness": 0.2929,
+                "Katz": 0.13
+            }
+        },
+        {
+            "ID": "Drogo",
+            "Group": 1,
+            "NodeSize": 19,
+            "Centrality": {
+                "Degree": 19,
+                "Degree_fraction": 0.1022,
+                "Eigenvec": 0.0226,
+                "Btwness": 0.0648,
+                "Clsness": 0.3796,
+                "Katz": 0.24
+            }
+        },
+        {
+            "ID": "Dywen",
+            "Group": 3,
+            "NodeSize": 1,
+            "Centrality": {
+                "Degree": 1,
+                "Degree_fraction": 0.0054,
+                "Eigenvec": 0.0086,
+                "Btwness": 0.0,
+                "Clsness": 0.331,
+                "Katz": 0.04
+            }
+        },
+        {
+            "ID": "Eddard-Stark",
+            "Group": 2,
+            "NodeSize": 66,
+            "Centrality": {
+                "Degree": 66,
+                "Degree_fraction": 0.3548,
+                "Eigenvec": 0.2964,
+                "Btwness": 0.2696,
+                "Clsness": 0.5636,
+                "Katz": -0.11
+            }
+        },
+        {
+            "ID": "Edmure-Tully",
+            "Group": 0,
+            "NodeSize": 11,
+            "Centrality": {
+                "Degree": 11,
+                "Degree_fraction": 0.0591,
+                "Eigenvec": 0.0681,
+                "Btwness": 0.0196,
+                "Clsness": 0.4052,
+                "Katz": 0.01
+            }
+        },
+        {
+            "ID": "Eon-Hunter",
+            "Group": 0,
+            "NodeSize": 3,
+            "Centrality": {
+                "Degree": 3,
+                "Degree_fraction": 0.0161,
+                "Eigenvec": 0.0171,
+                "Btwness": 0.0,
+                "Clsness": 0.3388,
+                "Katz": 0.03
+            }
+        },
+        {
+            "ID": "Eroeh",
+            "Group": 1,
+            "NodeSize": 1,
+            "Centrality": {
+                "Degree": 1,
+                "Degree_fraction": 0.0054,
+                "Eigenvec": 0.0024,
+                "Btwness": 0.0,
+                "Clsness": 0.2888,
+                "Katz": 0.05
+            }
+        },
+        {
+            "ID": "Fogo",
+            "Group": 1,
+            "NodeSize": 1,
+            "Centrality": {
+                "Degree": 1,
+                "Degree_fraction": 0.0054,
+                "Eigenvec": 0.0001,
+                "Btwness": 0.0,
+                "Clsness": 0.217,
+                "Katz": 0.03
+            }
+        },
+        {
+            "ID": "Galbart-Glover",
+            "Group": 5,
+            "NodeSize": 6,
+            "Centrality": {
+                "Degree": 6,
+                "Degree_fraction": 0.0323,
+                "Eigenvec": 0.0412,
+                "Btwness": 0.0009,
+                "Clsness": 0.3835,
+                "Katz": 0.03
+            }
+        },
+        {
+            "ID": "Gared",
+            "Group": 6,
+            "NodeSize": 3,
+            "Centrality": {
+                "Degree": 3,
+                "Degree_fraction": 0.0161,
+                "Eigenvec": 0.0031,
+                "Btwness": 0.0043,
+                "Clsness": 0.2962,
+                "Katz": 0.05
+            }
+        },
+        {
+            "ID": "Gendry",
+            "Group": 2,
+            "NodeSize": 1,
+            "Centrality": {
+                "Degree": 1,
+                "Degree_fraction": 0.0054,
+                "Eigenvec": 0.015,
+                "Btwness": 0.0,
+                "Clsness": 0.3612,
+                "Katz": 0.02
+            }
+        },
+        {
+            "ID": "Gerold-Hightower",
+            "Group": 2,
+            "NodeSize": 5,
+            "Centrality": {
+                "Degree": 5,
+                "Degree_fraction": 0.0269,
+                "Eigenvec": 0.0312,
+                "Btwness": 0.0214,
+                "Clsness": 0.3804,
+                "Katz": 0.01
+            }
+        },
+        {
+            "ID": "Gregor-Clegane",
+            "Group": 4,
+            "NodeSize": 12,
+            "Centrality": {
+                "Degree": 12,
+                "Degree_fraction": 0.0645,
+                "Eigenvec": 0.1014,
+                "Btwness": 0.0029,
+                "Clsness": 0.4189,
+                "Katz": -0.08
+            }
+        },
+        {
+            "ID": "Grenn",
+            "Group": 3,
+            "NodeSize": 7,
+            "Centrality": {
+                "Degree": 7,
+                "Degree_fraction": 0.0376,
+                "Eigenvec": 0.0164,
+                "Btwness": 0.0002,
+                "Clsness": 0.3363,
+                "Katz": 0.11
+            }
+        },
+        {
+            "ID": "Gunthor-son-of-Gurn",
+            "Group": 0,
+            "NodeSize": 1,
+            "Centrality": {
+                "Degree": 1,
+                "Degree_fraction": 0.0054,
+                "Eigenvec": 0.0114,
+                "Btwness": 0.0,
+                "Clsness": 0.3388,
+                "Katz": 0.03
+            }
+        },
+        {
+            "ID": "Haggo",
+            "Group": 1,
+            "NodeSize": 6,
+            "Centrality": {
+                "Degree": 6,
+                "Degree_fraction": 0.0323,
+                "Eigenvec": 0.0045,
+                "Btwness": 0.0001,
+                "Clsness": 0.2929,
+                "Katz": 0.12
+            }
+        },
+        {
+            "ID": "Halder",
+            "Group": 3,
+            "NodeSize": 8,
+            "Centrality": {
+                "Degree": 8,
+                "Degree_fraction": 0.043,
+                "Eigenvec": 0.0148,
+                "Btwness": 0.0002,
+                "Clsness": 0.3357,
+                "Katz": 0.12
+            }
+        },
+        {
+            "ID": "Hali",
+            "Group": 5,
+            "NodeSize": 1,
+            "Centrality": {
+                "Degree": 1,
+                "Degree_fraction": 0.0054,
+                "Eigenvec": 0.0098,
+                "Btwness": 0.0,
+                "Clsness": 0.328,
+                "Katz": 0.03
+            }
+        },
+        {
+            "ID": "Hallis-Mollen",
+            "Group": 5,
+            "NodeSize": 5,
+            "Centrality": {
+                "Degree": 5,
+                "Degree_fraction": 0.0269,
+                "Eigenvec": 0.0408,
+                "Btwness": 0.0,
+                "Clsness": 0.355,
+                "Katz": 0.06
+            }
+        },
+        {
+            "ID": "Harwin",
+            "Group": 2,
+            "NodeSize": 4,
+            "Centrality": {
+                "Degree": 4,
+                "Degree_fraction": 0.0215,
+                "Eigenvec": 0.0264,
+                "Btwness": 0.0003,
+                "Clsness": 0.3647,
+                "Katz": 0.02
+            }
+        },
+        {
+            "ID": "Harys-Swyft",
+            "Group": 0,
+            "NodeSize": 1,
+            "Centrality": {
+                "Degree": 1,
+                "Degree_fraction": 0.0054,
+                "Eigenvec": 0.0099,
+                "Btwness": 0.0,
+                "Clsness": 0.3163,
+                "Katz": 0.02
+            }
+        },
+        {
+            "ID": "Heward",
+            "Group": 2,
+            "NodeSize": 2,
+            "Centrality": {
+                "Degree": 2,
+                "Degree_fraction": 0.0108,
+                "Eigenvec": 0.009,
+                "Btwness": 0.0,
+                "Clsness": 0.3049,
+                "Katz": 0.02
+            }
+        },
+        {
+            "ID": "High-Septon-(fat_one)",
+            "Group": 4,
+            "NodeSize": 2,
+            "Centrality": {
+                "Degree": 2,
+                "Degree_fraction": 0.0108,
+                "Eigenvec": 0.0262,
+                "Btwness": 0.0,
+                "Clsness": 0.3647,
+                "Katz": 0.0
+            }
+        },
+        {
+            "ID": "Hobb",
+            "Group": 3,
+            "NodeSize": 1,
+            "Centrality": {
+                "Degree": 1,
+                "Degree_fraction": 0.0054,
+                "Eigenvec": 0.0086,
+                "Btwness": 0.0,
+                "Clsness": 0.331,
+                "Katz": 0.04
+            }
+        },
+        {
+            "ID": "Hodor",
+            "Group": 5,
+            "NodeSize": 4,
+            "Centrality": {
+                "Degree": 4,
+                "Degree_fraction": 0.0215,
+                "Eigenvec": 0.026,
+                "Btwness": 0.0,
+                "Clsness": 0.3413,
+                "Katz": 0.05
+            }
+        },
+        {
+            "ID": "Hosteen-Frey",
+            "Group": 7,
+            "NodeSize": 2,
+            "Centrality": {
+                "Degree": 2,
+                "Degree_fraction": 0.0108,
+                "Eigenvec": 0.0001,
+                "Btwness": 0.0,
+                "Clsness": 0.2111,
+                "Katz": 0.04
+            }
+        },
+        {
+            "ID": "Hoster-Tully",
+            "Group": 0,
+            "NodeSize": 5,
+            "Centrality": {
+                "Degree": 5,
+                "Degree_fraction": 0.0269,
+                "Eigenvec": 0.036,
+                "Btwness": 0.0004,
+                "Clsness": 0.3835,
+                "Katz": 0.03
+            }
+        },
+        {
+            "ID": "Howland-Reed",
+            "Group": 2,
+            "NodeSize": 1,
+            "Centrality": {
+                "Degree": 1,
+                "Degree_fraction": 0.0054,
+                "Eigenvec": 0.015,
+                "Btwness": 0.0,
+                "Clsness": 0.3612,
+                "Katz": 0.02
+            }
+        },
+        {
+            "ID": "Hugh",
+            "Group": 2,
+            "NodeSize": 1,
+            "Centrality": {
+                "Degree": 1,
+                "Degree_fraction": 0.0054,
+                "Eigenvec": 0.0063,
+                "Btwness": 0.0,
+                "Clsness": 0.3049,
+                "Katz": 0.02
+            }
+        },
+        {
+            "ID": "Hullen",
+            "Group": 5,
+            "NodeSize": 6,
+            "Centrality": {
+                "Degree": 6,
+                "Degree_fraction": 0.0323,
+                "Eigenvec": 0.0403,
+                "Btwness": 0.0005,
+                "Clsness": 0.3516,
+                "Katz": 0.04
+            }
+        },
+        {
+            "ID": "Illyrio-Mopatis",
+            "Group": 1,
+            "NodeSize": 6,
+            "Centrality": {
+                "Degree": 6,
+                "Degree_fraction": 0.0323,
+                "Eigenvec": 0.0199,
+                "Btwness": 0.0012,
+                "Clsness": 0.369,
+                "Katz": 0.11
+            }
+        },
+        {
+            "ID": "Ilyn-Payne",
+            "Group": 4,
+            "NodeSize": 9,
+            "Centrality": {
+                "Degree": 9,
+                "Degree_fraction": 0.0484,
+                "Eigenvec": 0.087,
+                "Btwness": 0.0003,
+                "Clsness": 0.3867,
+                "Katz": -0.08
+            }
+        },
+        {
+            "ID": "Irri",
+            "Group": 1,
+            "NodeSize": 8,
+            "Centrality": {
+                "Degree": 8,
+                "Degree_fraction": 0.043,
+                "Eigenvec": 0.0078,
+                "Btwness": 0.0001,
+                "Clsness": 0.2938,
+                "Katz": 0.16
+            }
+        },
+        {
+            "ID": "Jacks",
+            "Group": 2,
+            "NodeSize": 1,
+            "Centrality": {
+                "Degree": 1,
+                "Degree_fraction": 0.0054,
+                "Eigenvec": 0.015,
+                "Btwness": 0.0,
+                "Clsness": 0.3612,
+                "Katz": 0.02
+            }
+        },
+        {
+            "ID": "Jafer-Flowers",
+            "Group": 3,
+            "NodeSize": 1,
+            "Centrality": {
+                "Degree": 1,
+                "Degree_fraction": 0.0054,
+                "Eigenvec": 0.0008,
+                "Btwness": 0.0,
+                "Clsness": 0.2517,
+                "Katz": 0.03
+            }
+        },
+        {
+            "ID": "Jaime-Lannister",
+            "Group": 0,
+            "NodeSize": 29,
+            "Centrality": {
+                "Degree": 29,
+                "Degree_fraction": 0.1559,
+                "Eigenvec": 0.195,
+                "Btwness": 0.032,
+                "Clsness": 0.4615,
+                "Katz": -0.12
+            }
+        },
+        {
+            "ID": "Janos-Slynt",
+            "Group": 2,
+            "NodeSize": 7,
+            "Centrality": {
+                "Degree": 7,
+                "Degree_fraction": 0.0376,
+                "Eigenvec": 0.0788,
+                "Btwness": 0.0,
+                "Clsness": 0.3827,
+                "Katz": -0.08
+            }
+        },
+        {
+            "ID": "Jared-Frey",
+            "Group": 7,
+            "NodeSize": 2,
+            "Centrality": {
+                "Degree": 2,
+                "Degree_fraction": 0.0108,
+                "Eigenvec": 0.0001,
+                "Btwness": 0.0,
+                "Clsness": 0.2111,
+                "Katz": 0.04
+            }
+        },
+        {
+            "ID": "Jaremy-Rykker",
+            "Group": 3,
+            "NodeSize": 4,
+            "Centrality": {
+                "Degree": 4,
+                "Degree_fraction": 0.0215,
+                "Eigenvec": 0.0161,
+                "Btwness": 0.0108,
+                "Clsness": 0.3357,
+                "Katz": 0.06
+            }
+        },
+        {
+            "ID": "Jeor-Mormont",
+            "Group": 3,
+            "NodeSize": 13,
+            "Centrality": {
+                "Degree": 13,
+                "Degree_fraction": 0.0699,
+                "Eigenvec": 0.0571,
+                "Btwness": 0.0283,
+                "Clsness": 0.4161,
+                "Katz": 0.12
+            }
+        },
+        {
+            "ID": "Jeyne-Poole",
+            "Group": 4,
+            "NodeSize": 6,
+            "Centrality": {
+                "Degree": 6,
+                "Degree_fraction": 0.0323,
+                "Eigenvec": 0.0494,
+                "Btwness": 0.0001,
+                "Clsness": 0.3647,
+                "Katz": -0.03
+            }
+        },
+        {
+            "ID": "Jhiqui",
+            "Group": 1,
+            "NodeSize": 5,
+            "Centrality": {
+                "Degree": 5,
+                "Degree_fraction": 0.0269,
+                "Eigenvec": 0.0055,
+                "Btwness": 0.0,
+                "Clsness": 0.2925,
+                "Katz": 0.12
+            }
+        },
+        {
+            "ID": "Jhogo",
+            "Group": 1,
+            "NodeSize": 6,
+            "Centrality": {
+                "Degree": 6,
+                "Degree_fraction": 0.0323,
+                "Eigenvec": 0.0057,
+                "Btwness": 0.0,
+                "Clsness": 0.2929,
+                "Katz": 0.14
+            }
+        },
+        {
+            "ID": "Joffrey-Baratheon",
+            "Group": 4,
+            "NodeSize": 30,
+            "Centrality": {
+                "Degree": 30,
+                "Degree_fraction": 0.1613,
+                "Eigenvec": 0.2208,
+                "Btwness": 0.0189,
+                "Clsness": 0.4806,
+                "Katz": -0.17
+            }
+        },
+        {
+            "ID": "Jommo",
+            "Group": 1,
+            "NodeSize": 2,
+            "Centrality": {
+                "Degree": 2,
+                "Degree_fraction": 0.0108,
+                "Eigenvec": 0.0012,
+                "Btwness": 0.0,
+                "Clsness": 0.2764,
+                "Katz": 0.06
+            }
+        },
+        {
+            "ID": "Jon-Arryn",
+            "Group": 2,
+            "NodeSize": 15,
+            "Centrality": {
+                "Degree": 15,
+                "Degree_fraction": 0.0806,
+                "Eigenvec": 0.1247,
+                "Btwness": 0.0125,
+                "Clsness": 0.4376,
+                "Katz": -0.08
+            }
+        },
+        {
+            "ID": "Jon-Snow",
+            "Group": 3,
+            "NodeSize": 37,
+            "Centrality": {
+                "Degree": 37,
+                "Degree_fraction": 0.1989,
+                "Eigenvec": 0.1705,
+                "Btwness": 0.1716,
+                "Clsness": 0.4934,
+                "Katz": 0.14
+            }
+        },
+        {
+            "ID": "Jon-Umber-(Greatjon)",
+            "Group": 5,
+            "NodeSize": 8,
+            "Centrality": {
+                "Degree": 8,
+                "Degree_fraction": 0.043,
+                "Eigenvec": 0.0398,
+                "Btwness": 0.0033,
+                "Clsness": 0.3584,
+                "Katz": 0.06
+            }
+        },
+        {
+            "ID": "Jonos-Bracken",
+            "Group": 0,
+            "NodeSize": 1,
+            "Centrality": {
+                "Degree": 1,
+                "Degree_fraction": 0.0054,
+                "Eigenvec": 0.0007,
+                "Btwness": 0.0,
+                "Clsness": 0.2541,
+                "Katz": 0.03
+            }
+        },
+        {
+            "ID": "Jorah-Mormont",
+            "Group": 1,
+            "NodeSize": 13,
+            "Centrality": {
+                "Degree": 13,
+                "Degree_fraction": 0.0699,
+                "Eigenvec": 0.0241,
+                "Btwness": 0.0126,
+                "Clsness": 0.3742,
+                "Katz": 0.19
+            }
+        },
+        {
+            "ID": "Jory-Cassel",
+            "Group": 2,
+            "NodeSize": 21,
+            "Centrality": {
+                "Degree": 21,
+                "Degree_fraction": 0.1129,
+                "Eigenvec": 0.1447,
+                "Btwness": 0.0175,
+                "Clsness": 0.4366,
+                "Katz": -0.05
+            }
+        },
+        {
+            "ID": "Joseth",
+            "Group": 5,
+            "NodeSize": 2,
+            "Centrality": {
+                "Degree": 2,
+                "Degree_fraction": 0.0108,
+                "Eigenvec": 0.015,
+                "Btwness": 0.0,
+                "Clsness": 0.3286,
+                "Katz": 0.04
+            }
+        },
+        {
+            "ID": "Joss",
+            "Group": 2,
+            "NodeSize": 1,
+            "Centrality": {
+                "Degree": 1,
+                "Degree_fraction": 0.0054,
+                "Eigenvec": 0.015,
+                "Btwness": 0.0,
+                "Clsness": 0.3612,
+                "Katz": 0.02
+            }
+        },
+        {
+            "ID": "Jyck",
+            "Group": 0,
+            "NodeSize": 2,
+            "Centrality": {
+                "Degree": 2,
+                "Degree_fraction": 0.0108,
+                "Eigenvec": 0.012,
+                "Btwness": 0.0,
+                "Clsness": 0.3394,
+                "Katz": 0.03
+            }
+        },
+        {
+            "ID": "Karyl-Vance",
+            "Group": 0,
+            "NodeSize": 3,
+            "Centrality": {
+                "Degree": 3,
+                "Degree_fraction": 0.0161,
+                "Eigenvec": 0.005,
+                "Btwness": 0.0108,
+                "Clsness": 0.2911,
+                "Katz": 0.03
+            }
+        },
+        {
+            "ID": "Kevan-Lannister",
+            "Group": 0,
+            "NodeSize": 3,
+            "Centrality": {
+                "Degree": 3,
+                "Degree_fraction": 0.0161,
+                "Eigenvec": 0.0283,
+                "Btwness": 0.0,
+                "Clsness": 0.357,
+                "Katz": 0.01
+            }
+        },
+        {
+            "ID": "Kurleket",
+            "Group": 0,
+            "NodeSize": 1,
+            "Centrality": {
+                "Degree": 1,
+                "Degree_fraction": 0.0054,
+                "Eigenvec": 0.0114,
+                "Btwness": 0.0,
+                "Clsness": 0.3388,
+                "Katz": 0.03
+            }
+        },
+        {
+            "ID": "Lancel-Lannister",
+            "Group": 2,
+            "NodeSize": 1,
+            "Centrality": {
+                "Degree": 1,
+                "Degree_fraction": 0.0054,
+                "Eigenvec": 0.0136,
+                "Btwness": 0.0,
+                "Clsness": 0.3536,
+                "Katz": 0.02
+            }
+        },
+        {
+            "ID": "Leo-Lefford",
+            "Group": 0,
+            "NodeSize": 1,
+            "Centrality": {
+                "Degree": 1,
+                "Degree_fraction": 0.0054,
+                "Eigenvec": 0.0114,
+                "Btwness": 0.0,
+                "Clsness": 0.3388,
+                "Katz": 0.03
+            }
+        },
+        {
+            "ID": "Loras-Tyrell",
+            "Group": 4,
+            "NodeSize": 14,
+            "Centrality": {
+                "Degree": 14,
+                "Degree_fraction": 0.0753,
+                "Eigenvec": 0.1079,
+                "Btwness": 0.0224,
+                "Clsness": 0.3983,
+                "Katz": -0.1
+            }
+        },
+        {
+            "ID": "Luwin",
+            "Group": 5,
+            "NodeSize": 18,
+            "Centrality": {
+                "Degree": 18,
+                "Degree_fraction": 0.0968,
+                "Eigenvec": 0.1025,
+                "Btwness": 0.0132,
+                "Clsness": 0.4493,
+                "Katz": 0.09
+            }
+        },
+        {
+            "ID": "Lyanna-Stark",
+            "Group": 2,
+            "NodeSize": 4,
+            "Centrality": {
+                "Degree": 4,
+                "Degree_fraction": 0.0215,
+                "Eigenvec": 0.0425,
+                "Btwness": 0.0,
+                "Clsness": 0.3804,
+                "Katz": -0.01
+            }
+        },
+        {
+            "ID": "Lyn-Corbray",
+            "Group": 0,
+            "NodeSize": 1,
+            "Centrality": {
+                "Degree": 1,
+                "Degree_fraction": 0.0054,
+                "Eigenvec": 0.0048,
+                "Btwness": 0.0,
+                "Clsness": 0.301,
+                "Katz": 0.03
+            }
+        },
+        {
+            "ID": "Lysa-Arryn",
+            "Group": 0,
+            "NodeSize": 15,
+            "Centrality": {
+                "Degree": 15,
+                "Degree_fraction": 0.0806,
+                "Eigenvec": 0.0953,
+                "Btwness": 0.0182,
+                "Clsness": 0.4296,
+                "Katz": -0.01
+            }
+        },
+        {
+            "ID": "Mace-Tyrell",
+            "Group": 4,
+            "NodeSize": 2,
+            "Centrality": {
+                "Degree": 2,
+                "Degree_fraction": 0.0108,
+                "Eigenvec": 0.0055,
+                "Btwness": 0.0108,
+                "Clsness": 0.2862,
+                "Katz": 0.02
+            }
+        },
+        {
+            "ID": "Maege-Mormont",
+            "Group": 5,
+            "NodeSize": 2,
+            "Centrality": {
+                "Degree": 2,
+                "Degree_fraction": 0.0108,
+                "Eigenvec": 0.0053,
+                "Btwness": 0.0,
+                "Clsness": 0.2906,
+                "Katz": 0.04
+            }
+        },
+        {
+            "ID": "Maegor-I-Targaryen",
+            "Group": 4,
+            "NodeSize": 1,
+            "Centrality": {
+                "Degree": 1,
+                "Degree_fraction": 0.0054,
+                "Eigenvec": 0.0117,
+                "Btwness": 0.0,
+                "Clsness": 0.3292,
+                "Katz": 0.01
+            }
+        },
+        {
+            "ID": "Mance-Rayder",
+            "Group": 3,
+            "NodeSize": 1,
+            "Centrality": {
+                "Degree": 1,
+                "Degree_fraction": 0.0054,
+                "Eigenvec": 0.0046,
+                "Btwness": 0.0,
+                "Clsness": 0.3024,
+                "Katz": 0.04
+            }
+        },
+        {
+            "ID": "Marillion",
+            "Group": 0,
+            "NodeSize": 5,
+            "Centrality": {
+                "Degree": 5,
+                "Degree_fraction": 0.0269,
+                "Eigenvec": 0.0329,
+                "Btwness": 0.0,
+                "Clsness": 0.3619,
+                "Katz": 0.04
+            }
+        },
+        {
+            "ID": "Marq-Piper",
+            "Group": 4,
+            "NodeSize": 5,
+            "Centrality": {
+                "Degree": 5,
+                "Degree_fraction": 0.0269,
+                "Eigenvec": 0.0309,
+                "Btwness": 0.0062,
+                "Clsness": 0.3758,
+                "Katz": 0.01
+            }
+        },
+        {
+            "ID": "Masha-Heddle",
+            "Group": 0,
+            "NodeSize": 1,
+            "Centrality": {
+                "Degree": 1,
+                "Degree_fraction": 0.0054,
+                "Eigenvec": 0.0107,
+                "Btwness": 0.0,
+                "Clsness": 0.3363,
+                "Katz": 0.03
+            }
+        },
+        {
+            "ID": "Matthar",
+            "Group": 3,
+            "NodeSize": 1,
+            "Centrality": {
+                "Degree": 1,
+                "Degree_fraction": 0.0054,
+                "Eigenvec": 0.0086,
+                "Btwness": 0.0,
+                "Clsness": 0.331,
+                "Katz": 0.04
+            }
+        },
+        {
+            "ID": "Meryn-Trant",
+            "Group": 4,
+            "NodeSize": 9,
+            "Centrality": {
+                "Degree": 9,
+                "Degree_fraction": 0.0484,
+                "Eigenvec": 0.0731,
+                "Btwness": 0.0007,
+                "Clsness": 0.3676,
+                "Katz": -0.07
+            }
+        },
+        {
+            "ID": "Mirri-Maz-Duur",
+            "Group": 1,
+            "NodeSize": 6,
+            "Centrality": {
+                "Degree": 6,
+                "Degree_fraction": 0.0323,
+                "Eigenvec": 0.0056,
+                "Btwness": 0.0,
+                "Clsness": 0.2929,
+                "Katz": 0.13
+            }
+        },
+        {
+            "ID": "Mord",
+            "Group": 0,
+            "NodeSize": 1,
+            "Centrality": {
+                "Degree": 1,
+                "Degree_fraction": 0.0054,
+                "Eigenvec": 0.0114,
+                "Btwness": 0.0,
+                "Clsness": 0.3388,
+                "Katz": 0.03
+            }
+        },
+        {
+            "ID": "Mordane",
+            "Group": 4,
+            "NodeSize": 11,
+            "Centrality": {
+                "Degree": 11,
+                "Degree_fraction": 0.0591,
+                "Eigenvec": 0.1034,
+                "Btwness": 0.0011,
+                "Clsness": 0.4061,
+                "Katz": -0.07
+            }
+        },
+        {
+            "ID": "Moreo-Tumitis",
+            "Group": 0,
+            "NodeSize": 1,
+            "Centrality": {
+                "Degree": 1,
+                "Degree_fraction": 0.0054,
+                "Eigenvec": 0.0107,
+                "Btwness": 0.0,
+                "Clsness": 0.3363,
+                "Katz": 0.03
+            }
+        },
+        {
+            "ID": "Morrec",
+            "Group": 0,
+            "NodeSize": 2,
+            "Centrality": {
+                "Degree": 2,
+                "Degree_fraction": 0.0108,
+                "Eigenvec": 0.012,
+                "Btwness": 0.0,
+                "Clsness": 0.3394,
+                "Katz": 0.03
+            }
+        },
+        {
+            "ID": "Mya-Stone",
+            "Group": 0,
+            "NodeSize": 1,
+            "Centrality": {
+                "Degree": 1,
+                "Degree_fraction": 0.0054,
+                "Eigenvec": 0.0107,
+                "Btwness": 0.0,
+                "Clsness": 0.3363,
+                "Katz": 0.03
+            }
+        },
+        {
+            "ID": "Mycah",
+            "Group": 4,
+            "NodeSize": 5,
+            "Centrality": {
+                "Degree": 5,
+                "Degree_fraction": 0.0269,
+                "Eigenvec": 0.0537,
+                "Btwness": 0.0,
+                "Clsness": 0.3727,
+                "Katz": -0.04
+            }
+        },
+        {
+            "ID": "Mychel-Redfort",
+            "Group": 0,
+            "NodeSize": 1,
+            "Centrality": {
+                "Degree": 1,
+                "Degree_fraction": 0.0054,
+                "Eigenvec": 0.0107,
+                "Btwness": 0.0,
+                "Clsness": 0.3363,
+                "Katz": 0.03
+            }
+        },
+        {
+            "ID": "Myrcella-Baratheon",
+            "Group": 4,
+            "NodeSize": 7,
+            "Centrality": {
+                "Degree": 7,
+                "Degree_fraction": 0.0376,
+                "Eigenvec": 0.0655,
+                "Btwness": 0.0,
+                "Clsness": 0.3661,
+                "Katz": -0.05
+            }
+        },
+        {
+            "ID": "Nan",
+            "Group": 5,
+            "NodeSize": 4,
+            "Centrality": {
+                "Degree": 4,
+                "Degree_fraction": 0.0215,
+                "Eigenvec": 0.026,
+                "Btwness": 0.0,
+                "Clsness": 0.3413,
+                "Katz": 0.05
+            }
+        },
+        {
+            "ID": "Nestor-Royce",
+            "Group": 0,
+            "NodeSize": 2,
+            "Centrality": {
+                "Degree": 2,
+                "Degree_fraction": 0.0108,
+                "Eigenvec": 0.0141,
+                "Btwness": 0.0,
+                "Clsness": 0.337,
+                "Katz": 0.04
+            }
+        },
+        {
+            "ID": "Ogo",
+            "Group": 1,
+            "NodeSize": 3,
+            "Centrality": {
+                "Degree": 3,
+                "Degree_fraction": 0.0161,
+                "Eigenvec": 0.0012,
+                "Btwness": 0.0108,
+                "Clsness": 0.2768,
+                "Katz": 0.06
+            }
+        },
+        {
+            "ID": "Osha",
+            "Group": 5,
+            "NodeSize": 3,
+            "Centrality": {
+                "Degree": 3,
+                "Degree_fraction": 0.0161,
+                "Eigenvec": 0.0247,
+                "Btwness": 0.0,
+                "Clsness": 0.3407,
+                "Katz": 0.05
+            }
+        },
+        {
+            "ID": "Oswell-Whent",
+            "Group": 2,
+            "NodeSize": 1,
+            "Centrality": {
+                "Degree": 1,
+                "Degree_fraction": 0.0054,
+                "Eigenvec": 0.0016,
+                "Btwness": 0.0,
+                "Clsness": 0.276,
+                "Katz": 0.03
+            }
+        },
+        {
+            "ID": "Othor",
+            "Group": 3,
+            "NodeSize": 1,
+            "Centrality": {
+                "Degree": 1,
+                "Degree_fraction": 0.0054,
+                "Eigenvec": 0.0086,
+                "Btwness": 0.0,
+                "Clsness": 0.331,
+                "Katz": 0.04
+            }
+        },
+        {
+            "ID": "Paxter-Redwyne",
+            "Group": 4,
+            "NodeSize": 1,
+            "Centrality": {
+                "Degree": 1,
+                "Degree_fraction": 0.0054,
+                "Eigenvec": 0.0003,
+                "Btwness": 0.0,
+                "Clsness": 0.2228,
+                "Katz": 0.03
+            }
+        },
+        {
+            "ID": "Petyr-Baelish",
+            "Group": 2,
+            "NodeSize": 26,
+            "Centrality": {
+                "Degree": 26,
+                "Degree_fraction": 0.1398,
+                "Eigenvec": 0.2015,
+                "Btwness": 0.0094,
+                "Clsness": 0.457,
+                "Katz": -0.17
+            }
+        },
+        {
+            "ID": "Porther",
+            "Group": 2,
+            "NodeSize": 1,
+            "Centrality": {
+                "Degree": 1,
+                "Degree_fraction": 0.0054,
+                "Eigenvec": 0.015,
+                "Btwness": 0.0,
+                "Clsness": 0.3612,
+                "Katz": 0.02
+            }
+        },
+        {
+            "ID": "Pycelle",
+            "Group": 2,
+            "NodeSize": 14,
+            "Centrality": {
+                "Degree": 14,
+                "Degree_fraction": 0.0753,
+                "Eigenvec": 0.1222,
+                "Btwness": 0.0003,
+                "Clsness": 0.3983,
+                "Katz": -0.14
+            }
+        },
+        {
+            "ID": "Pypar",
+            "Group": 3,
+            "NodeSize": 7,
+            "Centrality": {
+                "Degree": 7,
+                "Degree_fraction": 0.0376,
+                "Eigenvec": 0.0143,
+                "Btwness": 0.0001,
+                "Clsness": 0.3351,
+                "Katz": 0.11
+            }
+        },
+        {
+            "ID": "Qotho",
+            "Group": 1,
+            "NodeSize": 7,
+            "Centrality": {
+                "Degree": 7,
+                "Degree_fraction": 0.0376,
+                "Eigenvec": 0.0057,
+                "Btwness": 0.0001,
+                "Clsness": 0.2934,
+                "Katz": 0.14
+            }
+        },
+        {
+            "ID": "Quaro",
+            "Group": 1,
+            "NodeSize": 5,
+            "Centrality": {
+                "Degree": 5,
+                "Degree_fraction": 0.0269,
+                "Eigenvec": 0.0043,
+                "Btwness": 0.0,
+                "Clsness": 0.2925,
+                "Katz": 0.11
+            }
+        },
+        {
+            "ID": "Rakharo",
+            "Group": 1,
+            "NodeSize": 5,
+            "Centrality": {
+                "Degree": 5,
+                "Degree_fraction": 0.0269,
+                "Eigenvec": 0.0043,
+                "Btwness": 0.0,
+                "Clsness": 0.2925,
+                "Katz": 0.11
+            }
+        },
+        {
+            "ID": "Randyll-Tarly",
+            "Group": 3,
+            "NodeSize": 1,
+            "Centrality": {
+                "Degree": 1,
+                "Degree_fraction": 0.0054,
+                "Eigenvec": 0.0014,
+                "Btwness": 0.0,
+                "Clsness": 0.2638,
+                "Katz": 0.04
+            }
+        },
+        {
+            "ID": "Rast",
+            "Group": 3,
+            "NodeSize": 6,
+            "Centrality": {
+                "Degree": 6,
+                "Degree_fraction": 0.0323,
+                "Eigenvec": 0.0135,
+                "Btwness": 0.0001,
+                "Clsness": 0.3345,
+                "Katz": 0.1
+            }
+        },
+        {
+            "ID": "Raymun-Darry",
+            "Group": 2,
+            "NodeSize": 2,
+            "Centrality": {
+                "Degree": 2,
+                "Degree_fraction": 0.0108,
+                "Eigenvec": 0.0286,
+                "Btwness": 0.0,
+                "Clsness": 0.3765,
+                "Katz": 0.01
+            }
+        },
+        {
+            "ID": "Renly-Baratheon",
+            "Group": 2,
+            "NodeSize": 18,
+            "Centrality": {
+                "Degree": 18,
+                "Degree_fraction": 0.0968,
+                "Eigenvec": 0.1532,
+                "Btwness": 0.0096,
+                "Clsness": 0.4346,
+                "Katz": -0.14
+            }
+        },
+        {
+            "ID": "Rhaegar-Targaryen",
+            "Group": 2,
+            "NodeSize": 7,
+            "Centrality": {
+                "Degree": 7,
+                "Degree_fraction": 0.0376,
+                "Eigenvec": 0.0521,
+                "Btwness": 0.0028,
+                "Clsness": 0.4,
+                "Katz": 0.04
+            }
+        },
+        {
+            "ID": "Rhaego",
+            "Group": 1,
+            "NodeSize": 1,
+            "Centrality": {
+                "Degree": 1,
+                "Degree_fraction": 0.0054,
+                "Eigenvec": 0.0011,
+                "Btwness": 0.0,
+                "Clsness": 0.2756,
+                "Katz": 0.05
+            }
+        },
+        {
+            "ID": "Rickard-Karstark",
+            "Group": 5,
+            "NodeSize": 10,
+            "Centrality": {
+                "Degree": 10,
+                "Degree_fraction": 0.0538,
+                "Eigenvec": 0.0659,
+                "Btwness": 0.0095,
+                "Clsness": 0.4061,
+                "Katz": 0.04
+            }
+        },
+        {
+            "ID": "Rickard-Stark",
+            "Group": 5,
+            "NodeSize": 2,
+            "Centrality": {
+                "Degree": 2,
+                "Degree_fraction": 0.0108,
+                "Eigenvec": 0.012,
+                "Btwness": 0.0001,
+                "Clsness": 0.3304,
+                "Katz": 0.03
+            }
+        },
+        {
+            "ID": "Rickon-Stark",
+            "Group": 5,
+            "NodeSize": 9,
+            "Centrality": {
+                "Degree": 9,
+                "Degree_fraction": 0.0484,
+                "Eigenvec": 0.0912,
+                "Btwness": 0.0001,
+                "Clsness": 0.4397,
+                "Katz": 0.03
+            }
+        },
+        {
+            "ID": "Robb-Stark",
+            "Group": 5,
+            "NodeSize": 35,
+            "Centrality": {
+                "Degree": 35,
+                "Degree_fraction": 0.1882,
+                "Eigenvec": 0.1925,
+                "Btwness": 0.073,
+                "Clsness": 0.4973,
+                "Katz": 0.06
+            }
+        },
+        {
+            "ID": "Robert-Arryn",
+            "Group": 0,
+            "NodeSize": 3,
+            "Centrality": {
+                "Degree": 3,
+                "Degree_fraction": 0.0161,
+                "Eigenvec": 0.027,
+                "Btwness": 0.0,
+                "Clsness": 0.3577,
+                "Katz": 0.03
+            }
+        },
+        {
+            "ID": "Robert-Baratheon",
+            "Group": 2,
+            "NodeSize": 50,
+            "Centrality": {
+                "Degree": 50,
+                "Degree_fraction": 0.2688,
+                "Eigenvec": 0.2695,
+                "Btwness": 0.214,
+                "Clsness": 0.5455,
+                "Katz": -0.09
+            }
+        },
+        {
+            "ID": "Rodrik-Cassel",
+            "Group": 5,
+            "NodeSize": 18,
+            "Centrality": {
+                "Degree": 18,
+                "Degree_fraction": 0.0968,
+                "Eigenvec": 0.1364,
+                "Btwness": 0.0096,
+                "Clsness": 0.4537,
+                "Katz": 0.01
+            }
+        },
+        {
+            "ID": "Roose-Bolton",
+            "Group": 5,
+            "NodeSize": 5,
+            "Centrality": {
+                "Degree": 5,
+                "Degree_fraction": 0.0269,
+                "Eigenvec": 0.0242,
+                "Btwness": 0.0,
+                "Clsness": 0.3425,
+                "Katz": 0.04
+            }
+        },
+        {
+            "ID": "Samwell-Tarly",
+            "Group": 3,
+            "NodeSize": 12,
+            "Centrality": {
+                "Degree": 12,
+                "Degree_fraction": 0.0645,
+                "Eigenvec": 0.0279,
+                "Btwness": 0.0144,
+                "Clsness": 0.3577,
+                "Katz": 0.15
+            }
+        },
+        {
+            "ID": "Sandor-Clegane",
+            "Group": 4,
+            "NodeSize": 16,
+            "Centrality": {
+                "Degree": 16,
+                "Degree_fraction": 0.086,
+                "Eigenvec": 0.1346,
+                "Btwness": 0.0062,
+                "Clsness": 0.4152,
+                "Katz": -0.14
+            }
+        },
+        {
+            "ID": "Sansa-Stark",
+            "Group": 4,
+            "NodeSize": 35,
+            "Centrality": {
+                "Degree": 35,
+                "Degree_fraction": 0.1882,
+                "Eigenvec": 0.2316,
+                "Btwness": 0.0371,
+                "Clsness": 0.4895,
+                "Katz": -0.18
+            }
+        },
+        {
+            "ID": "Shae",
+            "Group": 0,
+            "NodeSize": 2,
+            "Centrality": {
+                "Degree": 2,
+                "Degree_fraction": 0.0108,
+                "Eigenvec": 0.0136,
+                "Btwness": 0.0,
+                "Clsness": 0.3394,
+                "Katz": 0.04
+            }
+        },
+        {
+            "ID": "Shagga",
+            "Group": 0,
+            "NodeSize": 6,
+            "Centrality": {
+                "Degree": 6,
+                "Degree_fraction": 0.0323,
+                "Eigenvec": 0.0149,
+                "Btwness": 0.0216,
+                "Clsness": 0.3438,
+                "Katz": 0.05
+            }
+        },
+        {
+            "ID": "Stannis-Baratheon",
+            "Group": 2,
+            "NodeSize": 12,
+            "Centrality": {
+                "Degree": 12,
+                "Degree_fraction": 0.0645,
+                "Eigenvec": 0.1095,
+                "Btwness": 0.0004,
+                "Clsness": 0.4017,
+                "Katz": -0.1
+            }
+        },
+        {
+            "ID": "Stevron-Frey",
+            "Group": 0,
+            "NodeSize": 2,
+            "Centrality": {
+                "Degree": 2,
+                "Degree_fraction": 0.0108,
+                "Eigenvec": 0.0126,
+                "Btwness": 0.0,
+                "Clsness": 0.3388,
+                "Katz": 0.04
+            }
+        },
+        {
+            "ID": "Stiv",
+            "Group": 5,
+            "NodeSize": 2,
+            "Centrality": {
+                "Degree": 2,
+                "Degree_fraction": 0.0108,
+                "Eigenvec": 0.0195,
+                "Btwness": 0.0,
+                "Clsness": 0.34,
+                "Katz": 0.04
+            }
+        },
+        {
+            "ID": "Syrio-Forel",
+            "Group": 4,
+            "NodeSize": 3,
+            "Centrality": {
+                "Degree": 3,
+                "Degree_fraction": 0.0161,
+                "Eigenvec": 0.0277,
+                "Btwness": 0.0001,
+                "Clsness": 0.3698,
+                "Katz": 0.0
+            }
+        },
+        {
+            "ID": "Theon-Greyjoy",
+            "Group": 5,
+            "NodeSize": 15,
+            "Centrality": {
+                "Degree": 15,
+                "Degree_fraction": 0.0806,
+                "Eigenvec": 0.1056,
+                "Btwness": 0.0098,
+                "Clsness": 0.4504,
+                "Katz": 0.07
+            }
+        },
+        {
+            "ID": "Thoros-of-Myr",
+            "Group": 4,
+            "NodeSize": 1,
+            "Centrality": {
+                "Degree": 1,
+                "Degree_fraction": 0.0054,
+                "Eigenvec": 0.0026,
+                "Btwness": 0.0,
+                "Clsness": 0.2776,
+                "Katz": 0.03
+            }
+        },
+        {
+            "ID": "Timett",
+            "Group": 0,
+            "NodeSize": 2,
+            "Centrality": {
+                "Degree": 2,
+                "Degree_fraction": 0.0108,
+                "Eigenvec": 0.0121,
+                "Btwness": 0.0,
+                "Clsness": 0.3407,
+                "Katz": 0.04
+            }
+        },
+        {
+            "ID": "Tobho-Mott",
+            "Group": 2,
+            "NodeSize": 1,
+            "Centrality": {
+                "Degree": 1,
+                "Degree_fraction": 0.0054,
+                "Eigenvec": 0.015,
+                "Btwness": 0.0,
+                "Clsness": 0.3612,
+                "Katz": 0.02
+            }
+        },
+        {
+            "ID": "Todder",
+            "Group": 3,
+            "NodeSize": 4,
+            "Centrality": {
+                "Degree": 4,
+                "Degree_fraction": 0.0215,
+                "Eigenvec": 0.0109,
+                "Btwness": 0.0,
+                "Clsness": 0.3327,
+                "Katz": 0.08
+            }
+        },
+        {
+            "ID": "Tomard",
+            "Group": 2,
+            "NodeSize": 7,
+            "Centrality": {
+                "Degree": 7,
+                "Degree_fraction": 0.0376,
+                "Eigenvec": 0.0565,
+                "Btwness": 0.0003,
+                "Clsness": 0.375,
+                "Katz": -0.03
+            }
+        },
+        {
+            "ID": "Tommen-Baratheon",
+            "Group": 4,
+            "NodeSize": 8,
+            "Centrality": {
+                "Degree": 8,
+                "Degree_fraction": 0.043,
+                "Eigenvec": 0.0744,
+                "Btwness": 0.0006,
+                "Clsness": 0.3932,
+                "Katz": -0.01
+            }
+        },
+        {
+            "ID": "Torrhen-Karstark",
+            "Group": 2,
+            "NodeSize": 3,
+            "Centrality": {
+                "Degree": 3,
+                "Degree_fraction": 0.0161,
+                "Eigenvec": 0.0255,
+                "Btwness": 0.0003,
+                "Clsness": 0.378,
+                "Katz": 0.03
+            }
+        },
+        {
+            "ID": "Tregar",
+            "Group": 2,
+            "NodeSize": 1,
+            "Centrality": {
+                "Degree": 1,
+                "Degree_fraction": 0.0054,
+                "Eigenvec": 0.015,
+                "Btwness": 0.0,
+                "Clsness": 0.3612,
+                "Katz": 0.02
+            }
+        },
+        {
+            "ID": "Tyrion-Lannister",
+            "Group": 0,
+            "NodeSize": 46,
+            "Centrality": {
+                "Degree": 46,
+                "Degree_fraction": 0.2473,
+                "Eigenvec": 0.2252,
+                "Btwness": 0.1902,
+                "Clsness": 0.511,
+                "Katz": 0.02
+            }
+        },
+        {
+            "ID": "Tytos-Blackwood",
+            "Group": 0,
+            "NodeSize": 3,
+            "Centrality": {
+                "Degree": 3,
+                "Degree_fraction": 0.0161,
+                "Eigenvec": 0.0142,
+                "Btwness": 0.0108,
+                "Clsness": 0.34,
+                "Katz": 0.04
+            }
+        },
+        {
+            "ID": "Tywin-Lannister",
+            "Group": 0,
+            "NodeSize": 22,
+            "Centrality": {
+                "Degree": 22,
+                "Degree_fraction": 0.1183,
+                "Eigenvec": 0.1394,
+                "Btwness": 0.0262,
+                "Clsness": 0.4493,
+                "Katz": -0.03
+            }
+        },
+        {
+            "ID": "Ulf-son-of-Umar",
+            "Group": 0,
+            "NodeSize": 1,
+            "Centrality": {
+                "Degree": 1,
+                "Degree_fraction": 0.0054,
+                "Eigenvec": 0.0008,
+                "Btwness": 0.0,
+                "Clsness": 0.2562,
+                "Katz": 0.03
+            }
+        },
+        {
+            "ID": "Vardis-Egen",
+            "Group": 0,
+            "NodeSize": 6,
+            "Centrality": {
+                "Degree": 6,
+                "Degree_fraction": 0.0323,
+                "Eigenvec": 0.0306,
+                "Btwness": 0.0012,
+                "Clsness": 0.3598,
+                "Katz": 0.04
+            }
+        },
+        {
+            "ID": "Varly",
+            "Group": 2,
+            "NodeSize": 1,
+            "Centrality": {
+                "Degree": 1,
+                "Degree_fraction": 0.0054,
+                "Eigenvec": 0.015,
+                "Btwness": 0.0,
+                "Clsness": 0.3612,
+                "Katz": 0.02
+            }
+        },
+        {
+            "ID": "Varys",
+            "Group": 2,
+            "NodeSize": 17,
+            "Centrality": {
+                "Degree": 17,
+                "Degree_fraction": 0.0914,
+                "Eigenvec": 0.1504,
+                "Btwness": 0.0108,
+                "Clsness": 0.446,
+                "Katz": -0.12
+            }
+        },
+        {
+            "ID": "Vayon-Poole",
+            "Group": 2,
+            "NodeSize": 5,
+            "Centrality": {
+                "Degree": 5,
+                "Degree_fraction": 0.0269,
+                "Eigenvec": 0.0559,
+                "Btwness": 0.0,
+                "Clsness": 0.3827,
+                "Katz": -0.02
+            }
+        },
+        {
+            "ID": "Viserys-Targaryen",
+            "Group": 1,
+            "NodeSize": 8,
+            "Centrality": {
+                "Degree": 8,
+                "Degree_fraction": 0.043,
+                "Eigenvec": 0.0228,
+                "Btwness": 0.0029,
+                "Clsness": 0.3705,
+                "Katz": 0.13
+            }
+        },
+        {
+            "ID": "Walder-Frey",
+            "Group": 0,
+            "NodeSize": 7,
+            "Centrality": {
+                "Degree": 7,
+                "Degree_fraction": 0.0376,
+                "Eigenvec": 0.037,
+                "Btwness": 0.0323,
+                "Clsness": 0.3605,
+                "Katz": 0.05
+            }
+        },
+        {
+            "ID": "Waymar-Royce",
+            "Group": 6,
+            "NodeSize": 3,
+            "Centrality": {
+                "Degree": 3,
+                "Degree_fraction": 0.0161,
+                "Eigenvec": 0.0048,
+                "Btwness": 0.0067,
+                "Clsness": 0.3044,
+                "Katz": 0.04
+            }
+        },
+        {
+            "ID": "Wendel-Manderly",
+            "Group": 0,
+            "NodeSize": 2,
+            "Centrality": {
+                "Degree": 2,
+                "Degree_fraction": 0.0108,
+                "Eigenvec": 0.0205,
+                "Btwness": 0.0,
+                "Clsness": 0.349,
+                "Katz": 0.04
+            }
+        },
+        {
+            "ID": "Will-(prologue)",
+            "Group": 6,
+            "NodeSize": 2,
+            "Centrality": {
+                "Degree": 2,
+                "Degree_fraction": 0.0108,
+                "Eigenvec": 0.0004,
+                "Btwness": 0.0,
+                "Clsness": 0.2363,
+                "Katz": 0.04
+            }
+        },
+        {
+            "ID": "Willis-Wode",
+            "Group": 0,
+            "NodeSize": 6,
+            "Centrality": {
+                "Degree": 6,
+                "Degree_fraction": 0.0323,
+                "Eigenvec": 0.0337,
+                "Btwness": 0.0004,
+                "Clsness": 0.3626,
+                "Katz": 0.05
+            }
+        },
+        {
+            "ID": "Wyl-(guard)",
+            "Group": 2,
+            "NodeSize": 4,
+            "Centrality": {
+                "Degree": 4,
+                "Degree_fraction": 0.0215,
+                "Eigenvec": 0.0326,
+                "Btwness": 0.0016,
+                "Clsness": 0.3676,
+                "Katz": 0.0
+            }
+        },
+        {
+            "ID": "Wylla",
+            "Group": 2,
+            "NodeSize": 1,
+            "Centrality": {
+                "Degree": 1,
+                "Degree_fraction": 0.0054,
+                "Eigenvec": 0.015,
+                "Btwness": 0.0,
+                "Clsness": 0.3612,
+                "Katz": 0.02
+            }
+        },
+        {
+            "ID": "Yoren",
+            "Group": 3,
+            "NodeSize": 7,
+            "Centrality": {
+                "Degree": 7,
+                "Degree_fraction": 0.0376,
+                "Eigenvec": 0.056,
+                "Btwness": 0.0002,
+                "Clsness": 0.3851,
+                "Katz": 0.06
+            }
+        }
+    ],
+    "links": [
+        {
+            "source": "Addam-Marbrand",
+            "target": "Jaime-Lannister",
+            "value": 3
+        },
+        {
+            "source": "Addam-Marbrand",
+            "target": "Tywin-Lannister",
+            "value": 6
+        },
+        {
+            "source": "Aegon-I-Targaryen",
+            "target": "Daenerys-Targaryen",
+            "value": 5
+        },
+        {
+            "source": "Aegon-I-Targaryen",
+            "target": "Eddard-Stark",
+            "value": 4
+        },
+        {
+            "source": "Aemon-Targaryen-(Maester-Aemon)",
+            "target": "Alliser-Thorne",
+            "value": 4
+        },
+        {
+            "source": "Aemon-Targaryen-(Maester-Aemon)",
+            "target": "Bowen-Marsh",
+            "value": 4
+        },
+        {
+            "source": "Aemon-Targaryen-(Maester-Aemon)",
+            "target": "Chett",
+            "value": 9
+        },
+        {
+            "source": "Aemon-Targaryen-(Maester-Aemon)",
+            "target": "Clydas",
+            "value": 5
+        },
+        {
+            "source": "Aemon-Targaryen-(Maester-Aemon)",
+            "target": "Jeor-Mormont",
+            "value": 13
+        },
+        {
+            "source": "Aemon-Targaryen-(Maester-Aemon)",
+            "target": "Jon-Snow",
+            "value": 34
+        },
+        {
+            "source": "Aemon-Targaryen-(Maester-Aemon)",
+            "target": "Samwell-Tarly",
+            "value": 5
+        },
+        {
+            "source": "Aerys-II-Targaryen",
+            "target": "Brandon-Stark",
+            "value": 4
+        },
+        {
+            "source": "Aerys-II-Targaryen",
+            "target": "Eddard-Stark",
+            "value": 10
+        },
+        {
+            "source": "Aerys-II-Targaryen",
+            "target": "Gerold-Hightower",
+            "value": 3
+        },
+        {
+            "source": "Aerys-II-Targaryen",
+            "target": "Jaime-Lannister",
+            "value": 5
+        },
+        {
+            "source": "Aerys-II-Targaryen",
+            "target": "Jon-Arryn",
+            "value": 3
+        },
+        {
+            "source": "Aerys-II-Targaryen",
+            "target": "Robert-Baratheon",
+            "value": 12
+        },
+        {
+            "source": "Aggo",
+            "target": "Daenerys-Targaryen",
+            "value": 11
+        },
+        {
+            "source": "Aggo",
+            "target": "Drogo",
+            "value": 6
+        },
+        {
+            "source": "Aggo",
+            "target": "Jhogo",
+            "value": 4
+        },
+        {
+            "source": "Aggo",
+            "target": "Jorah-Mormont",
+            "value": 5
+        },
+        {
+            "source": "Aggo",
+            "target": "Quaro",
+            "value": 3
+        },
+        {
+            "source": "Aggo",
+            "target": "Rakharo",
+            "value": 7
+        },
+        {
+            "source": "Albett",
+            "target": "Halder",
+            "value": 3
+        },
+        {
+            "source": "Albett",
+            "target": "Jon-Snow",
+            "value": 5
+        },
+        {
+            "source": "Albett",
+            "target": "Rast",
+            "value": 3
+        },
+        {
+            "source": "Alliser-Thorne",
+            "target": "Bowen-Marsh",
+            "value": 3
+        },
+        {
+            "source": "Alliser-Thorne",
+            "target": "Grenn",
+            "value": 3
+        },
+        {
+            "source": "Alliser-Thorne",
+            "target": "Halder",
+            "value": 4
+        },
+        {
+            "source": "Alliser-Thorne",
+            "target": "Jeor-Mormont",
+            "value": 10
+        },
+        {
+            "source": "Alliser-Thorne",
+            "target": "Jon-Snow",
+            "value": 32
+        },
+        {
+            "source": "Alliser-Thorne",
+            "target": "Pypar",
+            "value": 4
+        },
+        {
+            "source": "Alliser-Thorne",
+            "target": "Rast",
+            "value": 5
+        },
+        {
+            "source": "Alliser-Thorne",
+            "target": "Samwell-Tarly",
+            "value": 8
+        },
+        {
+            "source": "Alliser-Thorne",
+            "target": "Tyrion-Lannister",
+            "value": 7
+        },
+        {
+            "source": "Alyn",
+            "target": "Eddard-Stark",
+            "value": 11
+        },
+        {
+            "source": "Alyn",
+            "target": "Harwin",
+            "value": 6
+        },
+        {
+            "source": "Alyn",
+            "target": "Jory-Cassel",
+            "value": 8
+        },
+        {
+            "source": "Alyn",
+            "target": "Robert-Baratheon",
+            "value": 4
+        },
+        {
+            "source": "Alyn",
+            "target": "Tomard",
+            "value": 3
+        },
+        {
+            "source": "Arthur-Dayne",
+            "target": "Gerold-Hightower",
+            "value": 4
+        },
+        {
+            "source": "Arya-Stark",
+            "target": "Benjen-Stark",
+            "value": 3
+        },
+        {
+            "source": "Arya-Stark",
+            "target": "Bran-Stark",
+            "value": 14
+        },
+        {
+            "source": "Arya-Stark",
+            "target": "Catelyn-Stark",
+            "value": 5
+        },
+        {
+            "source": "Arya-Stark",
+            "target": "Cersei-Lannister",
+            "value": 12
+        },
+        {
+            "source": "Arya-Stark",
+            "target": "Desmond",
+            "value": 3
+        },
+        {
+            "source": "Arya-Stark",
+            "target": "Eddard-Stark",
+            "value": 30
+        },
+        {
+            "source": "Arya-Stark",
+            "target": "Ilyn-Payne",
+            "value": 5
+        },
+        {
+            "source": "Arya-Stark",
+            "target": "Jeyne-Poole",
+            "value": 10
+        },
+        {
+            "source": "Arya-Stark",
+            "target": "Joffrey-Baratheon",
+            "value": 39
+        },
+        {
+            "source": "Arya-Stark",
+            "target": "Jon-Snow",
+            "value": 37
+        },
+        {
+            "source": "Arya-Stark",
+            "target": "Jory-Cassel",
+            "value": 12
+        },
+        {
+            "source": "Arya-Stark",
+            "target": "Meryn-Trant",
+            "value": 4
+        },
+        {
+            "source": "Arya-Stark",
+            "target": "Mordane",
+            "value": 39
+        },
+        {
+            "source": "Arya-Stark",
+            "target": "Mycah",
+            "value": 18
+        },
+        {
+            "source": "Arya-Stark",
+            "target": "Myrcella-Baratheon",
+            "value": 13
+        },
+        {
+            "source": "Arya-Stark",
+            "target": "Petyr-Baelish",
+            "value": 3
+        },
+        {
+            "source": "Arya-Stark",
+            "target": "Rickon-Stark",
+            "value": 7
+        },
+        {
+            "source": "Arya-Stark",
+            "target": "Robb-Stark",
+            "value": 15
+        },
+        {
+            "source": "Arya-Stark",
+            "target": "Robert-Baratheon",
+            "value": 8
+        },
+        {
+            "source": "Arya-Stark",
+            "target": "Rodrik-Cassel",
+            "value": 3
+        },
+        {
+            "source": "Arya-Stark",
+            "target": "Sandor-Clegane",
+            "value": 7
+        },
+        {
+            "source": "Arya-Stark",
+            "target": "Sansa-Stark",
+            "value": 104
+        },
+        {
+            "source": "Arya-Stark",
+            "target": "Syrio-Forel",
+            "value": 20
+        },
+        {
+            "source": "Arya-Stark",
+            "target": "Tomard",
+            "value": 6
+        },
+        {
+            "source": "Arya-Stark",
+            "target": "Tommen-Baratheon",
+            "value": 5
+        },
+        {
+            "source": "Arya-Stark",
+            "target": "Vayon-Poole",
+            "value": 4
+        },
+        {
+            "source": "Arya-Stark",
+            "target": "Yoren",
+            "value": 4
+        },
+        {
+            "source": "Arys-Oakheart",
+            "target": "Cersei-Lannister",
+            "value": 3
+        },
+        {
+            "source": "Balon-Greyjoy",
+            "target": "Eddard-Stark",
+            "value": 3
+        },
+        {
+            "source": "Balon-Greyjoy",
+            "target": "Robert-Baratheon",
+            "value": 4
+        },
+        {
+            "source": "Balon-Swann",
+            "target": "Renly-Baratheon",
+            "value": 3
+        },
+        {
+            "source": "Balon-Swann",
+            "target": "Sandor-Clegane",
+            "value": 3
+        },
+        {
+            "source": "Barristan-Selmy",
+            "target": "Boros-Blount",
+            "value": 3
+        },
+        {
+            "source": "Barristan-Selmy",
+            "target": "Cersei-Lannister",
+            "value": 12
+        },
+        {
+            "source": "Barristan-Selmy",
+            "target": "Eddard-Stark",
+            "value": 28
+        },
+        {
+            "source": "Barristan-Selmy",
+            "target": "Jaime-Lannister",
+            "value": 4
+        },
+        {
+            "source": "Barristan-Selmy",
+            "target": "Joffrey-Baratheon",
+            "value": 6
+        },
+        {
+            "source": "Barristan-Selmy",
+            "target": "Jon-Arryn",
+            "value": 4
+        },
+        {
+            "source": "Barristan-Selmy",
+            "target": "Meryn-Trant",
+            "value": 3
+        },
+        {
+            "source": "Barristan-Selmy",
+            "target": "Petyr-Baelish",
+            "value": 7
+        },
+        {
+            "source": "Barristan-Selmy",
+            "target": "Pycelle",
+            "value": 8
+        },
+        {
+            "source": "Barristan-Selmy",
+            "target": "Renly-Baratheon",
+            "value": 13
+        },
+        {
+            "source": "Barristan-Selmy",
+            "target": "Robert-Baratheon",
+            "value": 40
+        },
+        {
+            "source": "Barristan-Selmy",
+            "target": "Sandor-Clegane",
+            "value": 3
+        },
+        {
+            "source": "Barristan-Selmy",
+            "target": "Sansa-Stark",
+            "value": 3
+        },
+        {
+            "source": "Barristan-Selmy",
+            "target": "Varys",
+            "value": 9
+        },
+        {
+            "source": "Benjen-Stark",
+            "target": "Bran-Stark",
+            "value": 6
+        },
+        {
+            "source": "Benjen-Stark",
+            "target": "Cersei-Lannister",
+            "value": 3
+        },
+        {
+            "source": "Benjen-Stark",
+            "target": "Jaremy-Rykker",
+            "value": 3
+        },
+        {
+            "source": "Benjen-Stark",
+            "target": "Jeor-Mormont",
+            "value": 9
+        },
+        {
+            "source": "Benjen-Stark",
+            "target": "Jon-Snow",
+            "value": 41
+        },
+        {
+            "source": "Benjen-Stark",
+            "target": "Luwin",
+            "value": 7
+        },
+        {
+            "source": "Benjen-Stark",
+            "target": "Mance-Rayder",
+            "value": 3
+        },
+        {
+            "source": "Benjen-Stark",
+            "target": "Robb-Stark",
+            "value": 7
+        },
+        {
+            "source": "Benjen-Stark",
+            "target": "Robert-Baratheon",
+            "value": 3
+        },
+        {
+            "source": "Benjen-Stark",
+            "target": "Theon-Greyjoy",
+            "value": 4
+        },
+        {
+            "source": "Benjen-Stark",
+            "target": "Tyrion-Lannister",
+            "value": 8
+        },
+        {
+            "source": "Benjen-Stark",
+            "target": "Waymar-Royce",
+            "value": 3
+        },
+        {
+            "source": "Benjen-Stark",
+            "target": "Yoren",
+            "value": 4
+        },
+        {
+            "source": "Beric-Dondarrion",
+            "target": "Eddard-Stark",
+            "value": 3
+        },
+        {
+            "source": "Beric-Dondarrion",
+            "target": "Gregor-Clegane",
+            "value": 6
+        },
+        {
+            "source": "Beric-Dondarrion",
+            "target": "Loras-Tyrell",
+            "value": 5
+        },
+        {
+            "source": "Beric-Dondarrion",
+            "target": "Robert-Baratheon",
+            "value": 5
+        },
+        {
+            "source": "Beric-Dondarrion",
+            "target": "Sansa-Stark",
+            "value": 4
+        },
+        {
+            "source": "Beric-Dondarrion",
+            "target": "Thoros-of-Myr",
+            "value": 5
+        },
+        {
+            "source": "Boros-Blount",
+            "target": "Cersei-Lannister",
+            "value": 9
+        },
+        {
+            "source": "Boros-Blount",
+            "target": "Joffrey-Baratheon",
+            "value": 3
+        },
+        {
+            "source": "Boros-Blount",
+            "target": "Meryn-Trant",
+            "value": 5
+        },
+        {
+            "source": "Boros-Blount",
+            "target": "Sansa-Stark",
+            "value": 6
+        },
+        {
+            "source": "Bowen-Marsh",
+            "target": "Jeor-Mormont",
+            "value": 8
+        },
+        {
+            "source": "Bowen-Marsh",
+            "target": "Jon-Snow",
+            "value": 10
+        },
+        {
+            "source": "Bowen-Marsh",
+            "target": "Samwell-Tarly",
+            "value": 3
+        },
+        {
+            "source": "Bran-Stark",
+            "target": "Catelyn-Stark",
+            "value": 18
+        },
+        {
+            "source": "Bran-Stark",
+            "target": "Cersei-Lannister",
+            "value": 6
+        },
+        {
+            "source": "Bran-Stark",
+            "target": "Eddard-Stark",
+            "value": 19
+        },
+        {
+            "source": "Bran-Stark",
+            "target": "Hali",
+            "value": 3
+        },
+        {
+            "source": "Bran-Stark",
+            "target": "Hallis-Mollen",
+            "value": 3
+        },
+        {
+            "source": "Bran-Stark",
+            "target": "Hodor",
+            "value": 29
+        },
+        {
+            "source": "Bran-Stark",
+            "target": "Hullen",
+            "value": 3
+        },
+        {
+            "source": "Bran-Stark",
+            "target": "Jeor-Mormont",
+            "value": 4
+        },
+        {
+            "source": "Bran-Stark",
+            "target": "Joffrey-Baratheon",
+            "value": 3
+        },
+        {
+            "source": "Bran-Stark",
+            "target": "Jon-Arryn",
+            "value": 7
+        },
+        {
+            "source": "Bran-Stark",
+            "target": "Jon-Snow",
+            "value": 56
+        },
+        {
+            "source": "Bran-Stark",
+            "target": "Jory-Cassel",
+            "value": 11
+        },
+        {
+            "source": "Bran-Stark",
+            "target": "Joseth",
+            "value": 4
+        },
+        {
+            "source": "Bran-Stark",
+            "target": "Luwin",
+            "value": 65
+        },
+        {
+            "source": "Bran-Stark",
+            "target": "Nan",
+            "value": 17
+        },
+        {
+            "source": "Bran-Stark",
+            "target": "Osha",
+            "value": 12
+        },
+        {
+            "source": "Bran-Stark",
+            "target": "Petyr-Baelish",
+            "value": 3
+        },
+        {
+            "source": "Bran-Stark",
+            "target": "Renly-Baratheon",
+            "value": 3
+        },
+        {
+            "source": "Bran-Stark",
+            "target": "Rickard-Karstark",
+            "value": 4
+        },
+        {
+            "source": "Bran-Stark",
+            "target": "Rickard-Stark",
+            "value": 4
+        },
+        {
+            "source": "Bran-Stark",
+            "target": "Rickon-Stark",
+            "value": 32
+        },
+        {
+            "source": "Bran-Stark",
+            "target": "Robb-Stark",
+            "value": 112
+        },
+        {
+            "source": "Bran-Stark",
+            "target": "Robert-Baratheon",
+            "value": 11
+        },
+        {
+            "source": "Bran-Stark",
+            "target": "Rodrik-Cassel",
+            "value": 6
+        },
+        {
+            "source": "Bran-Stark",
+            "target": "Sansa-Stark",
+            "value": 10
+        },
+        {
+            "source": "Bran-Stark",
+            "target": "Stiv",
+            "value": 4
+        },
+        {
+            "source": "Bran-Stark",
+            "target": "Theon-Greyjoy",
+            "value": 23
+        },
+        {
+            "source": "Bran-Stark",
+            "target": "Tommen-Baratheon",
+            "value": 5
+        },
+        {
+            "source": "Bran-Stark",
+            "target": "Tyrion-Lannister",
+            "value": 31
+        },
+        {
+            "source": "Bran-Stark",
+            "target": "Yoren",
+            "value": 3
+        },
+        {
+            "source": "Brandon-Stark",
+            "target": "Eddard-Stark",
+            "value": 11
+        },
+        {
+            "source": "Brandon-Stark",
+            "target": "Lyanna-Stark",
+            "value": 4
+        },
+        {
+            "source": "Brandon-Stark",
+            "target": "Petyr-Baelish",
+            "value": 14
+        },
+        {
+            "source": "Brandon-Stark",
+            "target": "Rickard-Stark",
+            "value": 3
+        },
+        {
+            "source": "Brandon-Stark",
+            "target": "Robert-Baratheon",
+            "value": 5
+        },
+        {
+            "source": "Bronn",
+            "target": "Catelyn-Stark",
+            "value": 6
+        },
+        {
+            "source": "Bronn",
+            "target": "Chiggen",
+            "value": 8
+        },
+        {
+            "source": "Bronn",
+            "target": "Marillion",
+            "value": 4
+        },
+        {
+            "source": "Bronn",
+            "target": "Rodrik-Cassel",
+            "value": 4
+        },
+        {
+            "source": "Bronn",
+            "target": "Shae",
+            "value": 3
+        },
+        {
+            "source": "Bronn",
+            "target": "Shagga",
+            "value": 3
+        },
+        {
+            "source": "Bronn",
+            "target": "Tyrion-Lannister",
+            "value": 61
+        },
+        {
+            "source": "Bronn",
+            "target": "Tywin-Lannister",
+            "value": 4
+        },
+        {
+            "source": "Bronn",
+            "target": "Vardis-Egen",
+            "value": 11
+        },
+        {
+            "source": "Bronn",
+            "target": "Willis-Wode",
+            "value": 5
+        },
+        {
+            "source": "Brynden-Tully",
+            "target": "Catelyn-Stark",
+            "value": 16
+        },
+        {
+            "source": "Brynden-Tully",
+            "target": "Edmure-Tully",
+            "value": 3
+        },
+        {
+            "source": "Brynden-Tully",
+            "target": "Hoster-Tully",
+            "value": 5
+        },
+        {
+            "source": "Brynden-Tully",
+            "target": "Jaime-Lannister",
+            "value": 7
+        },
+        {
+            "source": "Brynden-Tully",
+            "target": "Lysa-Arryn",
+            "value": 10
+        },
+        {
+            "source": "Brynden-Tully",
+            "target": "Nestor-Royce",
+            "value": 3
+        },
+        {
+            "source": "Brynden-Tully",
+            "target": "Robb-Stark",
+            "value": 9
+        },
+        {
+            "source": "Brynden-Tully",
+            "target": "Theon-Greyjoy",
+            "value": 6
+        },
+        {
+            "source": "Brynden-Tully",
+            "target": "Tyrion-Lannister",
+            "value": 4
+        },
+        {
+            "source": "Brynden-Tully",
+            "target": "Tywin-Lannister",
+            "value": 3
+        },
+        {
+            "source": "Brynden-Tully",
+            "target": "Walder-Frey",
+            "value": 3
+        },
+        {
+            "source": "Catelyn-Stark",
+            "target": "Cersei-Lannister",
+            "value": 12
+        },
+        {
+            "source": "Catelyn-Stark",
+            "target": "Colemon",
+            "value": 3
+        },
+        {
+            "source": "Catelyn-Stark",
+            "target": "Donnel-Waynwood",
+            "value": 3
+        },
+        {
+            "source": "Catelyn-Stark",
+            "target": "Eddard-Stark",
+            "value": 64
+        },
+        {
+            "source": "Catelyn-Stark",
+            "target": "Edmure-Tully",
+            "value": 7
+        },
+        {
+            "source": "Catelyn-Stark",
+            "target": "Eon-Hunter",
+            "value": 3
+        },
+        {
+            "source": "Catelyn-Stark",
+            "target": "Hallis-Mollen",
+            "value": 10
+        },
+        {
+            "source": "Catelyn-Stark",
+            "target": "Hoster-Tully",
+            "value": 6
+        },
+        {
+            "source": "Catelyn-Stark",
+            "target": "Jaime-Lannister",
+            "value": 9
+        },
+        {
+            "source": "Catelyn-Stark",
+            "target": "Joffrey-Baratheon",
+            "value": 4
+        },
+        {
+            "source": "Catelyn-Stark",
+            "target": "Jon-Arryn",
+            "value": 11
+        },
+        {
+            "source": "Catelyn-Stark",
+            "target": "Jon-Snow",
+            "value": 14
+        },
+        {
+            "source": "Catelyn-Stark",
+            "target": "Jon-Umber-(Greatjon)",
+            "value": 4
+        },
+        {
+            "source": "Catelyn-Stark",
+            "target": "Luwin",
+            "value": 14
+        },
+        {
+            "source": "Catelyn-Stark",
+            "target": "Lysa-Arryn",
+            "value": 33
+        },
+        {
+            "source": "Catelyn-Stark",
+            "target": "Marillion",
+            "value": 6
+        },
+        {
+            "source": "Catelyn-Stark",
+            "target": "Masha-Heddle",
+            "value": 5
+        },
+        {
+            "source": "Catelyn-Stark",
+            "target": "Moreo-Tumitis",
+            "value": 3
+        },
+        {
+            "source": "Catelyn-Stark",
+            "target": "Mya-Stone",
+            "value": 9
+        },
+        {
+            "source": "Catelyn-Stark",
+            "target": "Mychel-Redfort",
+            "value": 3
+        },
+        {
+            "source": "Catelyn-Stark",
+            "target": "Nestor-Royce",
+            "value": 3
+        },
+        {
+            "source": "Catelyn-Stark",
+            "target": "Petyr-Baelish",
+            "value": 22
+        },
+        {
+            "source": "Catelyn-Stark",
+            "target": "Rickard-Karstark",
+            "value": 6
+        },
+        {
+            "source": "Catelyn-Stark",
+            "target": "Rickon-Stark",
+            "value": 3
+        },
+        {
+            "source": "Catelyn-Stark",
+            "target": "Robb-Stark",
+            "value": 49
+        },
+        {
+            "source": "Catelyn-Stark",
+            "target": "Robert-Arryn",
+            "value": 3
+        },
+        {
+            "source": "Catelyn-Stark",
+            "target": "Robert-Baratheon",
+            "value": 22
+        },
+        {
+            "source": "Catelyn-Stark",
+            "target": "Rodrik-Cassel",
+            "value": 25
+        },
+        {
+            "source": "Catelyn-Stark",
+            "target": "Sansa-Stark",
+            "value": 9
+        },
+        {
+            "source": "Catelyn-Stark",
+            "target": "Stevron-Frey",
+            "value": 5
+        },
+        {
+            "source": "Catelyn-Stark",
+            "target": "Theon-Greyjoy",
+            "value": 9
+        },
+        {
+            "source": "Catelyn-Stark",
+            "target": "Tyrion-Lannister",
+            "value": 49
+        },
+        {
+            "source": "Catelyn-Stark",
+            "target": "Tytos-Blackwood",
+            "value": 4
+        },
+        {
+            "source": "Catelyn-Stark",
+            "target": "Tywin-Lannister",
+            "value": 7
+        },
+        {
+            "source": "Catelyn-Stark",
+            "target": "Vardis-Egen",
+            "value": 5
+        },
+        {
+            "source": "Catelyn-Stark",
+            "target": "Varys",
+            "value": 10
+        },
+        {
+            "source": "Catelyn-Stark",
+            "target": "Walder-Frey",
+            "value": 13
+        },
+        {
+            "source": "Catelyn-Stark",
+            "target": "Wendel-Manderly",
+            "value": 3
+        },
+        {
+            "source": "Catelyn-Stark",
+            "target": "Willis-Wode",
+            "value": 5
+        },
+        {
+            "source": "Cayn",
+            "target": "Eddard-Stark",
+            "value": 7
+        },
+        {
+            "source": "Cayn",
+            "target": "Renly-Baratheon",
+            "value": 3
+        },
+        {
+            "source": "Cayn",
+            "target": "Tomard",
+            "value": 6
+        },
+        {
+            "source": "Cersei-Lannister",
+            "target": "Eddard-Stark",
+            "value": 69
+        },
+        {
+            "source": "Cersei-Lannister",
+            "target": "Ilyn-Payne",
+            "value": 4
+        },
+        {
+            "source": "Cersei-Lannister",
+            "target": "Jaime-Lannister",
+            "value": 16
+        },
+        {
+            "source": "Cersei-Lannister",
+            "target": "Janos-Slynt",
+            "value": 4
+        },
+        {
+            "source": "Cersei-Lannister",
+            "target": "Joffrey-Baratheon",
+            "value": 42
+        },
+        {
+            "source": "Cersei-Lannister",
+            "target": "Jon-Arryn",
+            "value": 7
+        },
+        {
+            "source": "Cersei-Lannister",
+            "target": "Jon-Snow",
+            "value": 4
+        },
+        {
+            "source": "Cersei-Lannister",
+            "target": "Jory-Cassel",
+            "value": 5
+        },
+        {
+            "source": "Cersei-Lannister",
+            "target": "Meryn-Trant",
+            "value": 4
+        },
+        {
+            "source": "Cersei-Lannister",
+            "target": "Mordane",
+            "value": 3
+        },
+        {
+            "source": "Cersei-Lannister",
+            "target": "Myrcella-Baratheon",
+            "value": 7
+        },
+        {
+            "source": "Cersei-Lannister",
+            "target": "Petyr-Baelish",
+            "value": 13
+        },
+        {
+            "source": "Cersei-Lannister",
+            "target": "Pycelle",
+            "value": 9
+        },
+        {
+            "source": "Cersei-Lannister",
+            "target": "Renly-Baratheon",
+            "value": 5
+        },
+        {
+            "source": "Cersei-Lannister",
+            "target": "Robert-Baratheon",
+            "value": 72
+        },
+        {
+            "source": "Cersei-Lannister",
+            "target": "Sandor-Clegane",
+            "value": 5
+        },
+        {
+            "source": "Cersei-Lannister",
+            "target": "Sansa-Stark",
+            "value": 29
+        },
+        {
+            "source": "Cersei-Lannister",
+            "target": "Stannis-Baratheon",
+            "value": 5
+        },
+        {
+            "source": "Cersei-Lannister",
+            "target": "Tommen-Baratheon",
+            "value": 4
+        },
+        {
+            "source": "Cersei-Lannister",
+            "target": "Tyrion-Lannister",
+            "value": 27
+        },
+        {
+            "source": "Cersei-Lannister",
+            "target": "Tywin-Lannister",
+            "value": 10
+        },
+        {
+            "source": "Cersei-Lannister",
+            "target": "Varys",
+            "value": 19
+        },
+        {
+            "source": "Cersei-Lannister",
+            "target": "Vayon-Poole",
+            "value": 4
+        },
+        {
+            "source": "Chella",
+            "target": "Tyrion-Lannister",
+            "value": 5
+        },
+        {
+            "source": "Chett",
+            "target": "Jon-Snow",
+            "value": 4
+        },
+        {
+            "source": "Chett",
+            "target": "Samwell-Tarly",
+            "value": 6
+        },
+        {
+            "source": "Chiggen",
+            "target": "Tyrion-Lannister",
+            "value": 5
+        },
+        {
+            "source": "Chiggen",
+            "target": "Willis-Wode",
+            "value": 3
+        },
+        {
+            "source": "Clement-Piper",
+            "target": "Karyl-Vance",
+            "value": 4
+        },
+        {
+            "source": "Cohollo",
+            "target": "Daenerys-Targaryen",
+            "value": 7
+        },
+        {
+            "source": "Cohollo",
+            "target": "Drogo",
+            "value": 9
+        },
+        {
+            "source": "Cohollo",
+            "target": "Haggo",
+            "value": 7
+        },
+        {
+            "source": "Cohollo",
+            "target": "Qotho",
+            "value": 6
+        },
+        {
+            "source": "Colemon",
+            "target": "Vardis-Egen",
+            "value": 4
+        },
+        {
+            "source": "Conn",
+            "target": "Coratt",
+            "value": 5
+        },
+        {
+            "source": "Conn",
+            "target": "Shagga",
+            "value": 9
+        },
+        {
+            "source": "Conn",
+            "target": "Tyrion-Lannister",
+            "value": 6
+        },
+        {
+            "source": "Daenerys-Targaryen",
+            "target": "Doreah",
+            "value": 15
+        },
+        {
+            "source": "Daenerys-Targaryen",
+            "target": "Drogo",
+            "value": 101
+        },
+        {
+            "source": "Daenerys-Targaryen",
+            "target": "Eddard-Stark",
+            "value": 5
+        },
+        {
+            "source": "Daenerys-Targaryen",
+            "target": "Eroeh",
+            "value": 5
+        },
+        {
+            "source": "Daenerys-Targaryen",
+            "target": "Haggo",
+            "value": 12
+        },
+        {
+            "source": "Daenerys-Targaryen",
+            "target": "Illyrio-Mopatis",
+            "value": 24
+        },
+        {
+            "source": "Daenerys-Targaryen",
+            "target": "Irri",
+            "value": 25
+        },
+        {
+            "source": "Daenerys-Targaryen",
+            "target": "Jhiqui",
+            "value": 26
+        },
+        {
+            "source": "Daenerys-Targaryen",
+            "target": "Jhogo",
+            "value": 17
+        },
+        {
+            "source": "Daenerys-Targaryen",
+            "target": "Jorah-Mormont",
+            "value": 75
+        },
+        {
+            "source": "Daenerys-Targaryen",
+            "target": "Mirri-Maz-Duur",
+            "value": 31
+        },
+        {
+            "source": "Daenerys-Targaryen",
+            "target": "Qotho",
+            "value": 18
+        },
+        {
+            "source": "Daenerys-Targaryen",
+            "target": "Quaro",
+            "value": 5
+        },
+        {
+            "source": "Daenerys-Targaryen",
+            "target": "Rakharo",
+            "value": 4
+        },
+        {
+            "source": "Daenerys-Targaryen",
+            "target": "Rhaegar-Targaryen",
+            "value": 4
+        },
+        {
+            "source": "Daenerys-Targaryen",
+            "target": "Robert-Baratheon",
+            "value": 11
+        },
+        {
+            "source": "Daenerys-Targaryen",
+            "target": "Varys",
+            "value": 5
+        },
+        {
+            "source": "Daenerys-Targaryen",
+            "target": "Viserys-Targaryen",
+            "value": 37
+        },
+        {
+            "source": "Danwell-Frey",
+            "target": "Hosteen-Frey",
+            "value": 3
+        },
+        {
+            "source": "Danwell-Frey",
+            "target": "Jared-Frey",
+            "value": 3
+        },
+        {
+            "source": "Danwell-Frey",
+            "target": "Walder-Frey",
+            "value": 3
+        },
+        {
+            "source": "Dareon",
+            "target": "Jon-Snow",
+            "value": 6
+        },
+        {
+            "source": "Daryn-Hornwood",
+            "target": "Eddard-Stark",
+            "value": 3
+        },
+        {
+            "source": "Daryn-Hornwood",
+            "target": "Torrhen-Karstark",
+            "value": 3
+        },
+        {
+            "source": "Desmond",
+            "target": "Eddard-Stark",
+            "value": 4
+        },
+        {
+            "source": "Dolf",
+            "target": "Shagga",
+            "value": 7
+        },
+        {
+            "source": "Donal-Noye",
+            "target": "Jon-Snow",
+            "value": 7
+        },
+        {
+            "source": "Doreah",
+            "target": "Drogo",
+            "value": 5
+        },
+        {
+            "source": "Doreah",
+            "target": "Irri",
+            "value": 14
+        },
+        {
+            "source": "Doreah",
+            "target": "Jhiqui",
+            "value": 11
+        },
+        {
+            "source": "Doreah",
+            "target": "Jorah-Mormont",
+            "value": 3
+        },
+        {
+            "source": "Doreah",
+            "target": "Viserys-Targaryen",
+            "value": 3
+        },
+        {
+            "source": "Drogo",
+            "target": "Haggo",
+            "value": 9
+        },
+        {
+            "source": "Drogo",
+            "target": "Illyrio-Mopatis",
+            "value": 16
+        },
+        {
+            "source": "Drogo",
+            "target": "Irri",
+            "value": 9
+        },
+        {
+            "source": "Drogo",
+            "target": "Jhiqui",
+            "value": 5
+        },
+        {
+            "source": "Drogo",
+            "target": "Jhogo",
+            "value": 7
+        },
+        {
+            "source": "Drogo",
+            "target": "Jommo",
+            "value": 3
+        },
+        {
+            "source": "Drogo",
+            "target": "Jorah-Mormont",
+            "value": 16
+        },
+        {
+            "source": "Drogo",
+            "target": "Mirri-Maz-Duur",
+            "value": 12
+        },
+        {
+            "source": "Drogo",
+            "target": "Ogo",
+            "value": 11
+        },
+        {
+            "source": "Drogo",
+            "target": "Qotho",
+            "value": 13
+        },
+        {
+            "source": "Drogo",
+            "target": "Quaro",
+            "value": 3
+        },
+        {
+            "source": "Drogo",
+            "target": "Rakharo",
+            "value": 4
+        },
+        {
+            "source": "Drogo",
+            "target": "Rhaego",
+            "value": 5
+        },
+        {
+            "source": "Drogo",
+            "target": "Robert-Baratheon",
+            "value": 3
+        },
+        {
+            "source": "Drogo",
+            "target": "Viserys-Targaryen",
+            "value": 19
+        },
+        {
+            "source": "Dywen",
+            "target": "Jon-Snow",
+            "value": 4
+        },
+        {
+            "source": "Eddard-Stark",
+            "target": "Edmure-Tully",
+            "value": 3
+        },
+        {
+            "source": "Eddard-Stark",
+            "target": "Galbart-Glover",
+            "value": 4
+        },
+        {
+            "source": "Eddard-Stark",
+            "target": "Gendry",
+            "value": 3
+        },
+        {
+            "source": "Eddard-Stark",
+            "target": "Gerold-Hightower",
+            "value": 3
+        },
+        {
+            "source": "Eddard-Stark",
+            "target": "Gregor-Clegane",
+            "value": 10
+        },
+        {
+            "source": "Eddard-Stark",
+            "target": "Harwin",
+            "value": 5
+        },
+        {
+            "source": "Eddard-Stark",
+            "target": "High-Septon-(fat_one)",
+            "value": 4
+        },
+        {
+            "source": "Eddard-Stark",
+            "target": "Howland-Reed",
+            "value": 3
+        },
+        {
+            "source": "Eddard-Stark",
+            "target": "Ilyn-Payne",
+            "value": 6
+        },
+        {
+            "source": "Eddard-Stark",
+            "target": "Jacks",
+            "value": 4
+        },
+        {
+            "source": "Eddard-Stark",
+            "target": "Jaime-Lannister",
+            "value": 27
+        },
+        {
+            "source": "Eddard-Stark",
+            "target": "Janos-Slynt",
+            "value": 4
+        },
+        {
+            "source": "Eddard-Stark",
+            "target": "Joffrey-Baratheon",
+            "value": 26
+        },
+        {
+            "source": "Eddard-Stark",
+            "target": "Jon-Arryn",
+            "value": 47
+        },
+        {
+            "source": "Eddard-Stark",
+            "target": "Jon-Snow",
+            "value": 38
+        },
+        {
+            "source": "Eddard-Stark",
+            "target": "Jory-Cassel",
+            "value": 32
+        },
+        {
+            "source": "Eddard-Stark",
+            "target": "Joss",
+            "value": 5
+        },
+        {
+            "source": "Eddard-Stark",
+            "target": "Loras-Tyrell",
+            "value": 12
+        },
+        {
+            "source": "Eddard-Stark",
+            "target": "Luwin",
+            "value": 16
+        },
+        {
+            "source": "Eddard-Stark",
+            "target": "Lyanna-Stark",
+            "value": 19
+        },
+        {
+            "source": "Eddard-Stark",
+            "target": "Lysa-Arryn",
+            "value": 12
+        },
+        {
+            "source": "Eddard-Stark",
+            "target": "Marq-Piper",
+            "value": 3
+        },
+        {
+            "source": "Eddard-Stark",
+            "target": "Mordane",
+            "value": 11
+        },
+        {
+            "source": "Eddard-Stark",
+            "target": "Mycah",
+            "value": 3
+        },
+        {
+            "source": "Eddard-Stark",
+            "target": "Petyr-Baelish",
+            "value": 81
+        },
+        {
+            "source": "Eddard-Stark",
+            "target": "Porther",
+            "value": 4
+        },
+        {
+            "source": "Eddard-Stark",
+            "target": "Pycelle",
+            "value": 33
+        },
+        {
+            "source": "Eddard-Stark",
+            "target": "Raymun-Darry",
+            "value": 4
+        },
+        {
+            "source": "Eddard-Stark",
+            "target": "Renly-Baratheon",
+            "value": 33
+        },
+        {
+            "source": "Eddard-Stark",
+            "target": "Rhaegar-Targaryen",
+            "value": 10
+        },
+        {
+            "source": "Eddard-Stark",
+            "target": "Rickard-Karstark",
+            "value": 4
+        },
+        {
+            "source": "Eddard-Stark",
+            "target": "Rickon-Stark",
+            "value": 4
+        },
+        {
+            "source": "Eddard-Stark",
+            "target": "Robb-Stark",
+            "value": 16
+        },
+        {
+            "source": "Eddard-Stark",
+            "target": "Robert-Baratheon",
+            "value": 291
+        },
+        {
+            "source": "Eddard-Stark",
+            "target": "Rodrik-Cassel",
+            "value": 7
+        },
+        {
+            "source": "Eddard-Stark",
+            "target": "Sandor-Clegane",
+            "value": 10
+        },
+        {
+            "source": "Eddard-Stark",
+            "target": "Sansa-Stark",
+            "value": 34
+        },
+        {
+            "source": "Eddard-Stark",
+            "target": "Stannis-Baratheon",
+            "value": 18
+        },
+        {
+            "source": "Eddard-Stark",
+            "target": "Syrio-Forel",
+            "value": 6
+        },
+        {
+            "source": "Eddard-Stark",
+            "target": "Theon-Greyjoy",
+            "value": 5
+        },
+        {
+            "source": "Eddard-Stark",
+            "target": "Tobho-Mott",
+            "value": 7
+        },
+        {
+            "source": "Eddard-Stark",
+            "target": "Tomard",
+            "value": 15
+        },
+        {
+            "source": "Eddard-Stark",
+            "target": "Torrhen-Karstark",
+            "value": 5
+        },
+        {
+            "source": "Eddard-Stark",
+            "target": "Tregar",
+            "value": 4
+        },
+        {
+            "source": "Eddard-Stark",
+            "target": "Tyrion-Lannister",
+            "value": 21
+        },
+        {
+            "source": "Eddard-Stark",
+            "target": "Tywin-Lannister",
+            "value": 18
+        },
+        {
+            "source": "Eddard-Stark",
+            "target": "Varly",
+            "value": 4
+        },
+        {
+            "source": "Eddard-Stark",
+            "target": "Varys",
+            "value": 61
+        },
+        {
+            "source": "Eddard-Stark",
+            "target": "Vayon-Poole",
+            "value": 12
+        },
+        {
+            "source": "Eddard-Stark",
+            "target": "Wyl-(guard)",
+            "value": 3
+        },
+        {
+            "source": "Eddard-Stark",
+            "target": "Wylla",
+            "value": 3
+        },
+        {
+            "source": "Edmure-Tully",
+            "target": "Hoster-Tully",
+            "value": 7
+        },
+        {
+            "source": "Edmure-Tully",
+            "target": "Jaime-Lannister",
+            "value": 4
+        },
+        {
+            "source": "Edmure-Tully",
+            "target": "Karyl-Vance",
+            "value": 4
+        },
+        {
+            "source": "Edmure-Tully",
+            "target": "Lysa-Arryn",
+            "value": 5
+        },
+        {
+            "source": "Edmure-Tully",
+            "target": "Marq-Piper",
+            "value": 3
+        },
+        {
+            "source": "Edmure-Tully",
+            "target": "Petyr-Baelish",
+            "value": 4
+        },
+        {
+            "source": "Edmure-Tully",
+            "target": "Robb-Stark",
+            "value": 5
+        },
+        {
+            "source": "Edmure-Tully",
+            "target": "Tytos-Blackwood",
+            "value": 3
+        },
+        {
+            "source": "Eon-Hunter",
+            "target": "Lysa-Arryn",
+            "value": 3
+        },
+        {
+            "source": "Eon-Hunter",
+            "target": "Vardis-Egen",
+            "value": 3
+        },
+        {
+            "source": "Fogo",
+            "target": "Ogo",
+            "value": 4
+        },
+        {
+            "source": "Galbart-Glover",
+            "target": "Jaime-Lannister",
+            "value": 3
+        },
+        {
+            "source": "Galbart-Glover",
+            "target": "Jon-Umber-(Greatjon)",
+            "value": 4
+        },
+        {
+            "source": "Galbart-Glover",
+            "target": "Rickard-Karstark",
+            "value": 4
+        },
+        {
+            "source": "Galbart-Glover",
+            "target": "Robb-Stark",
+            "value": 5
+        },
+        {
+            "source": "Galbart-Glover",
+            "target": "Roose-Bolton",
+            "value": 3
+        },
+        {
+            "source": "Gared",
+            "target": "Jeor-Mormont",
+            "value": 4
+        },
+        {
+            "source": "Gared",
+            "target": "Waymar-Royce",
+            "value": 13
+        },
+        {
+            "source": "Gared",
+            "target": "Will-(prologue)",
+            "value": 12
+        },
+        {
+            "source": "Gerold-Hightower",
+            "target": "Oswell-Whent",
+            "value": 3
+        },
+        {
+            "source": "Gerold-Hightower",
+            "target": "Robert-Baratheon",
+            "value": 4
+        },
+        {
+            "source": "Gregor-Clegane",
+            "target": "Jaime-Lannister",
+            "value": 3
+        },
+        {
+            "source": "Gregor-Clegane",
+            "target": "Loras-Tyrell",
+            "value": 10
+        },
+        {
+            "source": "Gregor-Clegane",
+            "target": "Marq-Piper",
+            "value": 6
+        },
+        {
+            "source": "Gregor-Clegane",
+            "target": "Petyr-Baelish",
+            "value": 3
+        },
+        {
+            "source": "Gregor-Clegane",
+            "target": "Pycelle",
+            "value": 3
+        },
+        {
+            "source": "Gregor-Clegane",
+            "target": "Robert-Baratheon",
+            "value": 4
+        },
+        {
+            "source": "Gregor-Clegane",
+            "target": "Sandor-Clegane",
+            "value": 11
+        },
+        {
+            "source": "Gregor-Clegane",
+            "target": "Sansa-Stark",
+            "value": 5
+        },
+        {
+            "source": "Gregor-Clegane",
+            "target": "Tyrion-Lannister",
+            "value": 7
+        },
+        {
+            "source": "Gregor-Clegane",
+            "target": "Tywin-Lannister",
+            "value": 6
+        },
+        {
+            "source": "Grenn",
+            "target": "Halder",
+            "value": 6
+        },
+        {
+            "source": "Grenn",
+            "target": "Jeor-Mormont",
+            "value": 3
+        },
+        {
+            "source": "Grenn",
+            "target": "Jon-Snow",
+            "value": 31
+        },
+        {
+            "source": "Grenn",
+            "target": "Pypar",
+            "value": 27
+        },
+        {
+            "source": "Grenn",
+            "target": "Samwell-Tarly",
+            "value": 8
+        },
+        {
+            "source": "Grenn",
+            "target": "Todder",
+            "value": 7
+        },
+        {
+            "source": "Gunthor-son-of-Gurn",
+            "target": "Tyrion-Lannister",
+            "value": 7
+        },
+        {
+            "source": "Haggo",
+            "target": "Mirri-Maz-Duur",
+            "value": 3
+        },
+        {
+            "source": "Haggo",
+            "target": "Qotho",
+            "value": 11
+        },
+        {
+            "source": "Haggo",
+            "target": "Rakharo",
+            "value": 3
+        },
+        {
+            "source": "Halder",
+            "target": "Jon-Snow",
+            "value": 23
+        },
+        {
+            "source": "Halder",
+            "target": "Pypar",
+            "value": 8
+        },
+        {
+            "source": "Halder",
+            "target": "Rast",
+            "value": 3
+        },
+        {
+            "source": "Halder",
+            "target": "Samwell-Tarly",
+            "value": 6
+        },
+        {
+            "source": "Halder",
+            "target": "Todder",
+            "value": 3
+        },
+        {
+            "source": "Hallis-Mollen",
+            "target": "Luwin",
+            "value": 4
+        },
+        {
+            "source": "Hallis-Mollen",
+            "target": "Robb-Stark",
+            "value": 13
+        },
+        {
+            "source": "Hallis-Mollen",
+            "target": "Theon-Greyjoy",
+            "value": 7
+        },
+        {
+            "source": "Harwin",
+            "target": "Hullen",
+            "value": 3
+        },
+        {
+            "source": "Harwin",
+            "target": "Jory-Cassel",
+            "value": 4
+        },
+        {
+            "source": "Harys-Swyft",
+            "target": "Jaime-Lannister",
+            "value": 3
+        },
+        {
+            "source": "Heward",
+            "target": "Jory-Cassel",
+            "value": 5
+        },
+        {
+            "source": "Heward",
+            "target": "Wyl-(guard)",
+            "value": 3
+        },
+        {
+            "source": "High-Septon-(fat_one)",
+            "target": "Joffrey-Baratheon",
+            "value": 4
+        },
+        {
+            "source": "Hobb",
+            "target": "Jon-Snow",
+            "value": 5
+        },
+        {
+            "source": "Hodor",
+            "target": "Luwin",
+            "value": 10
+        },
+        {
+            "source": "Hodor",
+            "target": "Nan",
+            "value": 8
+        },
+        {
+            "source": "Hodor",
+            "target": "Robb-Stark",
+            "value": 5
+        },
+        {
+            "source": "Hosteen-Frey",
+            "target": "Jared-Frey",
+            "value": 3
+        },
+        {
+            "source": "Hoster-Tully",
+            "target": "Lysa-Arryn",
+            "value": 3
+        },
+        {
+            "source": "Hoster-Tully",
+            "target": "Robert-Baratheon",
+            "value": 3
+        },
+        {
+            "source": "Hugh",
+            "target": "Jon-Arryn",
+            "value": 3
+        },
+        {
+            "source": "Hullen",
+            "target": "Jory-Cassel",
+            "value": 5
+        },
+        {
+            "source": "Hullen",
+            "target": "Luwin",
+            "value": 3
+        },
+        {
+            "source": "Hullen",
+            "target": "Robb-Stark",
+            "value": 3
+        },
+        {
+            "source": "Hullen",
+            "target": "Rodrik-Cassel",
+            "value": 3
+        },
+        {
+            "source": "Illyrio-Mopatis",
+            "target": "Irri",
+            "value": 3
+        },
+        {
+            "source": "Illyrio-Mopatis",
+            "target": "Jorah-Mormont",
+            "value": 7
+        },
+        {
+            "source": "Illyrio-Mopatis",
+            "target": "Robert-Baratheon",
+            "value": 6
+        },
+        {
+            "source": "Illyrio-Mopatis",
+            "target": "Viserys-Targaryen",
+            "value": 14
+        },
+        {
+            "source": "Ilyn-Payne",
+            "target": "Jeyne-Poole",
+            "value": 3
+        },
+        {
+            "source": "Ilyn-Payne",
+            "target": "Joffrey-Baratheon",
+            "value": 4
+        },
+        {
+            "source": "Ilyn-Payne",
+            "target": "Loras-Tyrell",
+            "value": 3
+        },
+        {
+            "source": "Ilyn-Payne",
+            "target": "Robert-Baratheon",
+            "value": 4
+        },
+        {
+            "source": "Ilyn-Payne",
+            "target": "Sansa-Stark",
+            "value": 9
+        },
+        {
+            "source": "Ilyn-Payne",
+            "target": "Varys",
+            "value": 5
+        },
+        {
+            "source": "Irri",
+            "target": "Jhiqui",
+            "value": 14
+        },
+        {
+            "source": "Irri",
+            "target": "Jhogo",
+            "value": 7
+        },
+        {
+            "source": "Irri",
+            "target": "Jorah-Mormont",
+            "value": 4
+        },
+        {
+            "source": "Irri",
+            "target": "Viserys-Targaryen",
+            "value": 5
+        },
+        {
+            "source": "Jafer-Flowers",
+            "target": "Jaremy-Rykker",
+            "value": 3
+        },
+        {
+            "source": "Jaime-Lannister",
+            "target": "Joffrey-Baratheon",
+            "value": 12
+        },
+        {
+            "source": "Jaime-Lannister",
+            "target": "Jon-Arryn",
+            "value": 5
+        },
+        {
+            "source": "Jaime-Lannister",
+            "target": "Jory-Cassel",
+            "value": 4
+        },
+        {
+            "source": "Jaime-Lannister",
+            "target": "Kevan-Lannister",
+            "value": 4
+        },
+        {
+            "source": "Jaime-Lannister",
+            "target": "Loras-Tyrell",
+            "value": 3
+        },
+        {
+            "source": "Jaime-Lannister",
+            "target": "Lysa-Arryn",
+            "value": 6
+        },
+        {
+            "source": "Jaime-Lannister",
+            "target": "Petyr-Baelish",
+            "value": 7
+        },
+        {
+            "source": "Jaime-Lannister",
+            "target": "Renly-Baratheon",
+            "value": 4
+        },
+        {
+            "source": "Jaime-Lannister",
+            "target": "Rickard-Karstark",
+            "value": 3
+        },
+        {
+            "source": "Jaime-Lannister",
+            "target": "Robb-Stark",
+            "value": 9
+        },
+        {
+            "source": "Jaime-Lannister",
+            "target": "Robert-Baratheon",
+            "value": 24
+        },
+        {
+            "source": "Jaime-Lannister",
+            "target": "Rodrik-Cassel",
+            "value": 3
+        },
+        {
+            "source": "Jaime-Lannister",
+            "target": "Sandor-Clegane",
+            "value": 12
+        },
+        {
+            "source": "Jaime-Lannister",
+            "target": "Sansa-Stark",
+            "value": 3
+        },
+        {
+            "source": "Jaime-Lannister",
+            "target": "Tyrion-Lannister",
+            "value": 36
+        },
+        {
+            "source": "Jaime-Lannister",
+            "target": "Tywin-Lannister",
+            "value": 16
+        },
+        {
+            "source": "Jaime-Lannister",
+            "target": "Varys",
+            "value": 3
+        },
+        {
+            "source": "Jaime-Lannister",
+            "target": "Wyl-(guard)",
+            "value": 3
+        },
+        {
+            "source": "Janos-Slynt",
+            "target": "Joffrey-Baratheon",
+            "value": 4
+        },
+        {
+            "source": "Janos-Slynt",
+            "target": "Petyr-Baelish",
+            "value": 3
+        },
+        {
+            "source": "Janos-Slynt",
+            "target": "Pycelle",
+            "value": 3
+        },
+        {
+            "source": "Janos-Slynt",
+            "target": "Robert-Baratheon",
+            "value": 4
+        },
+        {
+            "source": "Janos-Slynt",
+            "target": "Sansa-Stark",
+            "value": 3
+        },
+        {
+            "source": "Jaremy-Rykker",
+            "target": "Jeor-Mormont",
+            "value": 11
+        },
+        {
+            "source": "Jaremy-Rykker",
+            "target": "Jon-Snow",
+            "value": 7
+        },
+        {
+            "source": "Jeor-Mormont",
+            "target": "Jon-Snow",
+            "value": 81
+        },
+        {
+            "source": "Jeor-Mormont",
+            "target": "Robert-Baratheon",
+            "value": 4
+        },
+        {
+            "source": "Jeor-Mormont",
+            "target": "Samwell-Tarly",
+            "value": 8
+        },
+        {
+            "source": "Jeor-Mormont",
+            "target": "Tyrion-Lannister",
+            "value": 23
+        },
+        {
+            "source": "Jeor-Mormont",
+            "target": "Yoren",
+            "value": 3
+        },
+        {
+            "source": "Jeyne-Poole",
+            "target": "Loras-Tyrell",
+            "value": 4
+        },
+        {
+            "source": "Jeyne-Poole",
+            "target": "Mordane",
+            "value": 7
+        },
+        {
+            "source": "Jeyne-Poole",
+            "target": "Robert-Baratheon",
+            "value": 3
+        },
+        {
+            "source": "Jeyne-Poole",
+            "target": "Sansa-Stark",
+            "value": 27
+        },
+        {
+            "source": "Jhiqui",
+            "target": "Jorah-Mormont",
+            "value": 4
+        },
+        {
+            "source": "Jhogo",
+            "target": "Jorah-Mormont",
+            "value": 5
+        },
+        {
+            "source": "Jhogo",
+            "target": "Mirri-Maz-Duur",
+            "value": 3
+        },
+        {
+            "source": "Joffrey-Baratheon",
+            "target": "Jon-Snow",
+            "value": 10
+        },
+        {
+            "source": "Joffrey-Baratheon",
+            "target": "Loras-Tyrell",
+            "value": 3
+        },
+        {
+            "source": "Joffrey-Baratheon",
+            "target": "Meryn-Trant",
+            "value": 3
+        },
+        {
+            "source": "Joffrey-Baratheon",
+            "target": "Mordane",
+            "value": 9
+        },
+        {
+            "source": "Joffrey-Baratheon",
+            "target": "Mycah",
+            "value": 14
+        },
+        {
+            "source": "Joffrey-Baratheon",
+            "target": "Myrcella-Baratheon",
+            "value": 5
+        },
+        {
+            "source": "Joffrey-Baratheon",
+            "target": "Petyr-Baelish",
+            "value": 11
+        },
+        {
+            "source": "Joffrey-Baratheon",
+            "target": "Pycelle",
+            "value": 4
+        },
+        {
+            "source": "Joffrey-Baratheon",
+            "target": "Renly-Baratheon",
+            "value": 9
+        },
+        {
+            "source": "Joffrey-Baratheon",
+            "target": "Robb-Stark",
+            "value": 19
+        },
+        {
+            "source": "Joffrey-Baratheon",
+            "target": "Robert-Baratheon",
+            "value": 30
+        },
+        {
+            "source": "Joffrey-Baratheon",
+            "target": "Rodrik-Cassel",
+            "value": 9
+        },
+        {
+            "source": "Joffrey-Baratheon",
+            "target": "Sandor-Clegane",
+            "value": 24
+        },
+        {
+            "source": "Joffrey-Baratheon",
+            "target": "Sansa-Stark",
+            "value": 87
+        },
+        {
+            "source": "Joffrey-Baratheon",
+            "target": "Stannis-Baratheon",
+            "value": 7
+        },
+        {
+            "source": "Joffrey-Baratheon",
+            "target": "Tommen-Baratheon",
+            "value": 8
+        },
+        {
+            "source": "Joffrey-Baratheon",
+            "target": "Tyrion-Lannister",
+            "value": 13
+        },
+        {
+            "source": "Joffrey-Baratheon",
+            "target": "Tywin-Lannister",
+            "value": 3
+        },
+        {
+            "source": "Joffrey-Baratheon",
+            "target": "Varys",
+            "value": 7
+        },
+        {
+            "source": "Jommo",
+            "target": "Ogo",
+            "value": 3
+        },
+        {
+            "source": "Jon-Arryn",
+            "target": "Lysa-Arryn",
+            "value": 12
+        },
+        {
+            "source": "Jon-Arryn",
+            "target": "Petyr-Baelish",
+            "value": 4
+        },
+        {
+            "source": "Jon-Arryn",
+            "target": "Pycelle",
+            "value": 11
+        },
+        {
+            "source": "Jon-Arryn",
+            "target": "Robert-Baratheon",
+            "value": 32
+        },
+        {
+            "source": "Jon-Arryn",
+            "target": "Stannis-Baratheon",
+            "value": 13
+        },
+        {
+            "source": "Jon-Arryn",
+            "target": "Tyrion-Lannister",
+            "value": 5
+        },
+        {
+            "source": "Jon-Arryn",
+            "target": "Varys",
+            "value": 5
+        },
+        {
+            "source": "Jon-Snow",
+            "target": "Jory-Cassel",
+            "value": 3
+        },
+        {
+            "source": "Jon-Snow",
+            "target": "Luwin",
+            "value": 10
+        },
+        {
+            "source": "Jon-Snow",
+            "target": "Matthar",
+            "value": 3
+        },
+        {
+            "source": "Jon-Snow",
+            "target": "Mordane",
+            "value": 4
+        },
+        {
+            "source": "Jon-Snow",
+            "target": "Othor",
+            "value": 5
+        },
+        {
+            "source": "Jon-Snow",
+            "target": "Pypar",
+            "value": 45
+        },
+        {
+            "source": "Jon-Snow",
+            "target": "Rast",
+            "value": 8
+        },
+        {
+            "source": "Jon-Snow",
+            "target": "Rickon-Stark",
+            "value": 11
+        },
+        {
+            "source": "Jon-Snow",
+            "target": "Robb-Stark",
+            "value": 53
+        },
+        {
+            "source": "Jon-Snow",
+            "target": "Robert-Baratheon",
+            "value": 18
+        },
+        {
+            "source": "Jon-Snow",
+            "target": "Rodrik-Cassel",
+            "value": 3
+        },
+        {
+            "source": "Jon-Snow",
+            "target": "Samwell-Tarly",
+            "value": 81
+        },
+        {
+            "source": "Jon-Snow",
+            "target": "Sansa-Stark",
+            "value": 8
+        },
+        {
+            "source": "Jon-Snow",
+            "target": "Theon-Greyjoy",
+            "value": 8
+        },
+        {
+            "source": "Jon-Snow",
+            "target": "Todder",
+            "value": 13
+        },
+        {
+            "source": "Jon-Snow",
+            "target": "Tyrion-Lannister",
+            "value": 56
+        },
+        {
+            "source": "Jon-Snow",
+            "target": "Yoren",
+            "value": 6
+        },
+        {
+            "source": "Jon-Umber-(Greatjon)",
+            "target": "Maege-Mormont",
+            "value": 5
+        },
+        {
+            "source": "Jon-Umber-(Greatjon)",
+            "target": "Rickard-Karstark",
+            "value": 7
+        },
+        {
+            "source": "Jon-Umber-(Greatjon)",
+            "target": "Robb-Stark",
+            "value": 8
+        },
+        {
+            "source": "Jon-Umber-(Greatjon)",
+            "target": "Roose-Bolton",
+            "value": 3
+        },
+        {
+            "source": "Jon-Umber-(Greatjon)",
+            "target": "Theon-Greyjoy",
+            "value": 5
+        },
+        {
+            "source": "Jon-Umber-(Greatjon)",
+            "target": "Tywin-Lannister",
+            "value": 3
+        },
+        {
+            "source": "Jonos-Bracken",
+            "target": "Tytos-Blackwood",
+            "value": 3
+        },
+        {
+            "source": "Jorah-Mormont",
+            "target": "Mirri-Maz-Duur",
+            "value": 5
+        },
+        {
+            "source": "Jorah-Mormont",
+            "target": "Qotho",
+            "value": 7
+        },
+        {
+            "source": "Jorah-Mormont",
+            "target": "Rhaegar-Targaryen",
+            "value": 5
+        },
+        {
+            "source": "Jorah-Mormont",
+            "target": "Robert-Baratheon",
+            "value": 3
+        },
+        {
+            "source": "Jorah-Mormont",
+            "target": "Viserys-Targaryen",
+            "value": 15
+        },
+        {
+            "source": "Jory-Cassel",
+            "target": "Mordane",
+            "value": 3
+        },
+        {
+            "source": "Jory-Cassel",
+            "target": "Petyr-Baelish",
+            "value": 8
+        },
+        {
+            "source": "Jory-Cassel",
+            "target": "Robb-Stark",
+            "value": 9
+        },
+        {
+            "source": "Jory-Cassel",
+            "target": "Robert-Baratheon",
+            "value": 7
+        },
+        {
+            "source": "Jory-Cassel",
+            "target": "Rodrik-Cassel",
+            "value": 5
+        },
+        {
+            "source": "Jory-Cassel",
+            "target": "Sansa-Stark",
+            "value": 9
+        },
+        {
+            "source": "Jory-Cassel",
+            "target": "Stannis-Baratheon",
+            "value": 3
+        },
+        {
+            "source": "Jory-Cassel",
+            "target": "Theon-Greyjoy",
+            "value": 3
+        },
+        {
+            "source": "Jory-Cassel",
+            "target": "Tomard",
+            "value": 5
+        },
+        {
+            "source": "Jory-Cassel",
+            "target": "Vayon-Poole",
+            "value": 5
+        },
+        {
+            "source": "Jory-Cassel",
+            "target": "Wyl-(guard)",
+            "value": 6
+        },
+        {
+            "source": "Joseth",
+            "target": "Luwin",
+            "value": 3
+        },
+        {
+            "source": "Jyck",
+            "target": "Morrec",
+            "value": 5
+        },
+        {
+            "source": "Jyck",
+            "target": "Tyrion-Lannister",
+            "value": 6
+        },
+        {
+            "source": "Karyl-Vance",
+            "target": "Marq-Piper",
+            "value": 3
+        },
+        {
+            "source": "Kevan-Lannister",
+            "target": "Tyrion-Lannister",
+            "value": 15
+        },
+        {
+            "source": "Kevan-Lannister",
+            "target": "Tywin-Lannister",
+            "value": 9
+        },
+        {
+            "source": "Kurleket",
+            "target": "Tyrion-Lannister",
+            "value": 5
+        },
+        {
+            "source": "Lancel-Lannister",
+            "target": "Robert-Baratheon",
+            "value": 3
+        },
+        {
+            "source": "Leo-Lefford",
+            "target": "Tyrion-Lannister",
+            "value": 4
+        },
+        {
+            "source": "Loras-Tyrell",
+            "target": "Mace-Tyrell",
+            "value": 3
+        },
+        {
+            "source": "Loras-Tyrell",
+            "target": "Petyr-Baelish",
+            "value": 5
+        },
+        {
+            "source": "Loras-Tyrell",
+            "target": "Renly-Baratheon",
+            "value": 5
+        },
+        {
+            "source": "Loras-Tyrell",
+            "target": "Robert-Baratheon",
+            "value": 4
+        },
+        {
+            "source": "Loras-Tyrell",
+            "target": "Rodrik-Cassel",
+            "value": 3
+        },
+        {
+            "source": "Loras-Tyrell",
+            "target": "Sandor-Clegane",
+            "value": 4
+        },
+        {
+            "source": "Loras-Tyrell",
+            "target": "Sansa-Stark",
+            "value": 14
+        },
+        {
+            "source": "Luwin",
+            "target": "Nan",
+            "value": 4
+        },
+        {
+            "source": "Luwin",
+            "target": "Osha",
+            "value": 16
+        },
+        {
+            "source": "Luwin",
+            "target": "Rickard-Karstark",
+            "value": 3
+        },
+        {
+            "source": "Luwin",
+            "target": "Rickon-Stark",
+            "value": 9
+        },
+        {
+            "source": "Luwin",
+            "target": "Robb-Stark",
+            "value": 20
+        },
+        {
+            "source": "Luwin",
+            "target": "Rodrik-Cassel",
+            "value": 3
+        },
+        {
+            "source": "Luwin",
+            "target": "Theon-Greyjoy",
+            "value": 10
+        },
+        {
+            "source": "Luwin",
+            "target": "Tommen-Baratheon",
+            "value": 3
+        },
+        {
+            "source": "Luwin",
+            "target": "Tyrion-Lannister",
+            "value": 10
+        },
+        {
+            "source": "Lyanna-Stark",
+            "target": "Robert-Baratheon",
+            "value": 9
+        },
+        {
+            "source": "Lyanna-Stark",
+            "target": "Sansa-Stark",
+            "value": 4
+        },
+        {
+            "source": "Lyn-Corbray",
+            "target": "Lysa-Arryn",
+            "value": 3
+        },
+        {
+            "source": "Lysa-Arryn",
+            "target": "Petyr-Baelish",
+            "value": 4
+        },
+        {
+            "source": "Lysa-Arryn",
+            "target": "Robert-Arryn",
+            "value": 8
+        },
+        {
+            "source": "Lysa-Arryn",
+            "target": "Robert-Baratheon",
+            "value": 5
+        },
+        {
+            "source": "Lysa-Arryn",
+            "target": "Stannis-Baratheon",
+            "value": 4
+        },
+        {
+            "source": "Lysa-Arryn",
+            "target": "Tyrion-Lannister",
+            "value": 25
+        },
+        {
+            "source": "Lysa-Arryn",
+            "target": "Vardis-Egen",
+            "value": 5
+        },
+        {
+            "source": "Mace-Tyrell",
+            "target": "Paxter-Redwyne",
+            "value": 3
+        },
+        {
+            "source": "Maege-Mormont",
+            "target": "Rickard-Karstark",
+            "value": 3
+        },
+        {
+            "source": "Maegor-I-Targaryen",
+            "target": "Sansa-Stark",
+            "value": 4
+        },
+        {
+            "source": "Marillion",
+            "target": "Rodrik-Cassel",
+            "value": 5
+        },
+        {
+            "source": "Marillion",
+            "target": "Tyrion-Lannister",
+            "value": 10
+        },
+        {
+            "source": "Marillion",
+            "target": "Willis-Wode",
+            "value": 4
+        },
+        {
+            "source": "Marq-Piper",
+            "target": "Tywin-Lannister",
+            "value": 3
+        },
+        {
+            "source": "Meryn-Trant",
+            "target": "Robert-Baratheon",
+            "value": 3
+        },
+        {
+            "source": "Meryn-Trant",
+            "target": "Sandor-Clegane",
+            "value": 4
+        },
+        {
+            "source": "Meryn-Trant",
+            "target": "Sansa-Stark",
+            "value": 5
+        },
+        {
+            "source": "Meryn-Trant",
+            "target": "Syrio-Forel",
+            "value": 5
+        },
+        {
+            "source": "Mirri-Maz-Duur",
+            "target": "Qotho",
+            "value": 9
+        },
+        {
+            "source": "Mord",
+            "target": "Tyrion-Lannister",
+            "value": 20
+        },
+        {
+            "source": "Mordane",
+            "target": "Myrcella-Baratheon",
+            "value": 12
+        },
+        {
+            "source": "Mordane",
+            "target": "Petyr-Baelish",
+            "value": 3
+        },
+        {
+            "source": "Mordane",
+            "target": "Robert-Baratheon",
+            "value": 7
+        },
+        {
+            "source": "Mordane",
+            "target": "Sansa-Stark",
+            "value": 43
+        },
+        {
+            "source": "Morrec",
+            "target": "Tyrion-Lannister",
+            "value": 5
+        },
+        {
+            "source": "Mycah",
+            "target": "Sandor-Clegane",
+            "value": 5
+        },
+        {
+            "source": "Mycah",
+            "target": "Sansa-Stark",
+            "value": 10
+        },
+        {
+            "source": "Myrcella-Baratheon",
+            "target": "Robert-Baratheon",
+            "value": 3
+        },
+        {
+            "source": "Myrcella-Baratheon",
+            "target": "Sansa-Stark",
+            "value": 8
+        },
+        {
+            "source": "Myrcella-Baratheon",
+            "target": "Tommen-Baratheon",
+            "value": 6
+        },
+        {
+            "source": "Nan",
+            "target": "Robb-Stark",
+            "value": 4
+        },
+        {
+            "source": "Osha",
+            "target": "Robb-Stark",
+            "value": 3
+        },
+        {
+            "source": "Petyr-Baelish",
+            "target": "Pycelle",
+            "value": 14
+        },
+        {
+            "source": "Petyr-Baelish",
+            "target": "Renly-Baratheon",
+            "value": 12
+        },
+        {
+            "source": "Petyr-Baelish",
+            "target": "Robert-Baratheon",
+            "value": 30
+        },
+        {
+            "source": "Petyr-Baelish",
+            "target": "Rodrik-Cassel",
+            "value": 7
+        },
+        {
+            "source": "Petyr-Baelish",
+            "target": "Sandor-Clegane",
+            "value": 3
+        },
+        {
+            "source": "Petyr-Baelish",
+            "target": "Sansa-Stark",
+            "value": 8
+        },
+        {
+            "source": "Petyr-Baelish",
+            "target": "Tomard",
+            "value": 4
+        },
+        {
+            "source": "Petyr-Baelish",
+            "target": "Tyrion-Lannister",
+            "value": 11
+        },
+        {
+            "source": "Petyr-Baelish",
+            "target": "Varys",
+            "value": 29
+        },
+        {
+            "source": "Pycelle",
+            "target": "Renly-Baratheon",
+            "value": 7
+        },
+        {
+            "source": "Pycelle",
+            "target": "Robert-Baratheon",
+            "value": 26
+        },
+        {
+            "source": "Pycelle",
+            "target": "Sansa-Stark",
+            "value": 8
+        },
+        {
+            "source": "Pycelle",
+            "target": "Stannis-Baratheon",
+            "value": 3
+        },
+        {
+            "source": "Pycelle",
+            "target": "Tywin-Lannister",
+            "value": 4
+        },
+        {
+            "source": "Pycelle",
+            "target": "Varys",
+            "value": 17
+        },
+        {
+            "source": "Pypar",
+            "target": "Rast",
+            "value": 4
+        },
+        {
+            "source": "Pypar",
+            "target": "Samwell-Tarly",
+            "value": 11
+        },
+        {
+            "source": "Pypar",
+            "target": "Todder",
+            "value": 8
+        },
+        {
+            "source": "Qotho",
+            "target": "Quaro",
+            "value": 4
+        },
+        {
+            "source": "Quaro",
+            "target": "Rakharo",
+            "value": 6
+        },
+        {
+            "source": "Randyll-Tarly",
+            "target": "Samwell-Tarly",
+            "value": 5
+        },
+        {
+            "source": "Rast",
+            "target": "Samwell-Tarly",
+            "value": 3
+        },
+        {
+            "source": "Raymun-Darry",
+            "target": "Robert-Baratheon",
+            "value": 8
+        },
+        {
+            "source": "Renly-Baratheon",
+            "target": "Robb-Stark",
+            "value": 3
+        },
+        {
+            "source": "Renly-Baratheon",
+            "target": "Robert-Baratheon",
+            "value": 42
+        },
+        {
+            "source": "Renly-Baratheon",
+            "target": "Sandor-Clegane",
+            "value": 7
+        },
+        {
+            "source": "Renly-Baratheon",
+            "target": "Sansa-Stark",
+            "value": 5
+        },
+        {
+            "source": "Renly-Baratheon",
+            "target": "Stannis-Baratheon",
+            "value": 19
+        },
+        {
+            "source": "Renly-Baratheon",
+            "target": "Tyrion-Lannister",
+            "value": 4
+        },
+        {
+            "source": "Renly-Baratheon",
+            "target": "Varys",
+            "value": 9
+        },
+        {
+            "source": "Rhaegar-Targaryen",
+            "target": "Robert-Baratheon",
+            "value": 22
+        },
+        {
+            "source": "Rhaegar-Targaryen",
+            "target": "Sansa-Stark",
+            "value": 3
+        },
+        {
+            "source": "Rhaegar-Targaryen",
+            "target": "Tywin-Lannister",
+            "value": 4
+        },
+        {
+            "source": "Rhaegar-Targaryen",
+            "target": "Viserys-Targaryen",
+            "value": 5
+        },
+        {
+            "source": "Rickard-Karstark",
+            "target": "Robb-Stark",
+            "value": 9
+        },
+        {
+            "source": "Rickard-Karstark",
+            "target": "Roose-Bolton",
+            "value": 3
+        },
+        {
+            "source": "Rickon-Stark",
+            "target": "Robb-Stark",
+            "value": 20
+        },
+        {
+            "source": "Rickon-Stark",
+            "target": "Sansa-Stark",
+            "value": 8
+        },
+        {
+            "source": "Rickon-Stark",
+            "target": "Tyrion-Lannister",
+            "value": 4
+        },
+        {
+            "source": "Robb-Stark",
+            "target": "Robert-Baratheon",
+            "value": 6
+        },
+        {
+            "source": "Robb-Stark",
+            "target": "Rodrik-Cassel",
+            "value": 15
+        },
+        {
+            "source": "Robb-Stark",
+            "target": "Roose-Bolton",
+            "value": 6
+        },
+        {
+            "source": "Robb-Stark",
+            "target": "Samwell-Tarly",
+            "value": 4
+        },
+        {
+            "source": "Robb-Stark",
+            "target": "Sansa-Stark",
+            "value": 13
+        },
+        {
+            "source": "Robb-Stark",
+            "target": "Stiv",
+            "value": 3
+        },
+        {
+            "source": "Robb-Stark",
+            "target": "Theon-Greyjoy",
+            "value": 37
+        },
+        {
+            "source": "Robb-Stark",
+            "target": "Torrhen-Karstark",
+            "value": 3
+        },
+        {
+            "source": "Robb-Stark",
+            "target": "Tyrion-Lannister",
+            "value": 11
+        },
+        {
+            "source": "Robb-Stark",
+            "target": "Tywin-Lannister",
+            "value": 9
+        },
+        {
+            "source": "Robb-Stark",
+            "target": "Walder-Frey",
+            "value": 7
+        },
+        {
+            "source": "Robb-Stark",
+            "target": "Wendel-Manderly",
+            "value": 3
+        },
+        {
+            "source": "Robb-Stark",
+            "target": "Yoren",
+            "value": 3
+        },
+        {
+            "source": "Robert-Arryn",
+            "target": "Tyrion-Lannister",
+            "value": 9
+        },
+        {
+            "source": "Robert-Baratheon",
+            "target": "Sandor-Clegane",
+            "value": 9
+        },
+        {
+            "source": "Robert-Baratheon",
+            "target": "Sansa-Stark",
+            "value": 26
+        },
+        {
+            "source": "Robert-Baratheon",
+            "target": "Stannis-Baratheon",
+            "value": 21
+        },
+        {
+            "source": "Robert-Baratheon",
+            "target": "Tommen-Baratheon",
+            "value": 3
+        },
+        {
+            "source": "Robert-Baratheon",
+            "target": "Tyrion-Lannister",
+            "value": 18
+        },
+        {
+            "source": "Robert-Baratheon",
+            "target": "Tywin-Lannister",
+            "value": 13
+        },
+        {
+            "source": "Robert-Baratheon",
+            "target": "Varys",
+            "value": 36
+        },
+        {
+            "source": "Robert-Baratheon",
+            "target": "Vayon-Poole",
+            "value": 3
+        },
+        {
+            "source": "Robert-Baratheon",
+            "target": "Viserys-Targaryen",
+            "value": 7
+        },
+        {
+            "source": "Rodrik-Cassel",
+            "target": "Theon-Greyjoy",
+            "value": 6
+        },
+        {
+            "source": "Rodrik-Cassel",
+            "target": "Tyrion-Lannister",
+            "value": 10
+        },
+        {
+            "source": "Rodrik-Cassel",
+            "target": "Willis-Wode",
+            "value": 7
+        },
+        {
+            "source": "Roose-Bolton",
+            "target": "Tywin-Lannister",
+            "value": 4
+        },
+        {
+            "source": "Sandor-Clegane",
+            "target": "Sansa-Stark",
+            "value": 23
+        },
+        {
+            "source": "Sandor-Clegane",
+            "target": "Tyrion-Lannister",
+            "value": 5
+        },
+        {
+            "source": "Sansa-Stark",
+            "target": "Stannis-Baratheon",
+            "value": 3
+        },
+        {
+            "source": "Sansa-Stark",
+            "target": "Tomard",
+            "value": 3
+        },
+        {
+            "source": "Sansa-Stark",
+            "target": "Tyrion-Lannister",
+            "value": 3
+        },
+        {
+            "source": "Sansa-Stark",
+            "target": "Varys",
+            "value": 4
+        },
+        {
+            "source": "Shae",
+            "target": "Tyrion-Lannister",
+            "value": 12
+        },
+        {
+            "source": "Shagga",
+            "target": "Timett",
+            "value": 4
+        },
+        {
+            "source": "Shagga",
+            "target": "Tyrion-Lannister",
+            "value": 17
+        },
+        {
+            "source": "Shagga",
+            "target": "Ulf-son-of-Umar",
+            "value": 4
+        },
+        {
+            "source": "Stannis-Baratheon",
+            "target": "Tywin-Lannister",
+            "value": 4
+        },
+        {
+            "source": "Stannis-Baratheon",
+            "target": "Varys",
+            "value": 5
+        },
+        {
+            "source": "Stevron-Frey",
+            "target": "Walder-Frey",
+            "value": 3
+        },
+        {
+            "source": "Theon-Greyjoy",
+            "target": "Tyrion-Lannister",
+            "value": 3
+        },
+        {
+            "source": "Theon-Greyjoy",
+            "target": "Tywin-Lannister",
+            "value": 3
+        },
+        {
+            "source": "Theon-Greyjoy",
+            "target": "Walder-Frey",
+            "value": 4
+        },
+        {
+            "source": "Timett",
+            "target": "Tyrion-Lannister",
+            "value": 3
+        },
+        {
+            "source": "Tommen-Baratheon",
+            "target": "Tyrion-Lannister",
+            "value": 3
+        },
+        {
+            "source": "Tyrion-Lannister",
+            "target": "Tywin-Lannister",
+            "value": 40
+        },
+        {
+            "source": "Tyrion-Lannister",
+            "target": "Vardis-Egen",
+            "value": 9
+        },
+        {
+            "source": "Tyrion-Lannister",
+            "target": "Varys",
+            "value": 3
+        },
+        {
+            "source": "Tyrion-Lannister",
+            "target": "Willis-Wode",
+            "value": 4
+        },
+        {
+            "source": "Tyrion-Lannister",
+            "target": "Yoren",
+            "value": 10
+        },
+        {
+            "source": "Tywin-Lannister",
+            "target": "Varys",
+            "value": 4
+        },
+        {
+            "source": "Tywin-Lannister",
+            "target": "Walder-Frey",
+            "value": 8
+        },
+        {
+            "source": "Waymar-Royce",
+            "target": "Will-(prologue)",
+            "value": 18
+        }
+    ]
+}
