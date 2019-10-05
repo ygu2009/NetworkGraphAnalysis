@@ -8,4 +8,4 @@ Game of Thrones Character Relationships
 ![Demo](./pics/BOOK1.png)
 
 #### Example: Hightlight node from graph
-![Demo](./pics/Tyrion.png)
+![Demo](./pics/Tyrion_zoom.png)
